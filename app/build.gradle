@@ -27,6 +27,7 @@ dependencies {
 
     // Dependencies
     implementation "com.android.support:appcompat-v7:$supportVersion"
+    implementation "com.android.support:design:$supportVersion"
     // Timber
     implementation "com.jakewharton.timber:timber:$timberVersion"
     // Dagger

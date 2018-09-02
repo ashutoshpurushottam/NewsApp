@@ -9,12 +9,6 @@ import com.eigendaksh.newsapp.base.BaseActivity;
 public class MainActivity extends BaseActivity {
 
 
-    @SuppressLint("CheckResult")
-    @Override
-    protected void onResume() {
-        super.onResume();
-    }
-
     @Override
     protected int layoutRes() {
         return R.layout.activity_main;
