@@ -15,11 +15,10 @@ import javax.inject.Provider;
 import dagger.android.AndroidInjector;
 
 /*
-Replaces default AndroidInjector for Activity
-to avoid recreation of components on config changes.
+    Replaces default AndroidInjector for Activity
+    to avoid recreation of components on config changes.
  */
 public class ActivityInjector {
-
     private final Map<Class<? extends Activity>, Provider<AndroidInjector.Factory<? extends Activity>>> activityInjectors;
     private final Map<String, AndroidInjector<? extends Activity>> cache = new HashMap<>();
 
@@ -58,4 +57,6 @@ public class ActivityInjector {
     static ActivityInjector get(Context context) {
         return ((MyApplication) context.getApplicationContext()).getActivityInjector();
     }
+
+
 }

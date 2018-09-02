@@ -2,6 +2,8 @@ package com.eigendaksh.newsapp.di;
 
 import android.app.Activity;
 
+import com.bluelinelabs.conductor.Controller;
+
 public class Injector {
 
     private Injector() {
@@ -17,4 +19,11 @@ public class Injector {
     }
 
 
+    public static void inject(Controller controller) {
+        ScreenInjector.get(controller.getActivity()).inject(controller);
+    }
+
+    public static void clearComponent(Controller controller) {
+
+    }
 }

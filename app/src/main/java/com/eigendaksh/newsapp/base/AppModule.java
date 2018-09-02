@@ -3,8 +3,6 @@ package com.eigendaksh.newsapp.base;
 import android.app.Application;
 import android.content.Context;
 
-import javax.inject.Named;
-
 import dagger.Module;
 import dagger.Provides;
 
@@ -22,13 +20,4 @@ public class AppModule {
         return application;
     }
 
-    @Provides
-    @Named("author") String provideAuthorName() {
-        return "Ashutosh Purushottam";
-    }
-
-    @Provides
-    @Named("subauthor") String provideSubAuthor() {
-        return "Sheetal";
-    }
 }
