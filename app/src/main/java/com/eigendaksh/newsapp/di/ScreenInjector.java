@@ -14,6 +14,7 @@ import javax.inject.Provider;
 
 import dagger.android.AndroidInjector;
 
+@ActivityScope
 public class ScreenInjector {
 
     private final Map<Class<? extends Controller>, Provider<AndroidInjector.Factory<? extends Controller>>> screenInjectors;

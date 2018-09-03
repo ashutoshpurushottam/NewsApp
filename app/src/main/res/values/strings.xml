@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NewsApp</string>
+    <string name="api_error_story">Failed to download news from NYTimes API. Please try again later.</string>
 </resources>

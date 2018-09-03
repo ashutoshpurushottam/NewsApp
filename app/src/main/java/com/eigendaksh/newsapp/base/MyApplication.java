@@ -18,15 +18,18 @@ public class MyApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
+
+        initComponent();
+        appComponent.inject(this);
+
+        setUpLogging();
+    }
+
+    private void initComponent() {
         // Build the component (application level)
         appComponent = DaggerAppComponent.builder()
                 .appModule(new AppModule(this))
                 .build();
-
-        appComponent.inject(this);
-
-        setUpLogging();
-
     }
 
     private void setUpLogging() {

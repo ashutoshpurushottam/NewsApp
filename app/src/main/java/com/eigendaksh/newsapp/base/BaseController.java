@@ -28,7 +28,6 @@ public abstract class BaseController extends Controller {
 
     public BaseController(Bundle bundle) {
         super(bundle);
-
     }
 
     @Override

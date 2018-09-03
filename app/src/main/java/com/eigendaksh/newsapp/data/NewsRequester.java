@@ -1,6 +1,8 @@
 package com.eigendaksh.newsapp.data;
 
+import com.eigendaksh.newsapp.apiResponses.PopularStoriesApiResponse;
 import com.eigendaksh.newsapp.apiResponses.TopStoriesApiResponse;
+import com.eigendaksh.newsapp.model.PopularStory;
 import com.eigendaksh.newsapp.model.TopStory;
 
 import java.util.List;
@@ -8,8 +10,8 @@ import java.util.List;
 import javax.inject.Inject;
 
 import io.reactivex.Single;
-import io.reactivex.functions.Function;
 import io.reactivex.schedulers.Schedulers;
+import timber.log.Timber;
 
 public class NewsRequester {
 
@@ -22,12 +24,14 @@ public class NewsRequester {
 
     public Single<List<TopStory>> getTopStories() {
         return service.getTopStories()
-                .map(new Function<TopStoriesApiResponse, List<TopStory>>() {
-                    @Override
-                    public List<TopStory> apply(TopStoriesApiResponse topStoriesApiResponse) {
-                        return topStoriesApiResponse.topStories();
-                    }
-                })
+                .map(TopStoriesApiResponse::topStories)
+                .subscribeOn(Schedulers.io());
+    }
+
+    public Single<List<PopularStory>> getPopularStories() {
+        return service.getPopularStories()
+                .map(PopularStoriesApiResponse::popularStories)
+                .doOnError(throwable -> Timber.e(throwable.getLocalizedMessage()))
                 .subscribeOn(Schedulers.io());
     }
 }

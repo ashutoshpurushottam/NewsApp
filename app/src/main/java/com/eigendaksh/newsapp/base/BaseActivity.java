@@ -23,14 +23,15 @@ import javax.inject.Inject;
 
 public abstract class BaseActivity extends AppCompatActivity {
 
-    @Inject ScreenInjector screenInjector;
     private static final String INSTANCE_ID_KEY = "instance_id";
+
+    @Inject ScreenInjector screenInjector;
     private String instanceId;
     private Router router;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
-        if(savedInstanceState != null) {
+        if (savedInstanceState != null) {
             instanceId = savedInstanceState.getString(INSTANCE_ID_KEY);
         } else {
             instanceId = UUID.randomUUID().toString();
@@ -39,7 +40,7 @@ public abstract class BaseActivity extends AppCompatActivity {
 
         setContentView(layoutRes());
         ActionBar actionBar = getSupportActionBar();
-        if(actionBar != null) {
+        if (actionBar != null) {
             actionBar.setDisplayHomeAsUpEnabled(true);
         }
 
@@ -49,7 +50,7 @@ public abstract class BaseActivity extends AppCompatActivity {
         }
 
         router = Conductor.attachRouter(this, screenContainer, savedInstanceState);
-        if(!router.hasRootController()) {
+        if (!router.hasRootController()) {
             router.setRoot(RouterTransaction.with(initialScreen()));
         }
         monitorBackStack();
@@ -60,6 +61,43 @@ public abstract class BaseActivity extends AppCompatActivity {
     protected abstract int layoutRes();
 
     protected abstract Controller initialScreen();
+
+
+    @Override
+    protected void onSaveInstanceState(Bundle outState) {
+        super.onSaveInstanceState(outState);
+        outState.putString(INSTANCE_ID_KEY, instanceId);
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        if (isFinishing()) {
+            Injector.clearComponent(this);
+        }
+    }
+
+    @Override
+    public boolean onSupportNavigateUp() {
+        onBackPressed();
+        return true;
+    }
+
+    @Override
+    public void onBackPressed() {
+        if (router == null || !router.handleBack()) {
+            super.onBackPressed();
+        }
+    }
+
+    public String getInstanceId() {
+        return instanceId;
+    }
+
+
+    public ScreenInjector getScreenInjector() {
+        return screenInjector;
+    }
 
     private void monitorBackStack() {
         router.addChangeListener(new ControllerChangeHandler.ControllerChangeListener() {
@@ -87,41 +125,4 @@ public abstract class BaseActivity extends AppCompatActivity {
         });
     }
 
-
-
-    @Override
-    protected void onSaveInstanceState(Bundle outState) {
-        super.onSaveInstanceState(outState);
-        outState.putString(INSTANCE_ID_KEY, instanceId);
-    }
-
-    @Override
-    protected void onDestroy() {
-        super.onDestroy();
-        if(isFinishing()) {
-            Injector.clearComponent(this);
-        }
-    }
-
-    @Override
-    public boolean onSupportNavigateUp() {
-        onBackPressed();
-        return true;
-    }
-
-    @Override
-    public void onBackPressed() {
-        if(router == null || !router.handleBack()) {
-            super.onBackPressed();
-        }
-    }
-
-    public String getInstanceId() {
-        return instanceId;
-    }
-
-
-    public ScreenInjector getScreenInjector() {
-        return screenInjector;
-    }
 }

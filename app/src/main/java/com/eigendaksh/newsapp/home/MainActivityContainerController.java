@@ -11,19 +11,14 @@ import com.bluelinelabs.conductor.RouterTransaction;
 import com.eigendaksh.newsapp.R;
 import com.eigendaksh.newsapp.base.BaseController;
 import com.eigendaksh.newsapp.data.NewsRequester;
-import com.eigendaksh.newsapp.model.TopStory;
 import com.eigendaksh.newsapp.screens.business.BusinessStoriesController;
 import com.eigendaksh.newsapp.screens.popular.PopularStoriesController;
 import com.eigendaksh.newsapp.screens.sports.SportsStoriesController;
 import com.eigendaksh.newsapp.screens.topstories.TopStoriesController;
 
-import java.util.Locale;
-
 import javax.inject.Inject;
 
 import butterknife.BindView;
-import io.reactivex.android.schedulers.AndroidSchedulers;
-import timber.log.Timber;
 
 public class MainActivityContainerController extends BaseController {
 
@@ -88,20 +83,6 @@ public class MainActivityContainerController extends BaseController {
         super.onViewBound(view);
         viewPager.setAdapter(pagerAdapter);
         tabLayout.setupWithViewPager(viewPager);
-        requester.getTopStories()
-                .observeOn(AndroidSchedulers.mainThread())
-                .doOnSubscribe(__ -> {
-                    Timber.d("Subscribe to request");
-                })
-                .doOnSuccess(topStories -> {
-                    for (TopStory story : topStories) {
-                        Timber.d(story.articleUrl());
-                    }
-                })
-                .doOnError((Throwable throwable) -> {
-                    Timber.e(throwable.getLocalizedMessage());
-                }).subscribe();
-
     }
 
     @Override

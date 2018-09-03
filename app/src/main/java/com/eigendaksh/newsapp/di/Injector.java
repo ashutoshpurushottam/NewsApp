@@ -24,6 +24,6 @@ public class Injector {
     }
 
     public static void clearComponent(Controller controller) {
-
+        ScreenInjector.get(controller.getActivity()).clear(controller);
     }
 }

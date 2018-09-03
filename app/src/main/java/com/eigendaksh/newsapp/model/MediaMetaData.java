@@ -6,13 +6,12 @@ import com.squareup.moshi.JsonAdapter;
 import com.squareup.moshi.Moshi;
 
 @AutoValue
-public abstract class Multimedia {
+public abstract class MediaMetaData {
     @Json(name = "url")
     public abstract String photoUrl();
-    public abstract String caption();
-    public abstract String copyright();
 
-    public static JsonAdapter<Multimedia> jsonAdapter(Moshi moshi) {
-        return new AutoValue_Multimedia.MoshiJsonAdapter(moshi);
+    public static JsonAdapter<MediaMetaData> jsonAdapter(Moshi moshi) {
+        return new AutoValue_MediaMetaData.MoshiJsonAdapter(moshi);
     }
+
 }
