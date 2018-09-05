@@ -1,4 +1,4 @@
-package com.eigendaksh.newsapp.model;
+package com.eigendaksh.newsapp.model.popular;
 
 import com.google.auto.value.AutoValue;
 import com.squareup.moshi.Json;

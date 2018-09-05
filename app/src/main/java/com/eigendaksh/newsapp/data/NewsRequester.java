@@ -1,9 +1,9 @@
 package com.eigendaksh.newsapp.data;
 
 import com.eigendaksh.newsapp.apiResponses.PopularStoriesApiResponse;
-import com.eigendaksh.newsapp.apiResponses.TopStoriesApiResponse;
-import com.eigendaksh.newsapp.model.PopularStory;
-import com.eigendaksh.newsapp.model.TopStory;
+import com.eigendaksh.newsapp.apiResponses.StoriesApiResponse;
+import com.eigendaksh.newsapp.model.others.Story;
+import com.eigendaksh.newsapp.model.popular.PopularStory;
 
 import java.util.List;
 
@@ -22,11 +22,25 @@ public class NewsRequester {
         this.service = service;
     }
 
-    public Single<List<TopStory>> getTopStories() {
+    public Single<List<Story>> getTopStories() {
         return service.getTopStories()
-                .map(TopStoriesApiResponse::topStories)
+                .map(StoriesApiResponse::stories)
                 .subscribeOn(Schedulers.io());
     }
+
+    public Single<List<Story>> getBusinessStories() {
+        return service.getBusinessStories()
+                .map(StoriesApiResponse::stories)
+                .subscribeOn(Schedulers.io());
+    }
+
+    public Single<List<Story>> getSportsStories() {
+        return service.getSportsStories()
+                .map(StoriesApiResponse::stories)
+                .subscribeOn(Schedulers.io());
+    }
+
+
 
     public Single<List<PopularStory>> getPopularStories() {
         return service.getPopularStories()
@@ -34,4 +48,6 @@ public class NewsRequester {
                 .doOnError(throwable -> Timber.e(throwable.getLocalizedMessage()))
                 .subscribeOn(Schedulers.io());
     }
+
+
 }

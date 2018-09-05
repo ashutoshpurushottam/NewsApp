@@ -1,4 +1,4 @@
-package com.eigendaksh.newsapp.model;
+package com.eigendaksh.newsapp.model.others;
 
 import com.google.auto.value.AutoValue;
 import com.squareup.moshi.Json;
@@ -10,7 +10,7 @@ import org.threeten.bp.ZonedDateTime;
 import java.util.List;
 
 @AutoValue
-public abstract class TopStory {
+public abstract class Story {
 
     @Json(name="url")
     public abstract String articleUrl();
@@ -22,10 +22,10 @@ public abstract class TopStory {
     @Json(name = "updated_date")
     public abstract ZonedDateTime updatedDate();
     @Json(name = "multimedia")
-    public abstract List<Multimedia> associatedImages();
+    public abstract List<Thumbnail> associatedImages();
 
-    public static JsonAdapter<TopStory> jsonAdapter(Moshi moshi) {
-        return new AutoValue_TopStory.MoshiJsonAdapter(moshi);
+    public static JsonAdapter<Story> jsonAdapter(Moshi moshi) {
+        return new AutoValue_Story.MoshiJsonAdapter(moshi);
     }
 
 }

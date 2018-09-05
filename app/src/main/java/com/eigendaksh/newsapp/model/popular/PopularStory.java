@@ -1,9 +1,11 @@
-package com.eigendaksh.newsapp.model;
+package com.eigendaksh.newsapp.model.popular;
 
 import com.google.auto.value.AutoValue;
 import com.squareup.moshi.Json;
 import com.squareup.moshi.JsonAdapter;
 import com.squareup.moshi.Moshi;
+
+import org.threeten.bp.ZonedDateTime;
 
 import java.util.List;
 
@@ -17,6 +19,8 @@ public abstract class PopularStory {
     @Json(name="url")
     public abstract String articleUrl();
     public abstract String type();
+    @Json(name = "published_date")
+    public abstract String publishedAt();
     @Nullable
     @Json(name = "media")
     public abstract List<Media> associatedMediaList();

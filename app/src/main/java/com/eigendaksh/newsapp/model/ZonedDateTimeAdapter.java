@@ -3,6 +3,7 @@ package com.eigendaksh.newsapp.model;
 import com.squareup.moshi.FromJson;
 import com.squareup.moshi.ToJson;
 
+
 import org.threeten.bp.ZonedDateTime;
 
 import io.reactivex.annotations.NonNull;

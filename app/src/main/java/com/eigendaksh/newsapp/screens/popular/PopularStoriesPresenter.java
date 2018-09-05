@@ -4,8 +4,7 @@ import android.annotation.SuppressLint;
 
 import com.eigendaksh.newsapp.data.NewsRequester;
 import com.eigendaksh.newsapp.di.ScreenScope;
-import com.eigendaksh.newsapp.screens.topstories.TopStoriesAdapter;
-import com.eigendaksh.newsapp.model.TopStory;
+import com.eigendaksh.newsapp.model.others.Story;
 import com.eigendaksh.newsapp.screens.StoriesViewModel;
 
 import javax.inject.Inject;
@@ -34,7 +33,7 @@ public class PopularStoriesPresenter implements PopularStoriesAdapter.StoryClick
 
 
     @Override
-    public void onStoryClicked(TopStory topStory) {
+    public void onStoryClicked(Story story) {
 
     }
 }

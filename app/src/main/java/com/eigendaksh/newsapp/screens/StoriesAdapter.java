@@ -1,4 +1,4 @@
-package com.eigendaksh.newsapp.screens.topstories;
+package com.eigendaksh.newsapp.screens;
 
 import android.support.annotation.NonNull;
 import android.support.v7.util.DiffUtil;
@@ -10,8 +10,11 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
+import com.bumptech.glide.Priority;
+import com.bumptech.glide.load.engine.DiskCacheStrategy;
+import com.bumptech.glide.request.RequestOptions;
 import com.eigendaksh.newsapp.R;
-import com.eigendaksh.newsapp.model.TopStory;
+import com.eigendaksh.newsapp.model.others.Story;
 import com.eigendaksh.newsapp.utils.Utilities;
 
 import java.util.ArrayList;
@@ -20,12 +23,12 @@ import java.util.List;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
-public class TopStoriesAdapter extends RecyclerView.Adapter<TopStoriesAdapter.NewsViewHolder> {
+public class StoriesAdapter extends RecyclerView.Adapter<StoriesAdapter.NewsViewHolder> {
 
-    private final List<TopStory> data = new ArrayList<>();
+    private final List<Story> data = new ArrayList<>();
     private final StoryClickedListener listener;
 
-    public TopStoriesAdapter(StoryClickedListener listener) {
+    public StoriesAdapter(StoryClickedListener listener) {
         this.listener = listener;
         setHasStableIds(true);
     }
@@ -53,9 +56,9 @@ public class TopStoriesAdapter extends RecyclerView.Adapter<TopStoriesAdapter.Ne
         return data.get(position).hashCode();
     }
 
-    public void setData(List<TopStory> stories) {
+    public void setData(List<Story> stories) {
         if (stories != null) {
-            DiffUtil.DiffResult diffResult = DiffUtil.calculateDiff(new TopStoryDiffCallBack(data,
+            DiffUtil.DiffResult diffResult = DiffUtil.calculateDiff(new StoryDiffCallBack(data,
                     stories));
             data.clear();
             data.addAll(stories);
@@ -78,7 +81,7 @@ public class TopStoriesAdapter extends RecyclerView.Adapter<TopStoriesAdapter.Ne
         @BindView(R.id.list_item_news_text)
         TextView titleText;
 
-        private TopStory topStory;
+        private Story story;
 
         public NewsViewHolder(View itemView) {
             super(itemView);
@@ -86,13 +89,20 @@ public class TopStoriesAdapter extends RecyclerView.Adapter<TopStoriesAdapter.Ne
 
         }
 
-        void bind(TopStory topStory) {
-            this.topStory = topStory;
-            titleText.setText(topStory.title());
-            dateText.setText(Utilities.getDateFromStory(topStory));
-            sectionText.setText(topStory.section());
+        void bind(Story story) {
+            this.story = story;
+            titleText.setText(story.title());
+            dateText.setText(Utilities.getDateFromStory(story));
+            sectionText.setText(story.section());
+            // Use Glide to load image
+            RequestOptions options = new RequestOptions()
+                    .centerCrop()
+                    .placeholder(R.drawable.ic_paper)
+                    .diskCacheStrategy(DiskCacheStrategy.ALL)
+                    .priority(Priority.NORMAL);
             Glide.with(newsImage.getContext())
-                    .load(Utilities.getImageUrl(topStory))
+                    .load(Utilities.getImageUrl(story))
+                    .apply(options)
                     .into(newsImage);
         }
 
@@ -100,7 +110,7 @@ public class TopStoriesAdapter extends RecyclerView.Adapter<TopStoriesAdapter.Ne
 
     public interface StoryClickedListener {
 
-        void onStoryClicked(TopStory topStory);
+        void onStoryClicked(Story story);
     }
 
 }

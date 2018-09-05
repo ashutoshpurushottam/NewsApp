@@ -7,6 +7,7 @@ import android.widget.TextView;
 
 import com.eigendaksh.newsapp.R;
 import com.eigendaksh.newsapp.base.BaseController;
+import com.eigendaksh.newsapp.screens.StoriesAdapter;
 import com.eigendaksh.newsapp.screens.StoriesViewModel;
 
 import javax.inject.Inject;
@@ -17,12 +18,17 @@ import io.reactivex.disposables.Disposable;
 
 public class TopStoriesController extends BaseController {
 
-    @Inject StoriesViewModel viewModel;
-    @Inject TopStoriesPresenter presenter;
+    @Inject
+    StoriesViewModel viewModel;
+    @Inject
+    TopStoriesPresenter presenter;
 
-    @BindView(R.id.news_list) RecyclerView newsList;
-    @BindView(R.id.loading_indicator) View loadingView;
-    @BindView(R.id.tv_error) TextView errorText;
+    @BindView(R.id.news_list)
+    RecyclerView newsList;
+    @BindView(R.id.loading_indicator)
+    View loadingView;
+    @BindView(R.id.tv_error)
+    TextView errorText;
 
     @Override
     protected int layoutRes() {
@@ -32,12 +38,12 @@ public class TopStoriesController extends BaseController {
     @Override
     protected void onViewBound(View view) {
         newsList.setLayoutManager(new LinearLayoutManager(view.getContext()));
-        newsList.setAdapter(new TopStoriesAdapter(presenter));
+        newsList.setAdapter(new StoriesAdapter(presenter));
     }
 
     @Override
     protected Disposable[] subscriptions() {
-        return new Disposable[] {
+        return new Disposable[]{
                 viewModel.loading()
                         .observeOn(AndroidSchedulers.mainThread())
                         .subscribe(loading -> {
@@ -47,11 +53,11 @@ public class TopStoriesController extends BaseController {
                 }),
                 viewModel.stories()
                         .observeOn(AndroidSchedulers.mainThread())
-                        .subscribe(((TopStoriesAdapter) newsList.getAdapter())::setData),
+                        .subscribe(((StoriesAdapter) newsList.getAdapter())::setData),
                 viewModel.error()
                         .observeOn(AndroidSchedulers.mainThread())
                         .subscribe(errorRes -> {
-                    if(errorRes == -1) {
+                    if (errorRes == -1) {
                         errorText.setText(null);
                         errorText.setVisibility(View.GONE);
                     } else {

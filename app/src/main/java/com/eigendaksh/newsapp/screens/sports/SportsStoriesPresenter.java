@@ -1,4 +1,4 @@
-package com.eigendaksh.newsapp.screens.topstories;
+package com.eigendaksh.newsapp.screens.sports;
 
 import android.annotation.SuppressLint;
 
@@ -11,21 +11,21 @@ import com.eigendaksh.newsapp.screens.StoriesViewModel;
 import javax.inject.Inject;
 
 @ScreenScope
-public class TopStoriesPresenter implements StoriesAdapter.StoryClickedListener {
+public class SportsStoriesPresenter implements StoriesAdapter.StoryClickedListener {
 
     private final StoriesViewModel viewModel;
     private final NewsRequester newsRequester;
 
     @Inject
-    public TopStoriesPresenter(StoriesViewModel viewModel, NewsRequester newsRequester) {
+    public SportsStoriesPresenter(StoriesViewModel viewModel, NewsRequester newsRequester) {
         this.viewModel = viewModel;
         this.newsRequester = newsRequester;
-        loadTopStories();
+        loadSportsStories();
     }
 
     @SuppressLint("CheckResult")
-    private void loadTopStories() {
-        newsRequester.getTopStories()
+    private void loadSportsStories() {
+        newsRequester.getSportsStories()
                 .doOnSubscribe(__ -> viewModel.loadingUpdated().accept(true))
                 .doOnEvent((d, t) -> viewModel.loadingUpdated().accept(false))
                 .subscribe(viewModel.storyUpdated(), viewModel.onError());
@@ -36,4 +36,5 @@ public class TopStoriesPresenter implements StoriesAdapter.StoryClickedListener 
     public void onStoryClicked(Story story) {
 
     }
+
 }

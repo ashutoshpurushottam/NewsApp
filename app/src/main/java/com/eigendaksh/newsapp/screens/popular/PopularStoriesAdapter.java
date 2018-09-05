@@ -10,10 +10,12 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
+import com.bumptech.glide.Priority;
+import com.bumptech.glide.load.engine.DiskCacheStrategy;
+import com.bumptech.glide.request.RequestOptions;
 import com.eigendaksh.newsapp.R;
-import com.eigendaksh.newsapp.screens.topstories.TopStoryDiffCallBack;
-import com.eigendaksh.newsapp.model.PopularStory;
-import com.eigendaksh.newsapp.model.TopStory;
+import com.eigendaksh.newsapp.model.popular.PopularStory;
+import com.eigendaksh.newsapp.model.others.Story;
 import com.eigendaksh.newsapp.utils.Utilities;
 
 import java.util.ArrayList;
@@ -79,7 +81,7 @@ public class PopularStoriesAdapter extends RecyclerView.Adapter<PopularStoriesAd
         @BindView(R.id.list_item_news_text)
         TextView titleText;
 
-        private PopularStory topStory;
+        private PopularStory popularStory;
 
         public NewsViewHolder(View itemView) {
             super(itemView);
@@ -87,21 +89,27 @@ public class PopularStoriesAdapter extends RecyclerView.Adapter<PopularStoriesAd
 
         }
 
-        void bind(PopularStory topStory) {
-            this.topStory = topStory;
-            titleText.setText(topStory.title());
-//            dateText.setText(Utilities.getDateFromStory(topStory));
-//            sectionText.setText(topStory.section());
-//            Glide.with(newsImage.getContext())
-//                    .load(Utilities.getImageUrl(topStory))
-//                    .into(newsImage);
+        void bind(PopularStory popularStory) {
+            this.popularStory = popularStory;
+            titleText.setText(popularStory.title());
+            dateText.setText(Utilities.getDateFromPopularStory(popularStory));
+            sectionText.setText(popularStory.section());
+            RequestOptions options = new RequestOptions()
+                    .centerCrop()
+                    .placeholder(R.drawable.ic_paper)
+                    .diskCacheStrategy(DiskCacheStrategy.ALL)
+                    .priority(Priority.NORMAL);
+            Glide.with(newsImage.getContext())
+                    .load(Utilities.getImageUrlFromPopularStory(popularStory))
+                    .apply(options)
+                    .into(newsImage);
         }
 
     }
 
     public interface StoryClickedListener {
 
-        void onStoryClicked(TopStory topStory);
+        void onStoryClicked(Story story);
     }
 
 }

@@ -1,4 +1,4 @@
-package com.eigendaksh.newsapp.model;
+package com.eigendaksh.newsapp.model.popular;
 
 import com.google.auto.value.AutoValue;
 import com.squareup.moshi.Json;
@@ -18,7 +18,7 @@ public abstract class Media {
     @Nullable
     public abstract String copyright();
     @Nullable
-    @Json(name = "media_metadata")
+    @Json(name = "media-metadata")
     public abstract List<MediaMetaData> metaDataList();
 
     public static JsonAdapter<Media> jsonAdapter(Moshi moshi) {

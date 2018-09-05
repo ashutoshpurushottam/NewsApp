@@ -2,8 +2,7 @@ package com.eigendaksh.newsapp.screens.popular;
 
 import android.support.v7.util.DiffUtil;
 
-import com.eigendaksh.newsapp.model.PopularStory;
-import com.eigendaksh.newsapp.model.TopStory;
+import com.eigendaksh.newsapp.model.popular.PopularStory;
 
 import java.util.List;
 

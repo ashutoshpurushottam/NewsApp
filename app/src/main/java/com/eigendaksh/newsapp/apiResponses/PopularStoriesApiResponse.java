@@ -1,6 +1,6 @@
 package com.eigendaksh.newsapp.apiResponses;
 
-import com.eigendaksh.newsapp.model.PopularStory;
+import com.eigendaksh.newsapp.model.popular.PopularStory;
 import com.google.auto.value.AutoValue;
 import com.squareup.moshi.Json;
 import com.squareup.moshi.JsonAdapter;

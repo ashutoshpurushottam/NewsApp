@@ -7,19 +7,13 @@ import android.widget.TextView;
 
 import com.eigendaksh.newsapp.R;
 import com.eigendaksh.newsapp.base.BaseController;
-import com.eigendaksh.newsapp.model.PopularStory;
 import com.eigendaksh.newsapp.screens.StoriesViewModel;
-import com.eigendaksh.newsapp.screens.topstories.TopStoriesAdapter;
-
-import java.util.List;
 
 import javax.inject.Inject;
 
 import butterknife.BindView;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.disposables.Disposable;
-import io.reactivex.functions.Consumer;
-import timber.log.Timber;
 
 public class PopularStoriesController extends BaseController {
 

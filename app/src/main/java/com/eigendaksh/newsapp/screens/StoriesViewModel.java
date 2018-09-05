@@ -2,8 +2,8 @@ package com.eigendaksh.newsapp.screens;
 
 import com.eigendaksh.newsapp.R;
 import com.eigendaksh.newsapp.di.ScreenScope;
-import com.eigendaksh.newsapp.model.PopularStory;
-import com.eigendaksh.newsapp.model.TopStory;
+import com.eigendaksh.newsapp.model.others.Story;
+import com.eigendaksh.newsapp.model.popular.PopularStory;
 import com.jakewharton.rxrelay2.BehaviorRelay;
 
 import java.util.List;
@@ -17,7 +17,7 @@ import timber.log.Timber;
 @ScreenScope
 public class StoriesViewModel {
 
-    private final BehaviorRelay<List<TopStory>> topStoryRelay = BehaviorRelay.create();
+    private final BehaviorRelay<List<Story>> storyRelay = BehaviorRelay.create();
     private final BehaviorRelay<List<PopularStory>> popularStoryRelay = BehaviorRelay.create();
     private final BehaviorRelay<Integer> errorRelay = BehaviorRelay.create();
     private final BehaviorRelay<Boolean> loadingRelay = BehaviorRelay.create();
@@ -31,8 +31,8 @@ public class StoriesViewModel {
         return loadingRelay;
     }
 
-    public Observable<List<TopStory>> stories() {
-        return topStoryRelay;
+    public Observable<List<Story>> stories() {
+        return storyRelay;
     }
 
     public Observable<List<PopularStory>> popularStories() {
@@ -48,9 +48,9 @@ public class StoriesViewModel {
         return loadingRelay;
     }
 
-    public Consumer<List<TopStory>> topStoryUpdated() {
+    public Consumer<List<Story>> storyUpdated() {
         errorRelay.accept(-1);
-        return topStoryRelay;
+        return storyRelay;
     }
 
     public Consumer<List<PopularStory>> popularStoriesUpdated() {

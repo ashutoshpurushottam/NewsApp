@@ -1,17 +1,17 @@
-package com.eigendaksh.newsapp.screens.topstories;
+package com.eigendaksh.newsapp.screens;
 
 import android.support.v7.util.DiffUtil;
 
-import com.eigendaksh.newsapp.model.TopStory;
+import com.eigendaksh.newsapp.model.others.Story;
 
 import java.util.List;
 
-public class TopStoryDiffCallBack extends DiffUtil.Callback {
+public class StoryDiffCallBack extends DiffUtil.Callback {
 
-    private final List<TopStory> oldList;
-    private final List<TopStory> newList;
+    private final List<Story> oldList;
+    private final List<Story> newList;
 
-    public TopStoryDiffCallBack(List<TopStory> oldList, List<TopStory> newList) {
+    public StoryDiffCallBack(List<Story> oldList, List<Story> newList) {
         this.oldList = oldList;
         this.newList = newList;
     }
