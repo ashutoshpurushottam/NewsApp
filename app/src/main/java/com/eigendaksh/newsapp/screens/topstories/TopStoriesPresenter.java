@@ -1,7 +1,10 @@
 package com.eigendaksh.newsapp.screens.topstories;
 
 import android.annotation.SuppressLint;
+import android.content.Context;
+import android.content.Intent;
 
+import com.eigendaksh.newsapp.article.WebViewActivity;
 import com.eigendaksh.newsapp.data.NewsRequester;
 import com.eigendaksh.newsapp.di.ScreenScope;
 import com.eigendaksh.newsapp.model.others.Story;
@@ -15,6 +18,9 @@ public class TopStoriesPresenter implements StoriesAdapter.StoryClickedListener 
 
     private final StoriesViewModel viewModel;
     private final NewsRequester newsRequester;
+
+    @Inject
+    Context appContext;
 
     @Inject
     public TopStoriesPresenter(StoriesViewModel viewModel, NewsRequester newsRequester) {
@@ -34,6 +40,8 @@ public class TopStoriesPresenter implements StoriesAdapter.StoryClickedListener 
 
     @Override
     public void onStoryClicked(Story story) {
-
+        Intent intent = new Intent(appContext, WebViewActivity.class);
+        intent.putExtra("url", story.articleUrl());
+        appContext.startActivity(intent);
     }
 }

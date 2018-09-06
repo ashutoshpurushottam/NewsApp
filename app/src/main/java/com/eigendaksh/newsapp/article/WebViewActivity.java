@@ -1,24 +1,20 @@
-package com.eigendaksh.newsapp.home;
+package com.eigendaksh.newsapp.article;
 
-import android.annotation.SuppressLint;
-import android.os.Bundle;
 
 import com.bluelinelabs.conductor.Controller;
 import com.eigendaksh.newsapp.R;
 import com.eigendaksh.newsapp.base.BaseActivity;
+import com.eigendaksh.newsapp.screens.article.ArticleController;
 
-public class MainActivity extends BaseActivity {
-
+public class WebViewActivity extends BaseActivity {
 
     @Override
     protected int layoutRes() {
-        return R.layout.activity_main;
+        return R.layout.activity_web_view;
     }
 
     @Override
     protected Controller initialScreen() {
-        return new MainActivityContainerController();
+        return new ArticleController();
     }
-
-
 }

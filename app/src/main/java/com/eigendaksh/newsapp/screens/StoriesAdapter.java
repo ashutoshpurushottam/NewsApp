@@ -38,7 +38,7 @@ public class StoriesAdapter extends RecyclerView.Adapter<StoriesAdapter.NewsView
     public NewsViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         View itemView = LayoutInflater.from(parent.getContext()).inflate(R.layout.list_item_news,
                 parent, false);
-        return new NewsViewHolder(itemView);
+        return new NewsViewHolder(itemView, listener);
     }
 
     @Override
@@ -83,9 +83,16 @@ public class StoriesAdapter extends RecyclerView.Adapter<StoriesAdapter.NewsView
 
         private Story story;
 
-        public NewsViewHolder(View itemView) {
+        public NewsViewHolder(View itemView, StoryClickedListener listener) {
             super(itemView);
             ButterKnife.bind(this, itemView);
+
+            itemView.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    listener.onStoryClicked(story);
+                }
+            });
 
         }
 

@@ -2,6 +2,8 @@ package com.eigendaksh.newsapp.base;
 
 import android.app.Activity;
 
+import com.eigendaksh.newsapp.article.WebViewActivity;
+import com.eigendaksh.newsapp.article.WebViewActivityComponent;
 import com.eigendaksh.newsapp.home.MainActivity;
 import com.eigendaksh.newsapp.home.MainActivityComponent;
 
@@ -13,6 +15,7 @@ import dagger.multibindings.IntoMap;
 
 @Module(subcomponents = {
         MainActivityComponent.class,
+        WebViewActivityComponent.class,
 })
 public abstract class ActivityBindingModule {
 
@@ -21,4 +24,10 @@ public abstract class ActivityBindingModule {
     @ActivityKey(MainActivity.class)
     abstract AndroidInjector.Factory<? extends Activity> provideMainActivityInjector
             (MainActivityComponent.Builder builder);
+
+    @Binds
+    @IntoMap
+    @ActivityKey(WebViewActivity.class)
+    abstract AndroidInjector.Factory<? extends Activity> provideWebViewActivityInjector
+            (WebViewActivityComponent.Builder builder);
 }
