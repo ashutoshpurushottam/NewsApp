@@ -1,5 +1,6 @@
 package com.eigendaksh.newsapp.screens;
 
+import android.content.Context;
 import android.support.annotation.NonNull;
 import android.support.v7.util.DiffUtil;
 import android.support.v7.widget.RecyclerView;
@@ -87,12 +88,8 @@ public class StoriesAdapter extends RecyclerView.Adapter<StoriesAdapter.NewsView
             super(itemView);
             ButterKnife.bind(this, itemView);
 
-            itemView.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View view) {
-                    listener.onStoryClicked(story);
-                }
-            });
+            itemView.setOnClickListener(view -> listener.onStoryClicked(itemView.getContext(),
+                    story.articleUrl()));
 
         }
 
@@ -114,10 +111,4 @@ public class StoriesAdapter extends RecyclerView.Adapter<StoriesAdapter.NewsView
         }
 
     }
-
-    public interface StoryClickedListener {
-
-        void onStoryClicked(Story story);
-    }
-
 }

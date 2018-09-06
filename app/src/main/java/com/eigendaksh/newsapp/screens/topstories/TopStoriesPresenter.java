@@ -2,19 +2,16 @@ package com.eigendaksh.newsapp.screens.topstories;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
-import android.content.Intent;
 
-import com.eigendaksh.newsapp.article.WebViewActivity;
 import com.eigendaksh.newsapp.data.NewsRequester;
 import com.eigendaksh.newsapp.di.ScreenScope;
-import com.eigendaksh.newsapp.model.others.Story;
-import com.eigendaksh.newsapp.screens.StoriesAdapter;
+import com.eigendaksh.newsapp.screens.BaseStoriesPresenter;
 import com.eigendaksh.newsapp.screens.StoriesViewModel;
 
 import javax.inject.Inject;
 
 @ScreenScope
-public class TopStoriesPresenter implements StoriesAdapter.StoryClickedListener {
+public class TopStoriesPresenter extends BaseStoriesPresenter {
 
     private final StoriesViewModel viewModel;
     private final NewsRequester newsRequester;
@@ -35,13 +32,5 @@ public class TopStoriesPresenter implements StoriesAdapter.StoryClickedListener 
                 .doOnSubscribe(__ -> viewModel.loadingUpdated().accept(true))
                 .doOnEvent((d, t) -> viewModel.loadingUpdated().accept(false))
                 .subscribe(viewModel.storyUpdated(), viewModel.onError());
-    }
-
-
-    @Override
-    public void onStoryClicked(Story story) {
-        Intent intent = new Intent(appContext, WebViewActivity.class);
-        intent.putExtra("url", story.articleUrl());
-        appContext.startActivity(intent);
     }
 }

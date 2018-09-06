@@ -5,12 +5,13 @@ import android.annotation.SuppressLint;
 import com.eigendaksh.newsapp.data.NewsRequester;
 import com.eigendaksh.newsapp.di.ScreenScope;
 import com.eigendaksh.newsapp.model.others.Story;
+import com.eigendaksh.newsapp.screens.BaseStoriesPresenter;
 import com.eigendaksh.newsapp.screens.StoriesViewModel;
 
 import javax.inject.Inject;
 
 @ScreenScope
-public class PopularStoriesPresenter implements PopularStoriesAdapter.StoryClickedListener {
+public class PopularStoriesPresenter extends BaseStoriesPresenter {
 
     private final StoriesViewModel viewModel;
     private final NewsRequester newsRequester;
@@ -31,9 +32,4 @@ public class PopularStoriesPresenter implements PopularStoriesAdapter.StoryClick
     }
 
 
-
-    @Override
-    public void onStoryClicked(Story story) {
-
-    }
 }

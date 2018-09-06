@@ -4,14 +4,13 @@ import android.annotation.SuppressLint;
 
 import com.eigendaksh.newsapp.data.NewsRequester;
 import com.eigendaksh.newsapp.di.ScreenScope;
-import com.eigendaksh.newsapp.model.others.Story;
-import com.eigendaksh.newsapp.screens.StoriesAdapter;
+import com.eigendaksh.newsapp.screens.BaseStoriesPresenter;
 import com.eigendaksh.newsapp.screens.StoriesViewModel;
 
 import javax.inject.Inject;
 
 @ScreenScope
-public class SportsStoriesPresenter implements StoriesAdapter.StoryClickedListener {
+public class SportsStoriesPresenter extends BaseStoriesPresenter {
 
     private final StoriesViewModel viewModel;
     private final NewsRequester newsRequester;
@@ -30,11 +29,4 @@ public class SportsStoriesPresenter implements StoriesAdapter.StoryClickedListen
                 .doOnEvent((d, t) -> viewModel.loadingUpdated().accept(false))
                 .subscribe(viewModel.storyUpdated(), viewModel.onError());
     }
-
-
-    @Override
-    public void onStoryClicked(Story story) {
-
-    }
-
 }
