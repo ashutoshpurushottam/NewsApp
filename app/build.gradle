@@ -8,7 +8,7 @@ android {
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
         versionName "1.0"
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        testInstrumentationRunner "com.eigendaksh.newsapp.test.CustomTestRunner"
     }
     buildTypes {
         release {
@@ -20,6 +20,8 @@ android {
         targetCompatibility 1.8
         sourceCompatibility 1.8
     }
+
+    dexOptions { jumboMode = true }
 }
 
 dependencies {
@@ -66,7 +68,12 @@ dependencies {
     // Test Dependencies
     // Mockito
     testImplementation "org.mockito:mockito-core:$mockitoVersion"
+    androidTestAnnotationProcessor "com.google.dagger:dagger-compiler:$daggerVersion"
+    androidTestImplementation 'com.android.support.test:rules:1.0.2'
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 }
+
+
+

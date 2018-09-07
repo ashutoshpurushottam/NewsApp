@@ -12,22 +12,23 @@ import timber.log.Timber;
 
 public class MyApplication extends Application {
 
-    private AppComponent appComponent;
     @Inject ActivityInjector activityInjector;
+
+    protected AppComponent appComponent;
 
     @Override
     public void onCreate() {
         super.onCreate();
 
-        initComponent();
+        appComponent = initComponent();
         appComponent.inject(this);
 
         setUpLogging();
     }
 
-    private void initComponent() {
+    protected AppComponent initComponent() {
         // Build the component (application level)
-        appComponent = DaggerAppComponent.builder()
+        return DaggerAppComponent.builder()
                 .appModule(new AppModule(this))
                 .build();
     }

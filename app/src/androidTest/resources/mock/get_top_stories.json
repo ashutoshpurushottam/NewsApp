@@ -1,0 +1,3086 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2018 The New York Times Company. All Rights Reserved.",
+  "section": "world",
+  "last_updated": "2018-09-06T06:37:09-04:00",
+  "num_results": 39,
+  "results": [
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title": "From Mountain of CCTV Footage, Pay Dirt: 2 Russians Are Named in Spy Poisoning",
+      "abstract": "The poisoning of a former Russian spy led to a landmark test of an investigative technique Britain has pioneered: accumulating mounds of visual data and sifting through it.",
+      "url": "https://www.nytimes.com/2018/09/05/world/europe/salisbury-novichok-poisoning.html",
+      "byline": "By ELLEN BARRY",
+      "item_type": "Article",
+      "updated_date": "2018-09-05T22:45:04-04:00",
+      "created_date": "2018-09-05T20:04:40-04:00",
+      "published_date": "2018-09-05T20:04:40-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Assassinations and Attempted Assassinations",
+        "Poisoning and Poisons",
+        "Espionage and Intelligence Services"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Skripal, Sergei V",
+        "Skripal, Yulia S"
+      ],
+      "geo_facet": [
+        "Great Britain",
+        "Russia"
+      ],
+      "multimedia": [],
+      "short_url": "https://nyti.ms/2CjzuOu"
+    },
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title": "Yes, There Is a French McDonald’s That Is Beloved (by Its Staff)",
+      "abstract": "The owner of a McDonald’s in Marseille wants to sell it to a halal food operator. The employees — many of whom are Muslim and North African — are outraged.",
+      "url": "https://www.nytimes.com/2018/09/05/world/europe/france-marseille-mcdonalds.html",
+      "byline": "By ADAM NOSSITER",
+      "item_type": "Article",
+      "updated_date": "2018-09-05T23:26:37-04:00",
+      "created_date": "2018-09-05T05:00:16-04:00",
+      "published_date": "2018-09-05T05:00:16-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Fast Food Industry",
+        "Labor and Jobs"
+      ],
+      "org_facet": [
+        "McDonald's Corporation"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "France",
+        "Marseille (France)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05Marseille1/05Marseille1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Workers at a McDonald’s in Marseille, France, are fighting to save the fast-food outlet from closing.",
+          "copyright": "Dmitry Kostyukov for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05Marseille1/05Marseille1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Workers at a McDonald’s in Marseille, France, are fighting to save the fast-food outlet from closing.",
+          "copyright": "Dmitry Kostyukov for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05Marseille1/merlin_143065200_93acd045-8185-430e-b1e5-5f47e45172e6-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Workers at a McDonald’s in Marseille, France, are fighting to save the fast-food outlet from closing.",
+          "copyright": "Dmitry Kostyukov for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05Marseille1/05Marseille1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Workers at a McDonald’s in Marseille, France, are fighting to save the fast-food outlet from closing.",
+          "copyright": "Dmitry Kostyukov for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05Marseille1/merlin_143065200_93acd045-8185-430e-b1e5-5f47e45172e6-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Workers at a McDonald’s in Marseille, France, are fighting to save the fast-food outlet from closing.",
+          "copyright": "Dmitry Kostyukov for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Cjd4gv"
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "India Strikes Down Colonial-Era Ban on Gay Sex",
+      "abstract": "The ruling is a landmark victory for rights advocates, including dozens of gay petitioners who joined the case despite the threat of prosecution.",
+      "url": "https://www.nytimes.com/2018/09/06/world/asia/india-gay-sex-377.html",
+      "byline": "By JEFFREY GETTLEMAN, KAI SCHULTZ and SUHASINI RAJ",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T06:32:45-04:00",
+      "created_date": "2018-09-06T02:15:19-04:00",
+      "published_date": "2018-09-06T02:15:19-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Discrimination",
+        "Homosexuality and Bisexuality"
+      ],
+      "org_facet": [
+        "Supreme Court of India"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "India"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/world/07india-gay-1sub/07india-gay-1sub-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Celebrations broke out after India’s Supreme Court decriminalized gay sex in Mumbai on Thursday.",
+          "copyright": "Francis Mascarenhas/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/world/07india-gay-1sub/07india-gay-1sub-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Celebrations broke out after India’s Supreme Court decriminalized gay sex in Mumbai on Thursday.",
+          "copyright": "Francis Mascarenhas/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/world/07india-gay-1sub/merlin_143335449_8af203df-ce75-4101-9a9e-61195d4160ee-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Celebrations broke out after India’s Supreme Court decriminalized gay sex in Mumbai on Thursday.",
+          "copyright": "Francis Mascarenhas/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/world/07india-gay-1sub/07india-gay-1sub-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Celebrations broke out after India’s Supreme Court decriminalized gay sex in Mumbai on Thursday.",
+          "copyright": "Francis Mascarenhas/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/world/07india-gay-1sub/merlin_143335449_8af203df-ce75-4101-9a9e-61195d4160ee-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Celebrations broke out after India’s Supreme Court decriminalized gay sex in Mumbai on Thursday.",
+          "copyright": "Francis Mascarenhas/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2CnBJQR"
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "Kim Jong-un to Host South Korea’s Leader Starting Sept. 18",
+      "abstract": "An adviser to President Moon Jae-in met with Kim Jong-un, the North’s leader, to jump-start the stalled diplomacy over nuclear disarmament.",
+      "url": "https://www.nytimes.com/2018/09/05/world/asia/south-korea-north.html",
+      "byline": "By CHOE SANG-HUN",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T02:15:10-04:00",
+      "created_date": "2018-09-05T00:31:28-04:00",
+      "published_date": "2018-09-05T00:31:28-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Arms Control and Limitation and Disarmament"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Moon Jae-in",
+        "Kim Jong-un"
+      ],
+      "geo_facet": [
+        "South Korea",
+        "North Korea"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06korea-2/06korea-2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chung Eui-yong, left, South Korea’s national security adviser, with the North Korean leader, Kim Jong-un, in Pyongyang, North Korea, on Wednesday.",
+          "copyright": "South Korea Presidential Blue House, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06korea-2/06korea-2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chung Eui-yong, left, South Korea’s national security adviser, with the North Korean leader, Kim Jong-un, in Pyongyang, North Korea, on Wednesday.",
+          "copyright": "South Korea Presidential Blue House, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06korea-2/merlin_143321985_737615c2-52a5-4687-b0a5-3cbabef7d6ce-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chung Eui-yong, left, South Korea’s national security adviser, with the North Korean leader, Kim Jong-un, in Pyongyang, North Korea, on Wednesday.",
+          "copyright": "South Korea Presidential Blue House, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06korea-2/merlin_143321985_737615c2-52a5-4687-b0a5-3cbabef7d6ce-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chung Eui-yong, left, South Korea’s national security adviser, with the North Korean leader, Kim Jong-un, in Pyongyang, North Korea, on Wednesday.",
+          "copyright": "South Korea Presidential Blue House, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06korea-2/merlin_143321985_737615c2-52a5-4687-b0a5-3cbabef7d6ce-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 800,
+          "width": 1200,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chung Eui-yong, left, South Korea’s national security adviser, with the North Korean leader, Kim Jong-un, in Pyongyang, North Korea, on Wednesday.",
+          "copyright": "South Korea Presidential Blue House, via Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2MMj9XE"
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "Bombings Target Afghan Wrestling Match and Those Who Rushed to the Scene",
+      "abstract": "At least 20 people were killed and 70 wounded in the blasts in Kabul, including emergency workers and journalists who were reporting live on Afghan television.",
+      "url": "https://www.nytimes.com/2018/09/05/world/asia/afghanistan-bombings-kabul-terrorism.html",
+      "byline": "By FAHIM ABED and FATIMA FAIZI",
+      "item_type": "Article",
+      "updated_date": "2018-09-05T16:42:38-04:00",
+      "created_date": "2018-09-05T13:06:26-04:00",
+      "published_date": "2018-09-05T13:06:26-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Terrorism",
+        "Afghanistan War (2001- )",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": [
+        "Islamic State in Iraq and Syria (ISIS)",
+        "Taliban"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Kabul (Afghanistan)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06afghanistan/06afghanistan-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An injured boy receiving help outside a hospital in Kabul, Afghanistan, after two bombings at a wrestling training center. The second blast was far larger, and timed to kill emergency workers and journalists.",
+          "copyright": "Rahmat Gul/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06afghanistan/06afghanistan-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An injured boy receiving help outside a hospital in Kabul, Afghanistan, after two bombings at a wrestling training center. The second blast was far larger, and timed to kill emergency workers and journalists.",
+          "copyright": "Rahmat Gul/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06afghanistan/merlin_143307723_7f7fb727-4b8d-4d7f-ae10-57ee64c6be26-articleInline.jpg",
+          "format": "Normal",
+          "height": 123,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An injured boy receiving help outside a hospital in Kabul, Afghanistan, after two bombings at a wrestling training center. The second blast was far larger, and timed to kill emergency workers and journalists.",
+          "copyright": "Rahmat Gul/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06afghanistan/06afghanistan-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An injured boy receiving help outside a hospital in Kabul, Afghanistan, after two bombings at a wrestling training center. The second blast was far larger, and timed to kill emergency workers and journalists.",
+          "copyright": "Rahmat Gul/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06afghanistan/merlin_143307723_7f7fb727-4b8d-4d7f-ae10-57ee64c6be26-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1325,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An injured boy receiving help outside a hospital in Kabul, Afghanistan, after two bombings at a wrestling training center. The second blast was far larger, and timed to kill emergency workers and journalists.",
+          "copyright": "Rahmat Gul/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2NhflwR"
+    },
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title": "Airport Security Trays Carry More Cold Germs Than Toilets, Study Finds",
+      "abstract": "Scientists who tested surfaces at Helsinki Airport found the viruses responsible for colds and influenza on the trays used at security checkpoints.",
+      "url": "https://www.nytimes.com/2018/09/05/world/europe/airport-security-trays-virus.html",
+      "byline": "By PALKO KARASZ",
+      "item_type": "Article",
+      "updated_date": "2018-09-05T09:09:32-04:00",
+      "created_date": "2018-09-05T08:49:39-04:00",
+      "published_date": "2018-09-05T08:49:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Airports",
+        "Hygiene and Cleanliness",
+        "Viruses",
+        "Colds",
+        "Research",
+        "Airport Security",
+        "Microbiology"
+      ],
+      "org_facet": [
+        "University of Nottingham"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Helsinki (Finland)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06Airport-security/06Airport-security-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Scientists working to prevent the spread of diseases through public transportation tested surfaces at Helsinki Airport, and found viral traces on half the security trays they looked at.",
+          "copyright": "Wilfredo Lee/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06Airport-security/06Airport-security-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Scientists working to prevent the spread of diseases through public transportation tested surfaces at Helsinki Airport, and found viral traces on half the security trays they looked at.",
+          "copyright": "Wilfredo Lee/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06Airport-security/merlin_102769980_8e96618b-c411-4dc0-98da-001165134041-articleInline.jpg",
+          "format": "Normal",
+          "height": 131,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Scientists working to prevent the spread of diseases through public transportation tested surfaces at Helsinki Airport, and found viral traces on half the security trays they looked at.",
+          "copyright": "Wilfredo Lee/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06Airport-security/06Airport-security-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Scientists working to prevent the spread of diseases through public transportation tested surfaces at Helsinki Airport, and found viral traces on half the security trays they looked at.",
+          "copyright": "Wilfredo Lee/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06Airport-security/merlin_102769980_8e96618b-c411-4dc0-98da-001165134041-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1417,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Scientists working to prevent the spread of diseases through public transportation tested surfaces at Helsinki Airport, and found viral traces on half the security trays they looked at.",
+          "copyright": "Wilfredo Lee/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Cte41k"
+    },
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title": "Rx for British Doctors: Use Plain English Instead of Latin",
+      "abstract": "In an effort to improve written communication with patients, an initiative by the Academy of Medical Royal Colleges is encouraging doctors to ditch medical jargon.",
+      "url": "https://www.nytimes.com/2018/09/05/world/europe/doctors-plain-english.html",
+      "byline": "By CEYLAN YEGINSU",
+      "item_type": "Article",
+      "updated_date": "2018-09-05T12:19:18-04:00",
+      "created_date": "2018-09-05T11:42:21-04:00",
+      "published_date": "2018-09-05T11:42:21-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Doctors",
+        "Writing and Writers",
+        "Medicine and Health",
+        "Letters"
+      ],
+      "org_facet": [
+        "Academy of Medical Royal Colleges"
+      ],
+      "per_facet": [
+        "Hugh Rayner"
+      ],
+      "geo_facet": [
+        "Great Britain"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06Doctors-ENglish/06Doctors-ENglish-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Specialist doctors in England currently write explanatory letters to their patients’ general practitioners, rather than to the patients themselves, often employing medical jargon.",
+          "copyright": "Andrew Testa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06Doctors-ENglish/06Doctors-ENglish-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Specialist doctors in England currently write explanatory letters to their patients’ general practitioners, rather than to the patients themselves, often employing medical jargon.",
+          "copyright": "Andrew Testa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06Doctors-ENglish/merlin_129543107_d3838260-d460-43c1-9567-a3aabeadcd70-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Specialist doctors in England currently write explanatory letters to their patients’ general practitioners, rather than to the patients themselves, often employing medical jargon.",
+          "copyright": "Andrew Testa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06Doctors-ENglish/06Doctors-ENglish-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Specialist doctors in England currently write explanatory letters to their patients’ general practitioners, rather than to the patients themselves, often employing medical jargon.",
+          "copyright": "Andrew Testa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06Doctors-ENglish/merlin_129543107_d3838260-d460-43c1-9567-a3aabeadcd70-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Specialist doctors in England currently write explanatory letters to their patients’ general practitioners, rather than to the patients themselves, often employing medical jargon.",
+          "copyright": "Andrew Testa for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Cnd7YF"
+    },
+    {
+      "section": "World",
+      "subsection": "Australia",
+      "title": "In Australia, One Man Can Decide a Migrant’s Fate. Did He Abuse That Power?",
+      "abstract": "Australia has expanded the power of its immigration ministers for decades. Now, a scandal involving two European au pairs threatens Peter Dutton, the country’s top immigration official.",
+      "url": "https://www.nytimes.com/2018/09/06/world/australia/peter-dutton-au-pair.html",
+      "byline": "By DAMIEN CAVE and ISABELLA KWAI",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T01:25:52-04:00",
+      "created_date": "2018-09-06T01:06:41-04:00",
+      "published_date": "2018-09-06T01:06:41-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Immigration and Emigration",
+        "Refugees and Displaced Persons",
+        "Politics and Government",
+        "Asylum, Right of"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Dutton, Peter C"
+      ],
+      "geo_facet": [
+        "Australia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/00oz-immigration-1/00oz-immigration-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Peter Dutton has become the country’s unsmiling face of immigration enforcement, defending Australia’s offshore detention policy and arguing for cuts in overall immigration.",
+          "copyright": "Sean Davey/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/00oz-immigration-1/00oz-immigration-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Peter Dutton has become the country’s unsmiling face of immigration enforcement, defending Australia’s offshore detention policy and arguing for cuts in overall immigration.",
+          "copyright": "Sean Davey/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/00oz-immigration-1/merlin_142605219_12353b36-f19e-40d6-b7bf-b29b7a0e9872-articleInline.jpg",
+          "format": "Normal",
+          "height": 117,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Peter Dutton has become the country’s unsmiling face of immigration enforcement, defending Australia’s offshore detention policy and arguing for cuts in overall immigration.",
+          "copyright": "Sean Davey/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/00oz-immigration-1/00oz-immigration-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Peter Dutton has become the country’s unsmiling face of immigration enforcement, defending Australia’s offshore detention policy and arguing for cuts in overall immigration.",
+          "copyright": "Sean Davey/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/00oz-immigration-1/merlin_142605219_12353b36-f19e-40d6-b7bf-b29b7a0e9872-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1264,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Peter Dutton has become the country’s unsmiling face of immigration enforcement, defending Australia’s offshore detention policy and arguing for cuts in overall immigration.",
+          "copyright": "Sean Davey/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2CzQTCX"
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "Japan Hit by Deadly Earthquake, Adding to Summer of Environmental Misery",
+      "abstract": "The quake struck the northern island of Hokkaido, killing at least seven people, as Japan was still recovering from its biggest typhoon in a quarter of a century.",
+      "url": "https://www.nytimes.com/2018/09/06/world/asia/japan-earthquake-hokkaido-landslide.html",
+      "byline": "By MOTOKO RICH",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T05:46:06-04:00",
+      "created_date": "2018-09-06T01:35:24-04:00",
+      "published_date": "2018-09-06T01:35:24-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Landslides and Mudslides",
+        "Earthquakes",
+        "Disasters and Emergencies"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Hokkaido (Japan)",
+        "Japan"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/world/07japan-quake-1/07japan-quake-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The site of a landslide after an earthquake struck the town of Atsuma in Hokkaido Prefecture in northern Japan on Thursday.",
+          "copyright": "Kyodo News, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/world/07japan-quake-1/07japan-quake-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The site of a landslide after an earthquake struck the town of Atsuma in Hokkaido Prefecture in northern Japan on Thursday.",
+          "copyright": "Kyodo News, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/world/07japan-quake-1/merlin_143328504_95ae1cb0-03a6-4046-a48b-1b985885d2e6-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The site of a landslide after an earthquake struck the town of Atsuma in Hokkaido Prefecture in northern Japan on Thursday.",
+          "copyright": "Kyodo News, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/world/07japan-quake-1/07japan-quake-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The site of a landslide after an earthquake struck the town of Atsuma in Hokkaido Prefecture in northern Japan on Thursday.",
+          "copyright": "Kyodo News, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/world/07japan-quake-1/merlin_143328504_95ae1cb0-03a6-4046-a48b-1b985885d2e6-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1355,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The site of a landslide after an earthquake struck the town of Atsuma in Hokkaido Prefecture in northern Japan on Thursday.",
+          "copyright": "Kyodo News, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2CqC6dq"
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "Kim Jong-un Says He Wants Denuclearization Before Trump’s Current Term Ends",
+      "abstract": "The North Korean leader accused Washington of negotiating in bad faith but said he still had confidence in Mr. Trump, according to a South Korean envoy.",
+      "url": "https://www.nytimes.com/2018/09/06/world/asia/kim-jong-un-donald-trump-denuclearize.html",
+      "byline": "By CHOE SANG-HUN",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T04:30:37-04:00",
+      "created_date": "2018-09-06T03:30:57-04:00",
+      "published_date": "2018-09-06T03:30:57-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States International Relations",
+        "Arms Control and Limitation and Disarmament",
+        "Nuclear Weapons",
+        "International Relations"
+      ],
+      "org_facet": [
+        "Korean Central News Agency",
+        "Tufts University"
+      ],
+      "per_facet": [
+        "Kim Jong-un",
+        "Moon Jae-in",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "North Korea",
+        "South Korea"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/world/07nkorea-1/07nkorea-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kim Jong-un, North Korea’s leader, met Wednesday in Pyongyang with the South Korean envoy Chung Eui-yong, left. Mr. Kim “made it clear that his trust in President Trump remains — and will remain — unchanged,” Mr. Chung said.",
+          "copyright": "South Korea Presidential Blue House, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/world/07nkorea-1/07nkorea-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kim Jong-un, North Korea’s leader, met Wednesday in Pyongyang with the South Korean envoy Chung Eui-yong, left. Mr. Kim “made it clear that his trust in President Trump remains — and will remain — unchanged,” Mr. Chung said.",
+          "copyright": "South Korea Presidential Blue House, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/world/07nkorea-1/merlin_143321934_05226c13-8972-454c-8cb8-4cd5e9ff0288-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kim Jong-un, North Korea’s leader, met Wednesday in Pyongyang with the South Korean envoy Chung Eui-yong, left. Mr. Kim “made it clear that his trust in President Trump remains — and will remain — unchanged,” Mr. Chung said.",
+          "copyright": "South Korea Presidential Blue House, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/world/07nkorea-1/merlin_143321934_05226c13-8972-454c-8cb8-4cd5e9ff0288-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kim Jong-un, North Korea’s leader, met Wednesday in Pyongyang with the South Korean envoy Chung Eui-yong, left. Mr. Kim “made it clear that his trust in President Trump remains — and will remain — unchanged,” Mr. Chung said.",
+          "copyright": "South Korea Presidential Blue House, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/world/07nkorea-1/merlin_143321934_05226c13-8972-454c-8cb8-4cd5e9ff0288-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 800,
+          "width": 1200,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kim Jong-un, North Korea’s leader, met Wednesday in Pyongyang with the South Korean envoy Chung Eui-yong, left. Mr. Kim “made it clear that his trust in President Trump remains — and will remain — unchanged,” Mr. Chung said.",
+          "copyright": "South Korea Presidential Blue House, via Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2NrUWp7"
+    },
+    {
+      "section": "Arts",
+      "subsection": "Art & Design",
+      "title": "An Exhibition That Gives the Finger to Authority",
+      "abstract": "From an ancient Babylonian brick to a Banksy prank, a new show at the British Museum traces the long history of political dissent.",
+      "url": "https://www.nytimes.com/2018/09/06/arts/design/i-object-british-museum-ian-hislop.html",
+      "byline": "By ALEX MARSHALL",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T02:00:10-04:00",
+      "created_date": "2018-09-06T02:00:10-04:00",
+      "published_date": "2018-09-06T02:00:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Politics and Government",
+        "Art",
+        "Museums"
+      ],
+      "org_facet": [
+        "British Museum",
+        "Private Eye (Magazine)"
+      ],
+      "per_facet": [
+        "Hislop, Ian (1960- )",
+        "Banksy",
+        "Hockenhull, Tom"
+      ],
+      "geo_facet": [
+        "London (England)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/arts/06hislop-grid/hislop-slide-URTG-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: A “Pussy Hat,” an Afghan war rug and a papier-mâché puppet of a factory owner from a Mexican Day of the Dead festival. All are featured in “I object” at the British Museum.",
+          "copyright": "Trustees of British Museum"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/arts/06hislop-grid/hislop-slide-URTG-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: A “Pussy Hat,” an Afghan war rug and a papier-mâché puppet of a factory owner from a Mexican Day of the Dead festival. All are featured in “I object” at the British Museum.",
+          "copyright": "Trustees of British Museum"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/arts/06hislop-grid/hislop-slide-URTG-articleInline.jpg",
+          "format": "Normal",
+          "height": 108,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: A “Pussy Hat,” an Afghan war rug and a papier-mâché puppet of a factory owner from a Mexican Day of the Dead festival. All are featured in “I object” at the British Museum.",
+          "copyright": "Trustees of British Museum"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/arts/06hislop-grid/hislop-slide-URTG-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: A “Pussy Hat,” an Afghan war rug and a papier-mâché puppet of a factory owner from a Mexican Day of the Dead festival. All are featured in “I object” at the British Museum.",
+          "copyright": "Trustees of British Museum"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/arts/06hislop-grid/hislop-slide-URTG-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1164,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: A “Pussy Hat,” an Afghan war rug and a papier-mâché puppet of a factory owner from a Mexican Day of the Dead festival. All are featured in “I object” at the British Museum.",
+          "copyright": "Trustees of British Museum"
+        }
+      ],
+      "short_url": "https://nyti.ms/2CA04TV"
+    },
+    {
+      "section": "World",
+      "subsection": "Australia",
+      "title": "How Does Australia See Itself?",
+      "abstract": "This week’s Australia Letter combines art with insight from our readers about what they love and loathe about their country.",
+      "url": "https://www.nytimes.com/2018/09/06/world/australia/how-does-australia-see-itself-australia-letter71.html",
+      "byline": "By DAMIEN CAVE",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T02:37:05-04:00",
+      "created_date": "2018-09-06T01:39:52-04:00",
+      "published_date": "2018-09-06T01:39:52-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Politics and Government",
+        "Indigenous Australians",
+        "Surveillance of Citizens by Government"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Australia",
+        "Melbourne (Australia)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/australia/00loveloathe-singles-slide-Y4ZR/00loveloathe-singles-slide-Y4ZR-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ilya Milstein"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/australia/00loveloathe-singles-slide-Y4ZR/00loveloathe-singles-slide-Y4ZR-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ilya Milstein"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/australia/00loveloathe-singles-slide-Y4ZR/00loveloathe-singles-slide-Y4ZR-articleInline.jpg",
+          "format": "Normal",
+          "height": 124,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ilya Milstein"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/australia/00loveloathe-singles-slide-Y4ZR/00loveloathe-singles-slide-Y4ZR-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ilya Milstein"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/australia/00loveloathe-singles-slide-Y4ZR/00loveloathe-singles-slide-Y4ZR-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 981,
+          "width": 1500,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ilya Milstein"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Nn4eCu"
+    },
+    {
+      "section": "World",
+      "subsection": "Middle East",
+      "title": "Iran’s Currency Crashes. Shortages and Fears Rise.",
+      "abstract": "Iran’s rial fell to a record low, part of a staggering 140 percent drop in the currency’s value.",
+      "url": "https://www.nytimes.com/2018/09/05/world/middleeast/iran-currency-rial.html",
+      "byline": "By THE ASSOCIATED PRESS",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T02:35:31-04:00",
+      "created_date": "2018-09-05T22:01:04-04:00",
+      "published_date": "2018-09-05T22:01:04-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Iranian Rial (Currency)",
+        "Currency"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Khamenei, Ali"
+      ],
+      "geo_facet": [
+        "Iran"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06IRAN/merlin_143300112_67b834d6-bdd8-4b90-97ee-7ae4846e806f-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People lined up outside a currency exchange in Tehran on Wednesday.",
+          "copyright": "Ebrahim Noroozi/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06IRAN/merlin_143300112_67b834d6-bdd8-4b90-97ee-7ae4846e806f-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People lined up outside a currency exchange in Tehran on Wednesday.",
+          "copyright": "Ebrahim Noroozi/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06IRAN/merlin_143300112_67b834d6-bdd8-4b90-97ee-7ae4846e806f-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People lined up outside a currency exchange in Tehran on Wednesday.",
+          "copyright": "Ebrahim Noroozi/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06IRAN/merlin_143300112_67b834d6-bdd8-4b90-97ee-7ae4846e806f-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People lined up outside a currency exchange in Tehran on Wednesday.",
+          "copyright": "Ebrahim Noroozi/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06IRAN/merlin_143300112_67b834d6-bdd8-4b90-97ee-7ae4846e806f-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People lined up outside a currency exchange in Tehran on Wednesday.",
+          "copyright": "Ebrahim Noroozi/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2MTlfom"
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "In a First, Japan Says Fukushima Radiation Caused Worker’s Cancer Death",
+      "abstract": "The government also acknowledged that three other workers developed leukemia and thyroid cancer after working on cleanup of the Fukushima meltdowns.",
+      "url": "https://www.nytimes.com/2018/09/05/world/asia/japan-fukushima-radiation-cancer-death.html",
+      "byline": "By MOTOKO RICH",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T02:11:55-04:00",
+      "created_date": "2018-09-05T20:23:42-04:00",
+      "published_date": "2018-09-05T20:23:42-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Japan Earthquake and Tsunami (2011)",
+        "Radiation",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": [
+        "Fukushima Daiichi Nuclear Power Plant (Japan)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05Fukushima/merlin_129813062_a596c22d-0183-4274-9618-c8eba80ff852-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A worker monitored radiation at the Fukushima Daiichi nuclear power plant. Japan acknowledged this week that a worker at the plant died from cancer after being exposed to radiation.",
+          "copyright": "Ko Sasaki for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05Fukushima/merlin_129813062_a596c22d-0183-4274-9618-c8eba80ff852-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A worker monitored radiation at the Fukushima Daiichi nuclear power plant. Japan acknowledged this week that a worker at the plant died from cancer after being exposed to radiation.",
+          "copyright": "Ko Sasaki for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05Fukushima/merlin_129813062_a596c22d-0183-4274-9618-c8eba80ff852-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A worker monitored radiation at the Fukushima Daiichi nuclear power plant. Japan acknowledged this week that a worker at the plant died from cancer after being exposed to radiation.",
+          "copyright": "Ko Sasaki for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05Fukushima/merlin_129813062_a596c22d-0183-4274-9618-c8eba80ff852-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A worker monitored radiation at the Fukushima Daiichi nuclear power plant. Japan acknowledged this week that a worker at the plant died from cancer after being exposed to radiation.",
+          "copyright": "Ko Sasaki for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05Fukushima/merlin_129813062_a596c22d-0183-4274-9618-c8eba80ff852-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A worker monitored radiation at the Fukushima Daiichi nuclear power plant. Japan acknowledged this week that a worker at the plant died from cancer after being exposed to radiation.",
+          "copyright": "Ko Sasaki for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2MNsNsW"
+    },
+    {
+      "section": "Briefing",
+      "subsection": "",
+      "title": "Trump, Ayanna Pressley, Brett Kavanaugh: Your Wednesday Evening Briefing",
+      "abstract": "Here’s what you need to know at the end of the day.",
+      "url": "https://www.nytimes.com/2018/09/05/briefing/trump-ayanna-pressley-brett-kavanaugh.html",
+      "byline": "By JOUMANA KHATIB and MARCUS PAYADUE",
+      "item_type": "Article",
+      "updated_date": "2018-09-05T21:37:22-04:00",
+      "created_date": "2018-09-05T18:07:13-04:00",
+      "published_date": "2018-09-05T18:07:13-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/briefing/05evening-Briefing-US-core-2-alpha/05evening-Briefing-US-slide-34W7-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/briefing/05evening-Briefing-US-core-2-alpha/05evening-Briefing-US-slide-34W7-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/briefing/05evening-Briefing-US-core-2-alpha/05evening-Briefing-US-slide-34W7-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/briefing/05evening-Briefing-US-core-2-alpha/05evening-Briefing-US-slide-34W7-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/briefing/05evening-Briefing-US-core-2-alpha/05evening-Briefing-US-core-2-alpha-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 188,
+          "width": 624,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2CuNncC"
+    },
+    {
+      "section": "World",
+      "subsection": "Middle East",
+      "title": "E. Coli Found at Hotel in Egypt Where British Couple Died",
+      "abstract": "Tourists who fell ill and suddenly died at a resort in Egypt last month may have been exposed to dangerous bacteria in its food supply, tests showed.",
+      "url": "https://www.nytimes.com/2018/09/05/world/middleeast/egypt-hotel-thomas-cook.html",
+      "byline": "By LIAM STACK",
+      "item_type": "Article",
+      "updated_date": "2018-09-05T17:46:12-04:00",
+      "created_date": "2018-09-05T17:46:12-04:00",
+      "published_date": "2018-09-05T17:46:12-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Travel and Vacations",
+        "Hotels and Travel Lodgings",
+        "Food Contamination and Poisoning"
+      ],
+      "org_facet": [
+        "Steigenberger Aqua Magic Hotel (Hurghada, Egypt, Hotel)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Hurghada (Egypt)",
+        "Egypt"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06egypt/06egypt-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Steigenberger hotel in Egypt’s Red Sea resort of Hurghada.",
+          "copyright": "Mohamed El-Shahed/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06egypt/06egypt-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Steigenberger hotel in Egypt’s Red Sea resort of Hurghada.",
+          "copyright": "Mohamed El-Shahed/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06egypt/merlin_142746645_20c45c98-2466-4614-9553-70a8b3f26f9e-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Steigenberger hotel in Egypt’s Red Sea resort of Hurghada.",
+          "copyright": "Mohamed El-Shahed/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06egypt/merlin_142746645_20c45c98-2466-4614-9553-70a8b3f26f9e-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Steigenberger hotel in Egypt’s Red Sea resort of Hurghada.",
+          "copyright": "Mohamed El-Shahed/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06egypt/merlin_142746645_20c45c98-2466-4614-9553-70a8b3f26f9e-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Steigenberger hotel in Egypt’s Red Sea resort of Hurghada.",
+          "copyright": "Mohamed El-Shahed/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2CpJXIc"
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "Bloomberg Forum in Beijing for Business Elites Is Put Off, Chinese Hosts Confirm",
+      "abstract": "Bloomberg L.P.’s Chinese partner cited scheduling conflicts for the event’s move to Singapore, but organizers had previously said that fallout from the trade war forced the change.",
+      "url": "https://www.nytimes.com/2018/09/05/world/asia/beijing-forum-economic-bloomberg.html",
+      "byline": "By EDWARD WONG",
+      "item_type": "Article",
+      "updated_date": "2018-09-05T17:25:39-04:00",
+      "created_date": "2018-09-05T17:25:39-04:00",
+      "published_date": "2018-09-05T17:25:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States International Relations",
+        "United States Economy",
+        "International Trade and World Market",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Bloomberg LP"
+      ],
+      "per_facet": [
+        "Bloomberg, Michael R",
+        "Xi Jinping"
+      ],
+      "geo_facet": [
+        "Beijing (China)",
+        "Singapore"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/us/politics/06dc-diplo/06dc-diplo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael R. Bloomberg’s organizers were told last month that Beijing wanted to make sure no events would overshadow a trade conference scheduled for Shanghai in November.",
+          "copyright": "Rebecca Blackwell/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/us/politics/06dc-diplo/06dc-diplo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael R. Bloomberg’s organizers were told last month that Beijing wanted to make sure no events would overshadow a trade conference scheduled for Shanghai in November.",
+          "copyright": "Rebecca Blackwell/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/us/politics/06dc-diplo/merlin_115864013_cb48c461-cf2e-48d0-aa0f-d332d78f9090-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael R. Bloomberg’s organizers were told last month that Beijing wanted to make sure no events would overshadow a trade conference scheduled for Shanghai in November.",
+          "copyright": "Rebecca Blackwell/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/us/politics/06dc-diplo/06dc-diplo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael R. Bloomberg’s organizers were told last month that Beijing wanted to make sure no events would overshadow a trade conference scheduled for Shanghai in November.",
+          "copyright": "Rebecca Blackwell/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/us/politics/06dc-diplo/merlin_115864013_cb48c461-cf2e-48d0-aa0f-d332d78f9090-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1359,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael R. Bloomberg’s organizers were told last month that Beijing wanted to make sure no events would overshadow a trade conference scheduled for Shanghai in November.",
+          "copyright": "Rebecca Blackwell/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Cmu719"
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "India Gay-Sex Ruling: What to Expect",
+      "abstract": "One of the world’s oldest laws criminalizing consensual gay sex faces a test before India’s top court.",
+      "url": "https://www.nytimes.com/2018/09/05/world/asia/india-gay-sex-ruling-what-to-expect.html",
+      "byline": "By KAI SCHULTZ",
+      "item_type": "Article",
+      "updated_date": "2018-09-05T16:50:30-04:00",
+      "created_date": "2018-09-05T16:23:54-04:00",
+      "published_date": "2018-09-05T16:23:54-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Homosexuality and Bisexuality"
+      ],
+      "org_facet": [
+        "Supreme Court of India",
+        "Bharatiya Janata Party"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "India"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06indiagay-ruling-print/06indiagay-ruling-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "India&rsquo;s Supreme Court is expected to rule on one of the world&rsquo;s oldest laws criminalizing consensual gay sex. It is known as Section 377.",
+          "copyright": "Gurinder Osan/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06indiagay-ruling-print/06indiagay-ruling-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "India&rsquo;s Supreme Court is expected to rule on one of the world&rsquo;s oldest laws criminalizing consensual gay sex. It is known as Section 377.",
+          "copyright": "Gurinder Osan/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06indiagay-ruling-print/merlin_141093540_2cae2d50-c487-48ed-b58c-15adc7d8963e-articleInline.jpg",
+          "format": "Normal",
+          "height": 135,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "India&rsquo;s Supreme Court is expected to rule on one of the world&rsquo;s oldest laws criminalizing consensual gay sex. It is known as Section 377.",
+          "copyright": "Gurinder Osan/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06indiagay-ruling-print/06indiagay-ruling-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "India&rsquo;s Supreme Court is expected to rule on one of the world&rsquo;s oldest laws criminalizing consensual gay sex. It is known as Section 377.",
+          "copyright": "Gurinder Osan/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06indiagay-ruling-print/merlin_141093540_2cae2d50-c487-48ed-b58c-15adc7d8963e-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1455,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "India&rsquo;s Supreme Court is expected to rule on one of the world&rsquo;s oldest laws criminalizing consensual gay sex. It is known as Section 377.",
+          "copyright": "Gurinder Osan/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2CuBi7g"
+    },
+    {
+      "section": "Times Insider",
+      "subsection": "",
+      "title": "To Anyone Who Thinks Journalists Can’t Change the World",
+      "abstract": "Over the course of one month, three separate stories from our International desk — reported on the ground in Iraq, Thailand and South Africa — helped lead to immediate reforms.",
+      "url": "https://www.nytimes.com/2018/09/05/insider/isis-thailand-south-africa-reforms.html",
+      "byline": "By MARIE TAE McDERMOTT",
+      "item_type": "Article",
+      "updated_date": "2018-09-05T16:11:01-04:00",
+      "created_date": "2018-09-05T13:15:39-04:00",
+      "published_date": "2018-09-05T13:15:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Espionage and Intelligence Services",
+        "Pit Toilet",
+        "Child Marriages"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Ayu",
+        "Sudani, Harith al-"
+      ],
+      "geo_facet": [
+        "Malaysia",
+        "South Africa",
+        "Thailand",
+        "Iraq"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/08/23/world/23impact/23impact-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Capt. Harith al-Sudani’s wife, Raghad Hasan Chaloob, and their three children, Riyam, Rawan and Muamal.",
+          "copyright": "Ivor Prickett for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/08/23/world/23impact/23impact-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Capt. Harith al-Sudani’s wife, Raghad Hasan Chaloob, and their three children, Riyam, Rawan and Muamal.",
+          "copyright": "Ivor Prickett for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/08/23/world/23impact/merlin_141881325_1612c885-77b8-4284-9846-bc50f46ff23b-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Capt. Harith al-Sudani’s wife, Raghad Hasan Chaloob, and their three children, Riyam, Rawan and Muamal.",
+          "copyright": "Ivor Prickett for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/08/23/world/23impact/merlin_141881325_1612c885-77b8-4284-9846-bc50f46ff23b-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Capt. Harith al-Sudani’s wife, Raghad Hasan Chaloob, and their three children, Riyam, Rawan and Muamal.",
+          "copyright": "Ivor Prickett for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/08/23/world/23impact/merlin_141881325_1612c885-77b8-4284-9846-bc50f46ff23b-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Capt. Harith al-Sudani’s wife, Raghad Hasan Chaloob, and their three children, Riyam, Rawan and Muamal.",
+          "copyright": "Ivor Prickett for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2CodH8s"
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "As a Major Storm Tapers in Japan, Fears Grow of Economic Losses",
+      "abstract": "The strongest typhoon to hit the country in 25 years could force the shutdown of the country’s third-largest airport for a week, crimping tourism and trade.",
+      "url": "https://www.nytimes.com/2018/09/05/world/asia/typhoon-japan-kansai-airport.html",
+      "byline": "By MIKE IVES",
+      "item_type": "Article",
+      "updated_date": "2018-09-05T09:01:39-04:00",
+      "created_date": "2018-09-05T08:42:35-04:00",
+      "published_date": "2018-09-05T08:42:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "International Trade and World Market",
+        "Airlines and Airplanes",
+        "Airports",
+        "Travel and Vacations",
+        "Typhoons"
+      ],
+      "org_facet": [
+        "Cathay Pacific Airways",
+        "Universal Studios Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Japan",
+        "Osaka (Japan)",
+        "Kyoto (Japan)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06JAPAN1/06JAPAN1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Flooding at Kansai International Airport on Tuesday after Typhoon Jebi hit western Japan. The airport is built on an artificial island.",
+          "copyright": "Kentaro Ikushima/Mainichi Newspaper, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06JAPAN1/06JAPAN1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Flooding at Kansai International Airport on Tuesday after Typhoon Jebi hit western Japan. The airport is built on an artificial island.",
+          "copyright": "Kentaro Ikushima/Mainichi Newspaper, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06JAPAN1/merlin_143256477_be30ae69-69ad-4a51-b743-a7fe43141458-articleInline.jpg",
+          "format": "Normal",
+          "height": 109,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Flooding at Kansai International Airport on Tuesday after Typhoon Jebi hit western Japan. The airport is built on an artificial island.",
+          "copyright": "Kentaro Ikushima/Mainichi Newspaper, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06JAPAN1/06JAPAN1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Flooding at Kansai International Airport on Tuesday after Typhoon Jebi hit western Japan. The airport is built on an artificial island.",
+          "copyright": "Kentaro Ikushima/Mainichi Newspaper, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06JAPAN1/merlin_143256477_be30ae69-69ad-4a51-b743-a7fe43141458-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1170,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Flooding at Kansai International Airport on Tuesday after Typhoon Jebi hit western Japan. The airport is built on an artificial island.",
+          "copyright": "Kentaro Ikushima/Mainichi Newspaper, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Cm6pSD"
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "Pence Expresses Support for Jailed Reuters Reporters",
+      "abstract": "The journalists were sentenced to seven years in prison on Monday in what was widely seen worldwide as an unjust case.",
+      "url": "https://www.nytimes.com/2018/09/05/world/asia/pence-myanmar-reuters-reporters.html",
+      "byline": "By MIKE IVES",
+      "item_type": "Article",
+      "updated_date": "2018-09-05T23:31:21-04:00",
+      "created_date": "2018-09-05T06:31:27-04:00",
+      "published_date": "2018-09-05T06:31:27-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Freedom of the Press"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Pence, Mike",
+        "Wa Lone",
+        "Kyaw Soe Oo"
+      ],
+      "geo_facet": [
+        "Myanmar"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06myanmar-1/06myanmar-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The detained Reuters journalists Wa Lone, left, and Kyaw Soe Oo after being sentenced Monday in Yangon, Myanmar.",
+          "copyright": "Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06myanmar-1/06myanmar-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The detained Reuters journalists Wa Lone, left, and Kyaw Soe Oo after being sentenced Monday in Yangon, Myanmar.",
+          "copyright": "Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06myanmar-1/merlin_143218107_ccf60de2-936e-4670-9064-a993688ca432-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The detained Reuters journalists Wa Lone, left, and Kyaw Soe Oo after being sentenced Monday in Yangon, Myanmar.",
+          "copyright": "Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06myanmar-1/merlin_143218107_ccf60de2-936e-4670-9064-a993688ca432-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The detained Reuters journalists Wa Lone, left, and Kyaw Soe Oo after being sentenced Monday in Yangon, Myanmar.",
+          "copyright": "Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06myanmar-1/merlin_143218107_ccf60de2-936e-4670-9064-a993688ca432-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The detained Reuters journalists Wa Lone, left, and Kyaw Soe Oo after being sentenced Monday in Yangon, Myanmar.",
+          "copyright": "Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2MKUKSd"
+    },
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title": "U.K. Charges 2 Men in Novichok Poisoning, Saying They’re Russian Agents",
+      "abstract": "The police said they had tracked in detail the movement of the suspects, who have been charged in the poisoning of a former spy.",
+      "url": "https://www.nytimes.com/2018/09/05/world/europe/russia-uk-novichok-skripal.html",
+      "byline": "By RICHARD PÉREZ-PEÑA and ELLEN BARRY",
+      "item_type": "Article",
+      "updated_date": "2018-09-05T11:24:33-04:00",
+      "created_date": "2018-09-05T06:17:17-04:00",
+      "published_date": "2018-09-05T06:17:17-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Poisoning and Poisons",
+        "Assassinations and Attempted Assassinations"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Putin, Vladimir V",
+        "Rowley, Charlie",
+        "Skripal, Sergei V",
+        "Sturgess, Dawn"
+      ],
+      "geo_facet": [
+        "Great Britain",
+        "Russia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06Novichok6/06Novichok6-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A still from a security camera shows the suspects at a train station in Salisbury, England, on March 3.",
+          "copyright": "British Metropolitan Police, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06Novichok6/06Novichok6-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A still from a security camera shows the suspects at a train station in Salisbury, England, on March 3.",
+          "copyright": "British Metropolitan Police, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06Novichok6/merlin_143295249_d1c6432e-e76d-45ce-bac7-cc4ae6b23925-articleInline.jpg",
+          "format": "Normal",
+          "height": 139,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A still from a security camera shows the suspects at a train station in Salisbury, England, on March 3.",
+          "copyright": "British Metropolitan Police, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06Novichok6/06Novichok6-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A still from a security camera shows the suspects at a train station in Salisbury, England, on March 3.",
+          "copyright": "British Metropolitan Police, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06Novichok6/merlin_143295249_d1c6432e-e76d-45ce-bac7-cc4ae6b23925-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1434,
+          "width": 1962,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A still from a security camera shows the suspects at a train station in Salisbury, England, on March 3.",
+          "copyright": "British Metropolitan Police, via Associated Press"
+        }
+      ]
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "Pompeo Offers Pakistan a Reset, but Skepticism Is Rife",
+      "abstract": "The cancellation of $300 million in aid to Pakistan looms over a meeting between the secretary of state and the new Pakistani prime minister, Imran Khan.",
+      "url": "https://www.nytimes.com/2018/09/05/world/asia/mike-pompeo-pakistan-imran-khan.html",
+      "byline": "By MARIA ABI-HABIB and SALMAN MASOOD",
+      "item_type": "Article",
+      "updated_date": "2018-09-05T05:38:26-04:00",
+      "created_date": "2018-09-05T03:14:45-04:00",
+      "published_date": "2018-09-05T03:14:45-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States International Relations"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Pompeo, Mike",
+        "Khan, Imran",
+        "Bajwa, Qamar Javed"
+      ],
+      "geo_facet": [
+        "Pakistan"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06pakistan-1sub/06pakistan-1sub-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Secretary of State Mike Pompeo, center, meeting with Prime Minister Imran Khan of Pakistan, right, in Islamabad on Wednesday.",
+          "copyright": "Pakistan Press Information Department, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06pakistan-1sub/06pakistan-1sub-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Secretary of State Mike Pompeo, center, meeting with Prime Minister Imran Khan of Pakistan, right, in Islamabad on Wednesday.",
+          "copyright": "Pakistan Press Information Department, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06pakistan-1sub/merlin_143326077_581e9e35-074d-41ff-a418-353993f7e219-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Secretary of State Mike Pompeo, center, meeting with Prime Minister Imran Khan of Pakistan, right, in Islamabad on Wednesday.",
+          "copyright": "Pakistan Press Information Department, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06pakistan-1sub/merlin_143326077_581e9e35-074d-41ff-a418-353993f7e219-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Secretary of State Mike Pompeo, center, meeting with Prime Minister Imran Khan of Pakistan, right, in Islamabad on Wednesday.",
+          "copyright": "Pakistan Press Information Department, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06pakistan-1sub/merlin_143326077_581e9e35-074d-41ff-a418-353993f7e219-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1087,
+          "width": 1631,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Secretary of State Mike Pompeo, center, meeting with Prime Minister Imran Khan of Pakistan, right, in Islamabad on Wednesday.",
+          "copyright": "Pakistan Press Information Department, via Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2NjMmbQ"
+    },
+    {
+      "section": "World",
+      "subsection": "Americas",
+      "title": "Museum Fire in Brazil Was ‘Bound to Happen’",
+      "abstract": "Warnings, including a citizen complaint to the federal prosecutor, that neglect had turned the National Museum into a tinderbox piled up for years.",
+      "url": "https://www.nytimes.com/2018/09/04/world/americas/brazil-museum-fire.html",
+      "byline": "By MANUELA ANDREONI",
+      "item_type": "Article",
+      "updated_date": "2018-09-04T22:38:16-04:00",
+      "created_date": "2018-09-04T21:32:34-04:00",
+      "published_date": "2018-09-04T21:32:34-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Museums",
+        "Fires and Firefighters"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Kellner, Alexander W A"
+      ],
+      "geo_facet": [
+        "Rio de Janeiro (Brazil)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/04/world/04brazilmuseum/04brazilmuseum-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Employees of the National Museum in Rio de Janeiro on Monday. There had been warnings for years that the building was vulnerable to fire.",
+          "copyright": "Antonio Lacerda/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/04/world/04brazilmuseum/04brazilmuseum-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Employees of the National Museum in Rio de Janeiro on Monday. There had been warnings for years that the building was vulnerable to fire.",
+          "copyright": "Antonio Lacerda/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/04/world/04brazilmuseum/merlin_143229696_5dd72b5f-d804-480f-b166-b45b9883574c-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Employees of the National Museum in Rio de Janeiro on Monday. There had been warnings for years that the building was vulnerable to fire.",
+          "copyright": "Antonio Lacerda/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/04/world/04brazilmuseum/merlin_143229696_5dd72b5f-d804-480f-b166-b45b9883574c-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Employees of the National Museum in Rio de Janeiro on Monday. There had been warnings for years that the building was vulnerable to fire.",
+          "copyright": "Antonio Lacerda/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/04/world/04brazilmuseum/merlin_143229696_5dd72b5f-d804-480f-b166-b45b9883574c-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Employees of the National Museum in Rio de Janeiro on Monday. There had been warnings for years that the building was vulnerable to fire.",
+          "copyright": "Antonio Lacerda/EPA, via Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ClABxc"
+    },
+    {
+      "section": "World",
+      "subsection": "Middle East",
+      "title": "Trump Plans to Take Aim at Iran in U.N. Session",
+      "abstract": "President Trump will press the Security Council to be more assertive, raising the possibility of a face-to-face confrontation with Iranian officials.",
+      "url": "https://www.nytimes.com/2018/09/04/world/middleeast/trump-un-security-council-iran.html",
+      "byline": "By MICHAEL SCHWIRTZ",
+      "item_type": "Article",
+      "updated_date": "2018-09-04T20:55:39-04:00",
+      "created_date": "2018-09-04T20:55:39-04:00",
+      "published_date": "2018-09-04T20:55:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States International Relations"
+      ],
+      "org_facet": [
+        "Security Council (UN)"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Rouhani, Hassan"
+      ],
+      "geo_facet": [
+        "Iran"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05TRUMP-IRAN/05TRUMP-IRAN-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump will press the United Nations Security Council to be more assertive toward Iran at a session this month, raising the possibility of a face-to-face confrontation with Iranian officials.",
+          "copyright": "T.J. Kirkpatrick for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05TRUMP-IRAN/05TRUMP-IRAN-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump will press the United Nations Security Council to be more assertive toward Iran at a session this month, raising the possibility of a face-to-face confrontation with Iranian officials.",
+          "copyright": "T.J. Kirkpatrick for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05TRUMP-IRAN/merlin_143110593_911fcfc5-ad9b-46d7-8721-0f95fe720c02-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump will press the United Nations Security Council to be more assertive toward Iran at a session this month, raising the possibility of a face-to-face confrontation with Iranian officials.",
+          "copyright": "T.J. Kirkpatrick for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05TRUMP-IRAN/merlin_143110593_911fcfc5-ad9b-46d7-8721-0f95fe720c02-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump will press the United Nations Security Council to be more assertive toward Iran at a session this month, raising the possibility of a face-to-face confrontation with Iranian officials.",
+          "copyright": "T.J. Kirkpatrick for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05TRUMP-IRAN/merlin_143110593_911fcfc5-ad9b-46d7-8721-0f95fe720c02-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump will press the United Nations Security Council to be more assertive toward Iran at a session this month, raising the possibility of a face-to-face confrontation with Iranian officials.",
+          "copyright": "T.J. Kirkpatrick for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2MOeQeo"
+    },
+    {
+      "section": "World",
+      "subsection": "Americas",
+      "title": "Guatemalan Leader Bars Re-entry of Corruption Prosecutor",
+      "abstract": "The move by President Jimmy Morales puts him in direct conflict with Guatemala’s highest court and pushes the country toward a constitutional crisis.",
+      "url": "https://www.nytimes.com/2018/09/04/world/americas/guatemala-ivan-velasquez-corruption.html",
+      "byline": "By ELISABETH MALKIN",
+      "item_type": "Article",
+      "updated_date": "2018-09-04T20:27:53-04:00",
+      "created_date": "2018-09-04T20:27:53-04:00",
+      "published_date": "2018-09-04T20:27:53-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Corruption (Institutional)",
+        "Politics and Government"
+      ],
+      "org_facet": [
+        "United Nations"
+      ],
+      "per_facet": [
+        "Morales, Jimmy (1969- )",
+        "Velasquez Gomez, Ivan"
+      ],
+      "geo_facet": [
+        "Guatemala"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05guatemala/05guatemala-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Iván Velásquez, above, the head of a United Nations-backed anticorruption commission, was barred from re-entering Guatemala by President Jimmy Morales.",
+          "copyright": "Moises Castillo/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05guatemala/05guatemala-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Iván Velásquez, above, the head of a United Nations-backed anticorruption commission, was barred from re-entering Guatemala by President Jimmy Morales.",
+          "copyright": "Moises Castillo/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05guatemala/merlin_143276802_1744aefa-ee0c-4555-a9b2-d03ddf45fd0a-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Iván Velásquez, above, the head of a United Nations-backed anticorruption commission, was barred from re-entering Guatemala by President Jimmy Morales.",
+          "copyright": "Moises Castillo/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05guatemala/merlin_143276802_1744aefa-ee0c-4555-a9b2-d03ddf45fd0a-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Iván Velásquez, above, the head of a United Nations-backed anticorruption commission, was barred from re-entering Guatemala by President Jimmy Morales.",
+          "copyright": "Moises Castillo/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05guatemala/merlin_143276802_1744aefa-ee0c-4555-a9b2-d03ddf45fd0a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Iván Velásquez, above, the head of a United Nations-backed anticorruption commission, was barred from re-entering Guatemala by President Jimmy Morales.",
+          "copyright": "Moises Castillo/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2CgaVSF"
+    },
+    {
+      "section": "World",
+      "subsection": "Middle East",
+      "title": "Saudi Arabia Seeks Death Penalty in Trial of Outspoken Cleric",
+      "abstract": "Salman al-Awda is being tried on 37 charges, including provoking public discord and disobeying the ruler.",
+      "url": "https://www.nytimes.com/2018/09/04/world/middleeast/saudi-arabia-salman-al-awda.html",
+      "byline": "By BEN HUBBARD",
+      "item_type": "Article",
+      "updated_date": "2018-09-04T19:37:36-04:00",
+      "created_date": "2018-09-04T19:37:36-04:00",
+      "published_date": "2018-09-04T19:37:36-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Politics and Government",
+        "Capital Punishment",
+        "Clergy"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Awda, Salman al-",
+        "Mohammed bin Salman (1985- )"
+      ],
+      "geo_facet": [
+        "Saudi Arabia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05saudi-print/05saudi-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Salman al-Awda, a prominent Muslim cleric, has been critical of the Saudi government.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05saudi-print/05saudi-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Salman al-Awda, a prominent Muslim cleric, has been critical of the Saudi government.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05saudi-print/05saudi-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Salman al-Awda, a prominent Muslim cleric, has been critical of the Saudi government.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05saudi-print/05saudi-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Salman al-Awda, a prominent Muslim cleric, has been critical of the Saudi government.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05saudi-print/05saudi-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Salman al-Awda, a prominent Muslim cleric, has been critical of the Saudi government.",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2Cri0zE"
+    },
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title": "U.K. Economy Needs Stronger Unions and Higher Taxes on Rich, Report Says",
+      "abstract": "A report by the archbishop of Canterbury and others calls for transformational changes to redress the feelings of inequality and injustice that led to Brexit.",
+      "url": "https://www.nytimes.com/2018/09/04/world/europe/uk-economy-prosperity-justice-inequality-fairness-welby.html",
+      "byline": "By STEPHEN CASTLE",
+      "item_type": "Article",
+      "updated_date": "2018-09-04T19:25:35-04:00",
+      "created_date": "2018-09-04T19:01:04-04:00",
+      "published_date": "2018-09-04T19:01:04-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Income Inequality",
+        "Great Britain Withdrawal from EU (Brexit)",
+        "Inheritance and Estate Taxes",
+        "Wages and Salaries",
+        "Politics and Government"
+      ],
+      "org_facet": [
+        "Conservative Party (Great Britain)",
+        "Labour Party (Great Britain)"
+      ],
+      "per_facet": [
+        "May, Theresa M",
+        "Welby, Justin"
+      ],
+      "geo_facet": [
+        "London (England)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05ukbishop/05ukbishop-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justin Welby, the archbishop of Canterbury, at Westminster Abbey earlier this year. “For decades the U.K. economy has not worked as it should,” he said recently.",
+          "copyright": "Simon Dawson/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05ukbishop/05ukbishop-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justin Welby, the archbishop of Canterbury, at Westminster Abbey earlier this year. “For decades the U.K. economy has not worked as it should,” he said recently.",
+          "copyright": "Simon Dawson/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05ukbishop/merlin_141033435_5e38acba-f62d-47a4-9ccc-c1e5bb2304bf-articleInline.jpg",
+          "format": "Normal",
+          "height": 131,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justin Welby, the archbishop of Canterbury, at Westminster Abbey earlier this year. “For decades the U.K. economy has not worked as it should,” he said recently.",
+          "copyright": "Simon Dawson/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05ukbishop/05ukbishop-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justin Welby, the archbishop of Canterbury, at Westminster Abbey earlier this year. “For decades the U.K. economy has not worked as it should,” he said recently.",
+          "copyright": "Simon Dawson/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05ukbishop/merlin_141033435_5e38acba-f62d-47a4-9ccc-c1e5bb2304bf-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1415,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justin Welby, the archbishop of Canterbury, at Westminster Abbey earlier this year. “For decades the U.K. economy has not worked as it should,” he said recently.",
+          "copyright": "Simon Dawson/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ClRYhz"
+    },
+    {
+      "section": "Briefing",
+      "subsection": "",
+      "title": "Brett Kavanaugh, Colin Kaepernick, Amazon: Your Tuesday Evening Briefing",
+      "abstract": "Here’s what you need to know at the end of the day.",
+      "url": "https://www.nytimes.com/2018/09/04/briefing/brett-kavanaugh-colin-kaepernick-amazon.html",
+      "byline": "By JOUMANA KHATIB, STEPHEN REISS and SANDRA STEVENSON",
+      "item_type": "Article",
+      "updated_date": "2018-09-04T22:02:17-04:00",
+      "created_date": "2018-09-04T18:18:11-04:00",
+      "published_date": "2018-09-04T18:18:11-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/04/briefing/20180904-promo/20180904-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/04/briefing/20180904-promo/20180904-promo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/04/briefing/20180904-promo/20180904-promo-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/04/briefing/20180904-promo/20180904-promo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/04/briefing/20180904-promo/20180904-promo-superJumbo-v4.jpg",
+          "format": "superJumbo",
+          "height": 188,
+          "width": 624,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2CfC6Nk"
+    },
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title": "The Kremlin Wants Information. To Get It, Agents Show Up With Flowers.",
+      "abstract": "It took a while for a young woman to figure out that the smiling man who asked her for coffee was trying to recruit her as an informer.",
+      "url": "https://www.nytimes.com/2018/09/04/world/europe/russian-agents-kremlin-spies.html",
+      "byline": "By ANDREW HIGGINS",
+      "item_type": "Article",
+      "updated_date": "2018-09-04T18:27:26-04:00",
+      "created_date": "2018-09-04T17:13:56-04:00",
+      "published_date": "2018-09-04T17:13:56-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Informers"
+      ],
+      "org_facet": [
+        "Federal Security Service",
+        "Open Russia"
+      ],
+      "per_facet": [
+        "Khodorkovsky, Mikhail B"
+      ],
+      "geo_facet": [
+        "Russia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/08/31/world/xxinformers1/xxinformers1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nataliya Gryaznevich, an employee of a pro-democracy group, said the man who approached at her apartment in Moscow “acted like an old friend I didn’t recognize.”",
+          "copyright": "Sergey Ponomarev for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/08/31/world/xxinformers1/xxinformers1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nataliya Gryaznevich, an employee of a pro-democracy group, said the man who approached at her apartment in Moscow “acted like an old friend I didn’t recognize.”",
+          "copyright": "Sergey Ponomarev for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/08/31/world/xxinformers1/merlin_142980000_0d74fb2d-7c6e-46eb-a5cd-a124a97cd6c7-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nataliya Gryaznevich, an employee of a pro-democracy group, said the man who approached at her apartment in Moscow “acted like an old friend I didn’t recognize.”",
+          "copyright": "Sergey Ponomarev for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/08/31/world/xxinformers1/xxinformers1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nataliya Gryaznevich, an employee of a pro-democracy group, said the man who approached at her apartment in Moscow “acted like an old friend I didn’t recognize.”",
+          "copyright": "Sergey Ponomarev for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/08/31/world/xxinformers1/merlin_142980000_0d74fb2d-7c6e-46eb-a5cd-a124a97cd6c7-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Nataliya Gryaznevich, an employee of a pro-democracy group, said the man who approached at her apartment in Moscow “acted like an old friend I didn’t recognize.”",
+          "copyright": "Sergey Ponomarev for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2NhLy7b"
+    },
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title": "Greek Court Rules for Russia in Fight Over Cybercrime Suspect",
+      "abstract": "The court ordered the man to be sent back home, not to the United States, though his background in cryptocurrency coincides with an area of interest to the special counsel.",
+      "url": "https://www.nytimes.com/2018/09/04/world/europe/vinnik-greece-russia-extradition.html",
+      "byline": "By ANDREW E. KRAMER and LIZ ALDERMAN",
+      "item_type": "Article",
+      "updated_date": "2018-09-05T00:05:38-04:00",
+      "created_date": "2018-09-04T16:58:55-04:00",
+      "published_date": "2018-09-04T16:58:55-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Extradition",
+        "Decisions and Verdicts",
+        "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+        "Cyberwarfare and Defense"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Vinnik, Aleksandr V"
+      ],
+      "geo_facet": [
+        "Greece",
+        "Russia",
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05RussiaHack-print/05RussiaHack-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Greek police detained Aleksandr V. Vinnik last year on an American warrant that accuses him of running a Moscow-based Bitcoin exchange that laundered money.",
+          "copyright": "Giannis Papanikos/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05RussiaHack-print/05RussiaHack-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Greek police detained Aleksandr V. Vinnik last year on an American warrant that accuses him of running a Moscow-based Bitcoin exchange that laundered money.",
+          "copyright": "Giannis Papanikos/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05RussiaHack-print/merlin_131003582_8d5f310c-a20f-4427-8f9f-056b2ac135ca-articleInline.jpg",
+          "format": "Normal",
+          "height": 122,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Greek police detained Aleksandr V. Vinnik last year on an American warrant that accuses him of running a Moscow-based Bitcoin exchange that laundered money.",
+          "copyright": "Giannis Papanikos/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05RussiaHack-print/05RussiaHack-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Greek police detained Aleksandr V. Vinnik last year on an American warrant that accuses him of running a Moscow-based Bitcoin exchange that laundered money.",
+          "copyright": "Giannis Papanikos/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05RussiaHack-print/merlin_131003582_8d5f310c-a20f-4427-8f9f-056b2ac135ca-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1312,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Greek police detained Aleksandr V. Vinnik last year on an American warrant that accuses him of running a Moscow-based Bitcoin exchange that laundered money.",
+          "copyright": "Giannis Papanikos/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Nhvjac"
+    },
+    {
+      "section": "World",
+      "subsection": "Middle East",
+      "title": "Deadly Airstrikes in Syria Raise Fears of New Offensive",
+      "abstract": "Dozens of airstrikes hit Idlib Province, Syria’s last rebel-held enclave, as diplomats scrambled to avert a blood bath.",
+      "url": "https://www.nytimes.com/2018/09/04/world/middleeast/syria-idlib-airstrikes.html",
+      "byline": "By BEN HUBBARD",
+      "item_type": "Article",
+      "updated_date": "2018-09-04T18:46:36-04:00",
+      "created_date": "2018-09-04T15:05:21-04:00",
+      "published_date": "2018-09-04T15:05:21-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States International Relations",
+        "Defense and Military Forces",
+        "Biological and Chemical Warfare"
+      ],
+      "org_facet": [
+        "Syrian Army",
+        "Syrian Observatory for Human Rights"
+      ],
+      "per_facet": [
+        "Assad, Bashar al-",
+        "de Mistura, Staffan"
+      ],
+      "geo_facet": [
+        "Idlib (Syria)",
+        "Russia",
+        "Iran"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06syria1/06syria1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Russian airstrikes hit the rebel-hold town of Muhambal in Idlib Province on Tuesday.",
+          "copyright": "Omar Haj Kadour/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06syria1/06syria1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Russian airstrikes hit the rebel-hold town of Muhambal in Idlib Province on Tuesday.",
+          "copyright": "Omar Haj Kadour/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06syria1/merlin_143258790_09f51b4d-3c15-4e6a-a236-3c8d926f8be2-articleInline.jpg",
+          "format": "Normal",
+          "height": 124,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Russian airstrikes hit the rebel-hold town of Muhambal in Idlib Province on Tuesday.",
+          "copyright": "Omar Haj Kadour/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06syria1/06syria1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Russian airstrikes hit the rebel-hold town of Muhambal in Idlib Province on Tuesday.",
+          "copyright": "Omar Haj Kadour/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/world/06syria1/merlin_143258790_09f51b4d-3c15-4e6a-a236-3c8d926f8be2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1341,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Russian airstrikes hit the rebel-hold town of Muhambal in Idlib Province on Tuesday.",
+          "copyright": "Omar Haj Kadour/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2NixSsw"
+    },
+    {
+      "section": "World",
+      "subsection": "Middle East",
+      "title": "U.S. Embassy Bombing Attempt in Cairo Misfires",
+      "abstract": "The bomb, carried in a backpack, exploded prematurely, foiling the attacker’s plot, Egyptian officials said.",
+      "url": "https://www.nytimes.com/2018/09/04/world/middleeast/us-embassy-cairo-bombing.html",
+      "byline": "By DAVID D. KIRKPATRICK and MOHAMED EZZ",
+      "item_type": "Article",
+      "updated_date": "2018-09-04T15:07:56-04:00",
+      "created_date": "2018-09-04T14:57:16-04:00",
+      "published_date": "2018-09-04T14:57:16-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Terrorism",
+        "Diplomatic Service, Embassies and Consulates",
+        "Bombs and Explosives",
+        "United States International Relations"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Sisi, Abdel Fattah el-"
+      ],
+      "geo_facet": [
+        "Cairo (Egypt)",
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05egypt2/05egypt2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Smoke rising after the device exploded outside the embassy.",
+          "copyright": "Adel el-Adawy, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05egypt2/05egypt2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Smoke rising after the device exploded outside the embassy.",
+          "copyright": "Adel el-Adawy, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05egypt2/merlin_143258841_72823988-66c3-472f-a8b8-d21ad0cdf044-articleInline.jpg",
+          "format": "Normal",
+          "height": 276,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Smoke rising after the device exploded outside the embassy.",
+          "copyright": "Adel el-Adawy, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05egypt2/05egypt2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Smoke rising after the device exploded outside the embassy.",
+          "copyright": "Adel el-Adawy, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05egypt2/merlin_143258841_72823988-66c3-472f-a8b8-d21ad0cdf044-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2000,
+          "width": 1379,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Smoke rising after the device exploded outside the embassy.",
+          "copyright": "Adel el-Adawy, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2MNy8Aj"
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "Kolkata Bridge Collapse Leaves at Least One Dead and Several Trapped",
+      "abstract": "The state’s governor told reporters that “the bridge deserved better maintenance” and that there had been previous complaints about the soundness of the structure.",
+      "url": "https://www.nytimes.com/2018/09/04/world/asia/india-kolkata-bridge-collapse.html",
+      "byline": "By KAI SCHULTZ",
+      "item_type": "Article",
+      "updated_date": "2018-09-04T14:21:36-04:00",
+      "created_date": "2018-09-04T14:21:36-04:00",
+      "published_date": "2018-09-04T14:21:36-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Accidents and Safety",
+        "Bridges and Tunnels"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Kolkata (India)",
+        "India"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05india-bridge1/05india-bridge1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A crowd looked on as Indian Army and rescue personnel worked at the site of a collapsed bridge in Kolkata on Tuesday.",
+          "copyright": "Piyal Adhikary/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05india-bridge1/05india-bridge1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A crowd looked on as Indian Army and rescue personnel worked at the site of a collapsed bridge in Kolkata on Tuesday.",
+          "copyright": "Piyal Adhikary/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05india-bridge1/merlin_143263680_f81b09d7-448d-4c00-b29f-baae0b5ebf8d-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A crowd looked on as Indian Army and rescue personnel worked at the site of a collapsed bridge in Kolkata on Tuesday.",
+          "copyright": "Piyal Adhikary/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05india-bridge1/merlin_143263680_f81b09d7-448d-4c00-b29f-baae0b5ebf8d-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A crowd looked on as Indian Army and rescue personnel worked at the site of a collapsed bridge in Kolkata on Tuesday.",
+          "copyright": "Piyal Adhikary/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05india-bridge1/merlin_143263680_f81b09d7-448d-4c00-b29f-baae0b5ebf8d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A crowd looked on as Indian Army and rescue personnel worked at the site of a collapsed bridge in Kolkata on Tuesday.",
+          "copyright": "Piyal Adhikary/EPA, via Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Cibc7F"
+    },
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title": "Brexit Gave Labour Party an Opening. Instead, It Has an Anti-Semitism Crisis.",
+      "abstract": "Britain’s Labour Party is seeking once and for all to end a rift over anti-Semitism. But the infighting has exposed damaging divisions.",
+      "url": "https://www.nytimes.com/2018/09/04/world/europe/uk-labour-anti-semitism-corbyn.html",
+      "byline": "By STEPHEN CASTLE",
+      "item_type": "Article",
+      "updated_date": "2018-09-05T00:03:05-04:00",
+      "created_date": "2018-09-04T12:59:52-04:00",
+      "published_date": "2018-09-04T12:59:52-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Great Britain Withdrawal from EU (Brexit)",
+        "Anti-Semitism"
+      ],
+      "org_facet": [
+        "Conservative Party (Great Britain)",
+        "European Union",
+        "Labour Party (Great Britain)"
+      ],
+      "per_facet": [
+        "Corbyn, Jeremy (1949- )",
+        "May, Theresa M",
+        "Macron, Emmanuel (1977- )"
+      ],
+      "geo_facet": [
+        "Great Britain"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05Labour1/05Labour1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeremy Corbyn, the leader of Britain’s opposition Labour Party, ahead of a meeting of the party’s National Executive Committee in London on Tuesday.",
+          "copyright": "Nick Ansell/Press Association, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05Labour1/05Labour1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeremy Corbyn, the leader of Britain’s opposition Labour Party, ahead of a meeting of the party’s National Executive Committee in London on Tuesday.",
+          "copyright": "Nick Ansell/Press Association, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05Labour1/merlin_143251230_170b432a-f55f-4d71-a18e-6cbd1bac1105-articleInline.jpg",
+          "format": "Normal",
+          "height": 137,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeremy Corbyn, the leader of Britain’s opposition Labour Party, ahead of a meeting of the party’s National Executive Committee in London on Tuesday.",
+          "copyright": "Nick Ansell/Press Association, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05Labour1/05Labour1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeremy Corbyn, the leader of Britain’s opposition Labour Party, ahead of a meeting of the party’s National Executive Committee in London on Tuesday.",
+          "copyright": "Nick Ansell/Press Association, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/05/world/05Labour1/merlin_143251230_170b432a-f55f-4d71-a18e-6cbd1bac1105-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1478,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeremy Corbyn, the leader of Britain’s opposition Labour Party, ahead of a meeting of the party’s National Executive Committee in London on Tuesday.",
+          "copyright": "Nick Ansell/Press Association, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Cizuyj"
+    },
+    {
+      "section": "Reader Center",
+      "subsection": "",
+      "title": "Satellite Images and Shadow Analysis: How The Times Verifies Eyewitness Videos",
+      "abstract": "Visual investigations based on social media posts require a mix of traditional journalistic diligence and cutting-edge internet skills.",
+      "url": "https://www.nytimes.com/2018/09/04/reader-center/social-media-video-how-to-verify.html",
+      "byline": "By CHRISTOPH KOETTL",
+      "item_type": "Article",
+      "updated_date": "2018-09-04T11:53:27-04:00",
+      "created_date": "2018-09-04T11:53:27-04:00",
+      "published_date": "2018-09-04T11:53:27-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Video Recordings, Downloads and Streaming",
+        "News and News Media",
+        "Social Media",
+        "Computers and the Internet",
+        "Satellites",
+        "Maps"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/08/29/reader-center/00-utt-video/00-utt-video-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "illustration",
+          "caption": "",
+          "copyright": "New Studio"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/08/29/reader-center/00-utt-video/00-utt-video-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "illustration",
+          "caption": "",
+          "copyright": "New Studio"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/08/29/reader-center/00-utt-video/00-utt-video-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "illustration",
+          "caption": "",
+          "copyright": "New Studio"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/08/29/reader-center/00-utt-video/00-utt-video-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "illustration",
+          "caption": "",
+          "copyright": "New Studio"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/08/29/reader-center/00-utt-video/00-utt-video-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "illustration",
+          "caption": "",
+          "copyright": "New Studio"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ChYQwd"
+    },
+    {
+      "section": "Technology",
+      "subsection": "",
+      "title": "Amazon Hits $1,000,000,000,000 in Value, Following Apple",
+      "abstract": "Apple became the first public company to be worth $1 trillion. Amazon hit the same milestone a month later, but the reasons for the e-commerce titan’s rise are more complicated.",
+      "url": "https://www.nytimes.com/2018/09/04/technology/amazon-stock-price-1-trillion-value.html",
+      "byline": "By DAVID STREITFELD",
+      "item_type": "Article",
+      "updated_date": "2018-09-04T18:20:42-04:00",
+      "created_date": "2018-09-04T11:42:52-04:00",
+      "published_date": "2018-09-04T11:42:52-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Stocks and Bonds",
+        "E-Commerce",
+        "Computers and the Internet",
+        "Drones (Pilotless Planes)",
+        "E-Books and Readers",
+        "Amazon Kindle",
+        "Cloud Computing",
+        "Delivery Services"
+      ],
+      "org_facet": [
+        "Amazon.com Inc"
+      ],
+      "per_facet": [
+        "Bezos, Jeffrey P"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/08/29/business/00amazontrillion2/merlin_142977771_f7d7e1fa-9126-4b63-8ec6-624eec509811-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amazon’s founder and chief executive, Jeff Bezos, is richer, by far, than anyone in the modern world.",
+          "copyright": "David Ryder/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/08/29/business/00amazontrillion2/merlin_142977771_f7d7e1fa-9126-4b63-8ec6-624eec509811-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amazon’s founder and chief executive, Jeff Bezos, is richer, by far, than anyone in the modern world.",
+          "copyright": "David Ryder/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/08/29/business/00amazontrillion2/merlin_142977771_f7d7e1fa-9126-4b63-8ec6-624eec509811-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amazon’s founder and chief executive, Jeff Bezos, is richer, by far, than anyone in the modern world.",
+          "copyright": "David Ryder/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/08/29/business/00amazontrillion2/merlin_142977771_f7d7e1fa-9126-4b63-8ec6-624eec509811-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amazon’s founder and chief executive, Jeff Bezos, is richer, by far, than anyone in the modern world.",
+          "copyright": "David Ryder/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/08/29/business/00amazontrillion2/merlin_142977771_f7d7e1fa-9126-4b63-8ec6-624eec509811-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amazon’s founder and chief executive, Jeff Bezos, is richer, by far, than anyone in the modern world.",
+          "copyright": "David Ryder/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Ch5DX5"
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "Near Everest’s Slopes, a Helicopter Rescue Fraud Preys on Trekkers",
+      "abstract": "The Nepali government says that a wave of fraudulent claims and unneeded evacuations has cost insurance companies millions of dollars this year alone.",
+      "url": "https://www.nytimes.com/2018/09/04/world/asia/nepal-everest-rescue-fraud.html",
+      "byline": "By KAI SCHULTZ",
+      "item_type": "Article",
+      "updated_date": "2018-09-04T15:51:36-04:00",
+      "created_date": "2018-09-04T11:08:35-04:00",
+      "published_date": "2018-09-04T11:08:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Mountaineering",
+        "Frauds and Swindling",
+        "Evacuations and Evacuees",
+        "Health Insurance and Managed Care",
+        "Helicopters",
+        "Hospitals"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Nepal",
+        "Mount Everest"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/07/02/world/xxnepal-scam3/xxnepal-scam3-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Trekkers waiting outside the Lukla airport this spring before setting off for Everest Base Camp.",
+          "copyright": "Lauren DeCicca for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/02/world/xxnepal-scam3/xxnepal-scam3-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Trekkers waiting outside the Lukla airport this spring before setting off for Everest Base Camp.",
+          "copyright": "Lauren DeCicca for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/02/world/xxnepal-scam3/merlin_137760480_94103a81-5782-49e3-b14e-d9696c38cfd2-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Trekkers waiting outside the Lukla airport this spring before setting off for Everest Base Camp.",
+          "copyright": "Lauren DeCicca for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/02/world/xxnepal-scam3/merlin_137760480_94103a81-5782-49e3-b14e-d9696c38cfd2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Trekkers waiting outside the Lukla airport this spring before setting off for Everest Base Camp.",
+          "copyright": "Lauren DeCicca for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/07/02/world/xxnepal-scam3/merlin_137760480_94103a81-5782-49e3-b14e-d9696c38cfd2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Trekkers waiting outside the Lukla airport this spring before setting off for Everest Base Camp.",
+          "copyright": "Lauren DeCicca for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2MItV0Z"
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "A Top Chinese Official (Not Xi Jinping) Will Visit North Korea",
+      "abstract": "There had been speculation that China’s president would attend national celebrations in Pyongyang this week, but state media said he would send an envoy.",
+      "url": "https://www.nytimes.com/2018/09/04/world/asia/china-north-korea-xi-jinping.html",
+      "byline": "By CHOE SANG-HUN and JANE PERLEZ",
+      "item_type": "Article",
+      "updated_date": "2018-09-04T22:43:18-04:00",
+      "created_date": "2018-09-04T11:06:27-04:00",
+      "published_date": "2018-09-04T11:06:27-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Arms Control and Limitation and Disarmament"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Li Zhanshu (1950- )",
+        "Xi Jinping"
+      ],
+      "geo_facet": [
+        "North Korea",
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/04/world/05Nkorea2/merlin_135331194_be1273c5-417a-451d-9b31-d503a6d58240-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Xi Jinping of China, right, with Li Zhanshu in March. Mr. Li, a member of the Politburo Standing Committee, will lead a Chinese delegation to the North Korean capital this week.",
+          "copyright": "Wang Zhao/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/04/world/05Nkorea2/merlin_135331194_be1273c5-417a-451d-9b31-d503a6d58240-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Xi Jinping of China, right, with Li Zhanshu in March. Mr. Li, a member of the Politburo Standing Committee, will lead a Chinese delegation to the North Korean capital this week.",
+          "copyright": "Wang Zhao/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/04/world/05Nkorea2/merlin_135331194_be1273c5-417a-451d-9b31-d503a6d58240-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Xi Jinping of China, right, with Li Zhanshu in March. Mr. Li, a member of the Politburo Standing Committee, will lead a Chinese delegation to the North Korean capital this week.",
+          "copyright": "Wang Zhao/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/04/world/05Nkorea2/merlin_135331194_be1273c5-417a-451d-9b31-d503a6d58240-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Xi Jinping of China, right, with Li Zhanshu in March. Mr. Li, a member of the Politburo Standing Committee, will lead a Chinese delegation to the North Korean capital this week.",
+          "copyright": "Wang Zhao/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/04/world/05Nkorea2/merlin_135331194_be1273c5-417a-451d-9b31-d503a6d58240-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1363,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Xi Jinping of China, right, with Li Zhanshu in March. Mr. Li, a member of the Politburo Standing Committee, will lead a Chinese delegation to the North Korean capital this week.",
+          "copyright": "Wang Zhao/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2MKrsTD"
+    }
+  ]
+}

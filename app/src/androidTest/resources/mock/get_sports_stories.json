@@ -1,0 +1,1581 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2018 The New York Times Company. All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "url": "https://www.nytimes.com/2018/09/06/sports/tennis/us-open-semifinals-serena-williams.html",
+      "section": "Sports",
+      "byline": "By DAVID WALDSTEIN",
+      "title": "Serena Williams Returns to the U.S. Open Final",
+      "abstract": "Williams beat Anastasija Sevastova, 6-3, 6-0, in the semifinals and will have another chance to tie Margaret Court’s record of 24 major singles titles.",
+      "published_date": "2018-09-06T21:01:07-04:00",
+      "des_facet": [
+        "United States Open (Tennis)",
+        "Tennis"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Sevastova, Anastasija (1990- )",
+        "Williams, Serena"
+      ],
+      "geo_facet": [],
+      "subsection": "Tennis",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T22:51:48-04:00",
+      "created_date": "2018-09-06T21:01:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07womenweb1/07womenweb1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Serena Williams, a six-time U.S. Open champion, advanced to the final in New York for the ninth time.",
+          "copyright": "Ben Solomon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07womenweb1/07womenweb1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Serena Williams, a six-time U.S. Open champion, advanced to the final in New York for the ninth time.",
+          "copyright": "Ben Solomon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07womenweb1/07womenweb1-articleInline.jpg",
+          "format": "Normal",
+          "height": 119,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Serena Williams, a six-time U.S. Open champion, advanced to the final in New York for the ninth time.",
+          "copyright": "Ben Solomon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07womenweb1/07womenweb1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Serena Williams, a six-time U.S. Open champion, advanced to the final in New York for the ninth time.",
+          "copyright": "Ben Solomon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07womenweb1/07womenweb1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1287,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Serena Williams, a six-time U.S. Open champion, advanced to the final in New York for the ninth time.",
+          "copyright": "Ben Solomon for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2NResrN"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/06/sports/nfl-week-1-tackling-rule.html",
+      "section": "Sports",
+      "byline": "",
+      "title": "The N.F.L. Struggles to Tackle Its Latest Problem: Tackling",
+      "abstract": "A new rule designed to make the game safer by minimizing using the helmet as a weapon during tackles has left everybody scratching their … head.",
+      "published_date": "2018-09-06T05:00:10-04:00",
+      "des_facet": [
+        "Football",
+        "Concussions",
+        "Officiating (Sports)"
+      ],
+      "org_facet": [
+        "National Football League"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "subsection": "",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T11:48:08-04:00",
+      "created_date": "2018-09-06T05:00:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06helmet-top/06helmet-top-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The N.F.L. is trying to limit helmet-to-helmet contact by penalizing players who lead with their head.",
+          "copyright": "William Purnell/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06helmet-top/06helmet-top-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The N.F.L. is trying to limit helmet-to-helmet contact by penalizing players who lead with their head.",
+          "copyright": "William Purnell/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06helmet-top/06helmet-top-articleInline.jpg",
+          "format": "Normal",
+          "height": 92,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The N.F.L. is trying to limit helmet-to-helmet contact by penalizing players who lead with their head.",
+          "copyright": "William Purnell/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06helmet-top/06helmet-top-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The N.F.L. is trying to limit helmet-to-helmet contact by penalizing players who lead with their head.",
+          "copyright": "William Purnell/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06helmet-top/06helmet-top-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 994,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The N.F.L. is trying to limit helmet-to-helmet contact by penalizing players who lead with their head.",
+          "copyright": "William Purnell/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2CAx3rd"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/06/sports/golf/tiger-woods-rory-mcilroy-bmw-championship.html",
+      "section": "Sports",
+      "byline": "By KAREN CROUSE",
+      "title": "Tiger Woods Goes to His Car for Help at the BMW Championship",
+      "abstract": "Erratic putting and weak first rounds have stymied his comeback, but he went to an old putter and shot an eight-under 62 to share the lead with Rory McIlroy.",
+      "published_date": "2018-09-06T20:43:53-04:00",
+      "des_facet": [
+        "Golf"
+      ],
+      "org_facet": [
+        "BMW Championship"
+      ],
+      "per_facet": [
+        "Woods, Tiger",
+        "McIlroy, Rory"
+      ],
+      "geo_facet": [],
+      "subsection": "Golf",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T22:05:11-04:00",
+      "created_date": "2018-09-06T20:43:53-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07golf/07golf-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tiger Woods’s 62 on Thursday was the lowest score of his comeback season.",
+          "copyright": "Jose F. Moreno/The Philadelphia Inquirer, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07golf/07golf-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tiger Woods’s 62 on Thursday was the lowest score of his comeback season.",
+          "copyright": "Jose F. Moreno/The Philadelphia Inquirer, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07golf/merlin_143365455_c4e5932f-e292-4d54-8142-99cf5d29b828-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tiger Woods’s 62 on Thursday was the lowest score of his comeback season.",
+          "copyright": "Jose F. Moreno/The Philadelphia Inquirer, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07golf/merlin_143365455_c4e5932f-e292-4d54-8142-99cf5d29b828-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tiger Woods’s 62 on Thursday was the lowest score of his comeback season.",
+          "copyright": "Jose F. Moreno/The Philadelphia Inquirer, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07golf/merlin_143365455_c4e5932f-e292-4d54-8142-99cf5d29b828-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1011,
+          "width": 1517,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tiger Woods’s 62 on Thursday was the lowest score of his comeback season.",
+          "copyright": "Jose F. Moreno/The Philadelphia Inquirer, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2MUM8IO"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/06/sports/kaepernick-nike-kneeling.html",
+      "section": "Sports",
+      "byline": "By JERÉ LONGMAN",
+      "title": "Kaepernick’s Knee and Olympic Fists Are Linked by History",
+      "abstract": "Why Colin Kaepernick is the heir to a sports protest movement popularized by two athletes at the 1968 Olympics who raised their fists to support civil rights.",
+      "published_date": "2018-09-06T16:47:14-04:00",
+      "des_facet": [
+        "Olympic Games (1968)",
+        "Race and Ethnicity"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Kaepernick, Colin",
+        "Carlos, John",
+        "Smith, Tommie"
+      ],
+      "geo_facet": [],
+      "subsection": "",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T16:47:14-04:00",
+      "created_date": "2018-09-06T16:47:14-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07longman-print/07longman-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The gesture by the athletes Tommie Smith, center, and John Carlos at the 1968 Olympics was ultimately widely seen as a landmark in the civil rights movement.",
+          "copyright": "Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07longman-print/07longman-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The gesture by the athletes Tommie Smith, center, and John Carlos at the 1968 Olympics was ultimately widely seen as a landmark in the civil rights movement.",
+          "copyright": "Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07longman-print/merlin_143357706_ba32a3c2-8d8b-48d3-ac01-b63564ad1953-articleInline.jpg",
+          "format": "Normal",
+          "height": 273,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The gesture by the athletes Tommie Smith, center, and John Carlos at the 1968 Olympics was ultimately widely seen as a landmark in the civil rights movement.",
+          "copyright": "Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07longman-print/07longman-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The gesture by the athletes Tommie Smith, center, and John Carlos at the 1968 Olympics was ultimately widely seen as a landmark in the civil rights movement.",
+          "copyright": "Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07longman-print/merlin_143357706_ba32a3c2-8d8b-48d3-ac01-b63564ad1953-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1425,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The gesture by the athletes Tommie Smith, center, and John Carlos at the 1968 Olympics was ultimately widely seen as a landmark in the civil rights movement.",
+          "copyright": "Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2NkHX8w"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/06/sports/tennis/us-open-heat-humidity.html",
+      "section": "Sports",
+      "byline": "By BEN ROTHENBERG",
+      "title": "It’s the Wettest U.S. Open, Even Without Much Rain",
+      "abstract": "Hot and humid conditions have made it uncomfortable for players throughout the tournament, and they are calling for changes at Arthur Ashe Stadium.",
+      "published_date": "2018-09-06T18:10:05-04:00",
+      "des_facet": [
+        "United States Open (Tennis)",
+        "Tennis",
+        "Weather",
+        "Stadiums and Arenas"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Djokovic, Novak",
+        "Federer, Roger",
+        "Millman, John",
+        "Osaka, Naomi (1997- )",
+        "Stephens, Sloane",
+        "Thiem, Dominic",
+        "Isner, John"
+      ],
+      "geo_facet": [],
+      "subsection": "Tennis",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T18:10:05-04:00",
+      "created_date": "2018-09-06T18:10:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07openheat/07openheat-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The 2018 U.S. Open has been hot and humid since it began on Aug. 27. Seven of 11 days, including Thursday, were played under special rules for extreme heat.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07openheat/07openheat-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The 2018 U.S. Open has been hot and humid since it began on Aug. 27. Seven of 11 days, including Thursday, were played under special rules for extreme heat.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07openheat/merlin_143358636_1d9ced69-e43a-4163-96c1-b165bfc61837-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The 2018 U.S. Open has been hot and humid since it began on Aug. 27. Seven of 11 days, including Thursday, were played under special rules for extreme heat.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07openheat/07openheat-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The 2018 U.S. Open has been hot and humid since it began on Aug. 27. Seven of 11 days, including Thursday, were played under special rules for extreme heat.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07openheat/merlin_143358636_1d9ced69-e43a-4163-96c1-b165bfc61837-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The 2018 U.S. Open has been hot and humid since it began on Aug. 27. Seven of 11 days, including Thursday, were played under special rules for extreme heat.",
+          "copyright": "Karsten Moran for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2NTnRzc"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/06/sports/basketball/wnba-finals-storm-mystics.html",
+      "section": "Sports",
+      "byline": "By HOWARD MEGDAL",
+      "title": "The W.N.B.A. Finals: When Her Game is Your Game, Too",
+      "abstract": "The Storm and the Mystics have matching M.V.P.s — Breanna Stewart and Elena Delle Donne — and similar game plans. How do you outsmart yourself?",
+      "published_date": "2018-09-06T17:19:16-04:00",
+      "des_facet": [
+        "Basketball"
+      ],
+      "org_facet": [
+        "Phoenix Mercury",
+        "Washington Mystics"
+      ],
+      "per_facet": [
+        "Delle Donne, Elena",
+        "Stewart, Breanna (1994- )",
+        "Bird, Sue",
+        "Toliver, Kristi"
+      ],
+      "geo_facet": [],
+      "subsection": "Pro Basketball",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T17:19:16-04:00",
+      "created_date": "2018-09-06T17:19:16-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07wnba2/07wnba2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seattle Storm guard Sue Bird, left, has captivated basketball fans in these playoffs, but the battle between Breanna Stewart, right, and Elena Delle Donne of the Washington Mystics could decide which team wins the W.N.B.A. championship.",
+          "copyright": "Elaine Thompson/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07wnba2/07wnba2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seattle Storm guard Sue Bird, left, has captivated basketball fans in these playoffs, but the battle between Breanna Stewart, right, and Elena Delle Donne of the Washington Mystics could decide which team wins the W.N.B.A. championship.",
+          "copyright": "Elaine Thompson/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07wnba2/merlin_143359485_3d6f7d48-e3a9-42d1-b72e-4230ce2b60f7-articleInline.jpg",
+          "format": "Normal",
+          "height": 121,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seattle Storm guard Sue Bird, left, has captivated basketball fans in these playoffs, but the battle between Breanna Stewart, right, and Elena Delle Donne of the Washington Mystics could decide which team wins the W.N.B.A. championship.",
+          "copyright": "Elaine Thompson/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07wnba2/07wnba2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seattle Storm guard Sue Bird, left, has captivated basketball fans in these playoffs, but the battle between Breanna Stewart, right, and Elena Delle Donne of the Washington Mystics could decide which team wins the W.N.B.A. championship.",
+          "copyright": "Elaine Thompson/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07wnba2/merlin_143359485_3d6f7d48-e3a9-42d1-b72e-4230ce2b60f7-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1302,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seattle Storm guard Sue Bird, left, has captivated basketball fans in these playoffs, but the battle between Breanna Stewart, right, and Elena Delle Donne of the Washington Mystics could decide which team wins the W.N.B.A. championship.",
+          "copyright": "Elaine Thompson/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Np541D"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/06/sports/nfl-week-1-picks-odds-schedule.html",
+      "section": "Sports",
+      "byline": "By BENJAMIN HOFFMAN",
+      "title": "N.F.L. Week 1 Picks: Can the Texans Keep Up With New England?",
+      "abstract": "Tom Brady and the Patriots taking on Houston’s Deshaun Watson; a clash of the last two N.F.C. champions; Aaron Rodgers in prime time. Week 1 has a lot to offer.",
+      "published_date": "2018-09-06T14:18:49-04:00",
+      "des_facet": [
+        "Football"
+      ],
+      "org_facet": [
+        "Houston Texans",
+        "New England Patriots",
+        "Philadelphia Eagles",
+        "Atlanta Falcons"
+      ],
+      "per_facet": [
+        "Brady, Tom",
+        "Watson, Deshaun (1995- )"
+      ],
+      "geo_facet": [],
+      "subsection": "",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T20:47:57-04:00",
+      "created_date": "2018-09-06T14:18:49-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/09/sports/09nflmatchups-texans/09nflmatchups-texans-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Deshaun Watson had Houston clicking before a season-ending injury last year. Can he pick up where he left off?",
+          "copyright": "Kelvin Kuo/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/09/sports/09nflmatchups-texans/09nflmatchups-texans-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Deshaun Watson had Houston clicking before a season-ending injury last year. Can he pick up where he left off?",
+          "copyright": "Kelvin Kuo/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/09/sports/09nflmatchups-texans/09nflmatchups-texans-articleInline.jpg",
+          "format": "Normal",
+          "height": 111,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Deshaun Watson had Houston clicking before a season-ending injury last year. Can he pick up where he left off?",
+          "copyright": "Kelvin Kuo/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/09/sports/09nflmatchups-texans/09nflmatchups-texans-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Deshaun Watson had Houston clicking before a season-ending injury last year. Can he pick up where he left off?",
+          "copyright": "Kelvin Kuo/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/09/sports/09nflmatchups-texans/09nflmatchups-texans-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1197,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Deshaun Watson had Houston clicking before a season-ending injury last year. Can he pick up where he left off?",
+          "copyright": "Kelvin Kuo/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2MQ1NJk"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/06/sports/tennis/us-open-nadal-del-potro.html",
+      "section": "Sports",
+      "byline": "By CHRISTOPHER CLAREY",
+      "title": "Rafael Nadal Plays the Classics. Will He Be Ready for Another?",
+      "abstract": "The chances of another epic match are good when Nadal and Juan Martín del Potro lock forehands in the U.S. Open semifinals on Friday.",
+      "published_date": "2018-09-06T20:19:44-04:00",
+      "des_facet": [
+        "Tennis",
+        "United States Open (Tennis)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Djokovic, Novak",
+        "Nadal, Rafael",
+        "Nishikori, Kei",
+        "del Potro, Juan Martin"
+      ],
+      "geo_facet": [],
+      "subsection": "Tennis",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T21:57:38-04:00",
+      "created_date": "2018-09-06T20:19:44-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07clareyweb1/07clareyweb1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rafael Nadal has been involved in three of the best men’s tennis matches of the year. Will his semifinal against Juan Martín del Potro be another?",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07clareyweb1/07clareyweb1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rafael Nadal has been involved in three of the best men’s tennis matches of the year. Will his semifinal against Juan Martín del Potro be another?",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07clareyweb1/merlin_143204019_3a75b1cd-fec4-434e-adb2-2bf12edfe1ed-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rafael Nadal has been involved in three of the best men’s tennis matches of the year. Will his semifinal against Juan Martín del Potro be another?",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07clareyweb1/merlin_143204019_3a75b1cd-fec4-434e-adb2-2bf12edfe1ed-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rafael Nadal has been involved in three of the best men’s tennis matches of the year. Will his semifinal against Juan Martín del Potro be another?",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07clareyweb1/merlin_143204019_3a75b1cd-fec4-434e-adb2-2bf12edfe1ed-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rafael Nadal has been involved in three of the best men’s tennis matches of the year. Will his semifinal against Juan Martín del Potro be another?",
+          "copyright": "Karsten Moran for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2NlVfl6"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/06/sports/gary-sanchez-yankees.html",
+      "section": "Sports",
+      "byline": "By BILLY WITZ",
+      "title": "Gary Sanchez’s Woes Behind the Plate Continue in a Painful Yankees Loss",
+      "abstract": "Sanchez allowed two passed balls in the first inning as the Yankees allowed the Athletics to move to within three and a half games of the top A.L. wild-card spot.",
+      "published_date": "2018-09-06T03:29:25-04:00",
+      "des_facet": [
+        "Baseball"
+      ],
+      "org_facet": [
+        "New York Yankees",
+        "Oakland Athletics"
+      ],
+      "per_facet": [
+        "Sanchez, Gary (1992- )",
+        "Severino, Luis (1994- )"
+      ],
+      "geo_facet": [],
+      "subsection": "",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T03:40:49-04:00",
+      "created_date": "2018-09-06T03:29:25-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06yankeesweb1/06yankeesweb1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gary Sanchez, right, and Luis Severino had a talk on the mound during a disastrous first inning on Wednesday.",
+          "copyright": "Ezra Shaw/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06yankeesweb1/06yankeesweb1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gary Sanchez, right, and Luis Severino had a talk on the mound during a disastrous first inning on Wednesday.",
+          "copyright": "Ezra Shaw/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06yankeesweb1/merlin_143328849_a7551d84-4fd0-4304-a4ba-496a91abf1e6-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gary Sanchez, right, and Luis Severino had a talk on the mound during a disastrous first inning on Wednesday.",
+          "copyright": "Ezra Shaw/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06yankeesweb1/06yankeesweb1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gary Sanchez, right, and Luis Severino had a talk on the mound during a disastrous first inning on Wednesday.",
+          "copyright": "Ezra Shaw/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06yankeesweb1/merlin_143328849_a7551d84-4fd0-4304-a4ba-496a91abf1e6-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gary Sanchez, right, and Luis Severino had a talk on the mound during a disastrous first inning on Wednesday.",
+          "copyright": "Ezra Shaw/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2MPW727"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/05/sports/shohei-ohtani-tommy-john-surgery.html",
+      "section": "Sports",
+      "byline": "By TYLER KEPNER",
+      "title": "The Shohei Ohtani Hype Was Real, and So Were the Injury Fears",
+      "abstract": "Ohtani is headed for Tommy John surgery, clouding his future as a two-way star in the major leagues.",
+      "published_date": "2018-09-05T18:44:21-04:00",
+      "des_facet": [
+        "Baseball",
+        "Sports Injuries"
+      ],
+      "org_facet": [
+        "Los Angeles Angels of Anaheim"
+      ],
+      "per_facet": [
+        "Ohtani, Shohei"
+      ],
+      "geo_facet": [],
+      "subsection": "",
+      "item_type": "Article",
+      "updated_date": "2018-09-05T23:28:46-04:00",
+      "created_date": "2018-09-05T18:44:21-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/business/06ohtani-samsung/06ohtani-samsung-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bob Levey/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/business/06ohtani-samsung/06ohtani-samsung-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bob Levey/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/business/06ohtani-samsung/merlin_143213271_c257e84e-cc4f-4996-a133-becec3fc5fb0-articleInline.jpg",
+          "format": "Normal",
+          "height": 150,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bob Levey/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/business/06ohtani-samsung/06ohtani-samsung-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bob Levey/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/business/06ohtani-samsung/merlin_143213271_c257e84e-cc4f-4996-a133-becec3fc5fb0-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1613,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bob Levey/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2CpDahU"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/06/sports/usmnt-soccer-coach.html",
+      "section": "Sports",
+      "byline": "By ANDREW DAS",
+      "title": "With Trinidad Haunting and Brazil Looming, U.S. Soccer Is Still Searching for a Coach",
+      "abstract": "It has been nearly a year since the United States failed to qualify for the 2018 World Cup, and the national team still doesn’t have a permanent coach.",
+      "published_date": "2018-09-06T18:04:48-04:00",
+      "des_facet": [
+        "Coaches and Managers",
+        "Soccer"
+      ],
+      "org_facet": [
+        "United States Men's National Soccer Team"
+      ],
+      "per_facet": [
+        "Stewart, Earnie"
+      ],
+      "geo_facet": [],
+      "subsection": "",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T19:40:16-04:00",
+      "created_date": "2018-09-06T18:04:48-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07soccer2-earnie-print/soccer-earnie-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The U.S. national team&rsquo;s general manager, Earnie Stewart, said he will take his time finding a new coach.",
+          "copyright": "Tony Quinn/Icon Sportswire, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07soccer2-earnie-print/soccer-earnie-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The U.S. national team&rsquo;s general manager, Earnie Stewart, said he will take his time finding a new coach.",
+          "copyright": "Tony Quinn/Icon Sportswire, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07soccer2-earnie-print/merlin_139138455_f0d9f611-3217-4c12-8451-64b013dcc1a2-articleInline.jpg",
+          "format": "Normal",
+          "height": 132,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The U.S. national team&rsquo;s general manager, Earnie Stewart, said he will take his time finding a new coach.",
+          "copyright": "Tony Quinn/Icon Sportswire, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07soccer2-earnie-print/soccer-earnie-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The U.S. national team&rsquo;s general manager, Earnie Stewart, said he will take his time finding a new coach.",
+          "copyright": "Tony Quinn/Icon Sportswire, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07soccer2-earnie-print/merlin_139138455_f0d9f611-3217-4c12-8451-64b013dcc1a2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1418,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The U.S. national team&rsquo;s general manager, Earnie Stewart, said he will take his time finding a new coach.",
+          "copyright": "Tony Quinn/Icon Sportswire, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2NpRf2W"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/06/sports/leveon-bell-pittsburgh-steelers.html",
+      "section": "Sports",
+      "byline": "By VICTOR MATHER",
+      "title": "Steelers’ Le’Veon Bell Turmoil Gives Bettors a Reason to Like the Browns",
+      "abstract": "The movement of the betting line indicates that a lot of people are wagering on the Browns, who were 0-16 last season, as the Pittsburgh running back continues to hold out.",
+      "published_date": "2018-09-06T09:47:54-04:00",
+      "des_facet": [
+        "Football"
+      ],
+      "org_facet": [
+        "Pittsburgh Steelers"
+      ],
+      "per_facet": [
+        "Bell, Le'Veon"
+      ],
+      "geo_facet": [],
+      "subsection": "",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T09:47:54-04:00",
+      "created_date": "2018-09-06T09:47:54-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06steelersWEB1-print/merlin_115775087_d0df3b77-0e5c-4ff7-80c1-efff241f091c-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Steelers will try to win without Le’Veon Bell to start the season.",
+          "copyright": "Andy Lyons/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06steelersWEB1-print/merlin_115775087_d0df3b77-0e5c-4ff7-80c1-efff241f091c-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Steelers will try to win without Le’Veon Bell to start the season.",
+          "copyright": "Andy Lyons/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06steelersWEB1-print/merlin_115775087_d0df3b77-0e5c-4ff7-80c1-efff241f091c-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Steelers will try to win without Le’Veon Bell to start the season.",
+          "copyright": "Andy Lyons/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06steelersWEB1-print/merlin_115775087_d0df3b77-0e5c-4ff7-80c1-efff241f091c-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Steelers will try to win without Le’Veon Bell to start the season.",
+          "copyright": "Andy Lyons/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06steelersWEB1-print/merlin_115775087_d0df3b77-0e5c-4ff7-80c1-efff241f091c-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Steelers will try to win without Le’Veon Bell to start the season.",
+          "copyright": "Andy Lyons/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2MQTvky"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/05/sports/rams-49ers-nfc-west-seahawks-cardinals.html",
+      "section": "Sports",
+      "byline": "By BEN SHPIGEL",
+      "title": "The N.F.L.’s Most Interesting Division? The N.F.C. West",
+      "abstract": "The already-good Rams got even better, the Bay Area is feeling Garoppolo Fever, and the Seahawks search for a new identity.",
+      "published_date": "2018-09-05T12:07:06-04:00",
+      "des_facet": [
+        "Football"
+      ],
+      "org_facet": [
+        "Arizona Cardinals",
+        "Los Angeles Rams",
+        "San Francisco 49ers",
+        "Seattle Seahawks",
+        "National Football League"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "subsection": "",
+      "item_type": "Article",
+      "updated_date": "2018-09-05T14:10:54-04:00",
+      "created_date": "2018-09-05T12:07:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/04/sports/nfcwest-top/nfcwest-top-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "San Francisco quarterback Jimmy Garoppolo throwing against the Rams last season.",
+          "copyright": "Kevork Djansezian/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/04/sports/nfcwest-top/nfcwest-top-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "San Francisco quarterback Jimmy Garoppolo throwing against the Rams last season.",
+          "copyright": "Kevork Djansezian/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/04/sports/nfcwest-top/nfcwest-top-articleInline.jpg",
+          "format": "Normal",
+          "height": 118,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "San Francisco quarterback Jimmy Garoppolo throwing against the Rams last season.",
+          "copyright": "Kevork Djansezian/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/04/sports/nfcwest-top/nfcwest-top-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "San Francisco quarterback Jimmy Garoppolo throwing against the Rams last season.",
+          "copyright": "Kevork Djansezian/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/04/sports/nfcwest-top/nfcwest-top-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1273,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "San Francisco quarterback Jimmy Garoppolo throwing against the Rams last season.",
+          "copyright": "Kevork Djansezian/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2MOJnsd"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/05/sports/soccer/uswnt-bayern-munich-olivia-moultrie.html",
+      "section": "Sports",
+      "byline": "By ANDREW KEH",
+      "title": "College or Pro? It’s a Tough Call When You’re 12",
+      "abstract": "Olivia Moultrie and her family are challenging long-held assumptions about the best way to develop an American women’s soccer star. U.S. Soccer and the University of North Carolina are among those watching closely.",
+      "published_date": "2018-09-05T12:23:23-04:00",
+      "des_facet": [],
+      "org_facet": [
+        "United States Women's National Soccer Team",
+        "United States Soccer Federation",
+        "Bayern Munich (Soccer Team)",
+        "Olympique Lyonnais (Soccer Team)",
+        "Paris St-Germain FC (Soccer Team)"
+      ],
+      "per_facet": [
+        "Olivia Moultrie",
+        "Horan, Lindsey"
+      ],
+      "geo_facet": [],
+      "subsection": "Soccer",
+      "item_type": "Article",
+      "updated_date": "2018-09-05T15:10:22-04:00",
+      "created_date": "2018-09-05T12:23:23-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/09/sports/09soccer-web1/09soccer-web1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Olivia Moultrie during a practice with Bayern Munich's under-17 team in August. She is 12.",
+          "copyright": "Daniel Etter for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/09/sports/09soccer-web1/09soccer-web1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Olivia Moultrie during a practice with Bayern Munich's under-17 team in August. She is 12.",
+          "copyright": "Daniel Etter for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/09/sports/09soccer-web1/09soccer-web1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Olivia Moultrie during a practice with Bayern Munich's under-17 team in August. She is 12.",
+          "copyright": "Daniel Etter for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/09/sports/09soccer-web1/09soccer-web1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Olivia Moultrie during a practice with Bayern Munich's under-17 team in August. She is 12.",
+          "copyright": "Daniel Etter for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/09/sports/09soccer-web1/09soccer-web1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Olivia Moultrie during a practice with Bayern Munich's under-17 team in August. She is 12.",
+          "copyright": "Daniel Etter for The New York Times"
+        }
+      ]
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/06/sports/tennis/hana-mandlikova-elli-mandlik.html",
+      "section": "Sports",
+      "byline": "By CINDY SHMERLER",
+      "title": "Daughter of a U.S. Open Champion Embarks on Her Own Path",
+      "abstract": "Hana Mandlikova, who won the 1985 Open, is watching her daughter, Elli Mandlik, compete in her first Grand Slam junior event.",
+      "published_date": "2018-09-06T18:09:59-04:00",
+      "des_facet": [
+        "United States Open (Tennis)",
+        "Tennis"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Mandlikova, Hana",
+        "Mandlik, Elli"
+      ],
+      "geo_facet": [],
+      "subsection": "Tennis",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T18:09:59-04:00",
+      "created_date": "2018-09-06T18:09:59-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07junior-print/07junior-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elli Mandlik, 17, played in the United States Open junior girls tournament, her first junior Grand Slam event.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07junior-print/07junior-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elli Mandlik, 17, played in the United States Open junior girls tournament, her first junior Grand Slam event.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07junior-print/merlin_143362533_9c66bd36-a7ae-4a0a-bebe-42f49c25bbd5-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elli Mandlik, 17, played in the United States Open junior girls tournament, her first junior Grand Slam event.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07junior-print/merlin_143362533_9c66bd36-a7ae-4a0a-bebe-42f49c25bbd5-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elli Mandlik, 17, played in the United States Open junior girls tournament, her first junior Grand Slam event.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/sports/07junior-print/merlin_143362533_9c66bd36-a7ae-4a0a-bebe-42f49c25bbd5-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elli Mandlik, 17, played in the United States Open junior girls tournament, her first junior Grand Slam event.",
+          "copyright": "Karsten Moran for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2MQyIgK"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/06/obituaries/richard-devos-dead-amway.html",
+      "section": "Obituaries",
+      "byline": "By KEITH SCHNEIDER",
+      "title": "Richard M. DeVos, Amway Co-Founder and G.O.P. Stalwart, Dies at 92",
+      "abstract": "Mr. DeVos turned the marketing company into a global enterprise and used his wealth to strengthen the Republican Party and buy the Orlando Magic basketball team.",
+      "published_date": "2018-09-06T12:24:34-04:00",
+      "des_facet": [
+        "Deaths (Obituaries)"
+      ],
+      "org_facet": [
+        "Amway Corp",
+        "Republican Party",
+        "Orlando Magic"
+      ],
+      "per_facet": [
+        "Richard M. DeVos"
+      ],
+      "geo_facet": [],
+      "subsection": "",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T14:54:03-04:00",
+      "created_date": "2018-09-06T12:24:34-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/obituaries/07DEVOS2/07DEVOS2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Richard M. DeVos in 2007. He turned the privately owned Amway Corporation into a global enterprise with more than $8.6 billion in sales in 2017.",
+          "copyright": "Fernando Medina/NBAE, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/obituaries/07DEVOS2/07DEVOS2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Richard M. DeVos in 2007. He turned the privately owned Amway Corporation into a global enterprise with more than $8.6 billion in sales in 2017.",
+          "copyright": "Fernando Medina/NBAE, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/obituaries/07DEVOS2/merlin_143347074_eab6e935-97f3-491f-9cb7-b3eaab023fba-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Richard M. DeVos in 2007. He turned the privately owned Amway Corporation into a global enterprise with more than $8.6 billion in sales in 2017.",
+          "copyright": "Fernando Medina/NBAE, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/obituaries/07DEVOS2/merlin_143347074_eab6e935-97f3-491f-9cb7-b3eaab023fba-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Richard M. DeVos in 2007. He turned the privately owned Amway Corporation into a global enterprise with more than $8.6 billion in sales in 2017.",
+          "copyright": "Fernando Medina/NBAE, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/obituaries/07DEVOS2/merlin_143347074_eab6e935-97f3-491f-9cb7-b3eaab023fba-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Richard M. DeVos in 2007. He turned the privately owned Amway Corporation into a global enterprise with more than $8.6 billion in sales in 2017.",
+          "copyright": "Fernando Medina/NBAE, via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2MPMjVI"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/06/sports/zack-wheeler-mets-dodgers.html",
+      "section": "Sports",
+      "byline": "By THE ASSOCIATED PRESS",
+      "title": "Zack Wheeler Takes a Hit to the Chest but Still Stifles the Dodgers",
+      "abstract": "Wheeler was struck by a liner from Justin Turner in the fourth inning, but he stayed in the game and improved to 10-7 on the year.",
+      "published_date": "2018-09-06T00:00:09-04:00",
+      "des_facet": [
+        "Baseball"
+      ],
+      "org_facet": [
+        "New York Mets",
+        "Los Angeles Dodgers"
+      ],
+      "per_facet": [
+        "Wheeler, Zack"
+      ],
+      "geo_facet": [],
+      "subsection": "",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T00:00:09-04:00",
+      "created_date": "2018-09-06T00:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06mets/06mets-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Zack Wheeler retired the first 11 batters he faced on Wednesday.",
+          "copyright": "Harry How/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06mets/06mets-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Zack Wheeler retired the first 11 batters he faced on Wednesday.",
+          "copyright": "Harry How/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06mets/merlin_143324958_01a3b0c9-7a3f-42a8-adbc-8fe9bd17b51f-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Zack Wheeler retired the first 11 batters he faced on Wednesday.",
+          "copyright": "Harry How/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06mets/06mets-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Zack Wheeler retired the first 11 batters he faced on Wednesday.",
+          "copyright": "Harry How/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06mets/merlin_143324958_01a3b0c9-7a3f-42a8-adbc-8fe9bd17b51f-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1546,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Zack Wheeler retired the first 11 batters he faced on Wednesday.",
+          "copyright": "Harry How/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2CnmGGR"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/06/fashion/mens-style/will-the-real-stan-smith-please-stand-up.html",
+      "section": "Fashion & Style",
+      "byline": "By JEREMY ALLEN",
+      "title": "Will the Real Stan Smith Please Stand Up?",
+      "abstract": "Before he became sneaker famous, the retired tennis player won two Grand Slam championships and was ranked No. 1 in the world.",
+      "published_date": "2018-09-06T00:00:01-04:00",
+      "des_facet": [
+        "Tennis",
+        "Fashion and Apparel",
+        "Shoes and Boots"
+      ],
+      "org_facet": [
+        "adidas AG"
+      ],
+      "per_facet": [
+        "Stan Smith"
+      ],
+      "geo_facet": [],
+      "subsection": "Men’s Style",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T12:29:50-04:00",
+      "created_date": "2018-09-06T00:00:01-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/fashion/07STANSMITH1/07STANSMITH1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A vintage Stan Smith in his tennis whites before a match.",
+          "copyright": "Via Stan Smith Archive"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/fashion/07STANSMITH1/07STANSMITH1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A vintage Stan Smith in his tennis whites before a match.",
+          "copyright": "Via Stan Smith Archive"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/fashion/07STANSMITH1/merlin_143263743_1afce451-d191-443b-b7dc-2a9ef6d5e191-articleInline.jpg",
+          "format": "Normal",
+          "height": 130,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A vintage Stan Smith in his tennis whites before a match.",
+          "copyright": "Via Stan Smith Archive"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/fashion/07STANSMITH1/07STANSMITH1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A vintage Stan Smith in his tennis whites before a match.",
+          "copyright": "Via Stan Smith Archive"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/07/fashion/07STANSMITH1/merlin_143263743_1afce451-d191-443b-b7dc-2a9ef6d5e191-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 784,
+          "width": 1145,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A vintage Stan Smith in his tennis whites before a match.",
+          "copyright": "Via Stan Smith Archive"
+        }
+      ],
+      "short_url": "https://nyti.ms/2CzI4sP"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/05/sports/tennis/us-open-madison-keys-novak-djokovic.html",
+      "section": "Sports",
+      "byline": "By BEN ROTHENBERG",
+      "title": "Embracing the Moment, Madison Keys Is Back in the U.S. Open Semifinals",
+      "abstract": "Keys is the only one of last year’s all-American women’s semifinalists to book a return trip. On the men’s side, Novak Djokovic slogged through a three-set win over John Millman.",
+      "published_date": "2018-09-05T23:49:39-04:00",
+      "des_facet": [
+        "Tennis",
+        "United States Open (Tennis)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Keys, Madison",
+        "Suarez Navarro, Carla"
+      ],
+      "geo_facet": [],
+      "subsection": "Tennis",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T01:01:04-04:00",
+      "created_date": "2018-09-05T23:49:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06open-night-web/06open-night-web-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Madison Keys reached the semifinals of the U.S. Open for the second consecutive year.",
+          "copyright": "Michelle V. Agins/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06open-night-web/06open-night-web-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Madison Keys reached the semifinals of the U.S. Open for the second consecutive year.",
+          "copyright": "Michelle V. Agins/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06open-night-web/merlin_143323449_a8623aa6-a74b-4359-8364-6be1f97b54e5-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Madison Keys reached the semifinals of the U.S. Open for the second consecutive year.",
+          "copyright": "Michelle V. Agins/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06open-night-web/merlin_143323449_a8623aa6-a74b-4359-8364-6be1f97b54e5-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Madison Keys reached the semifinals of the U.S. Open for the second consecutive year.",
+          "copyright": "Michelle V. Agins/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06open-night-web/merlin_143323449_a8623aa6-a74b-4359-8364-6be1f97b54e5-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Madison Keys reached the semifinals of the U.S. Open for the second consecutive year.",
+          "copyright": "Michelle V. Agins/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2NiGSOt"
+    },
+    {
+      "url": "https://www.nytimes.com/2018/09/05/sports/us-open-naomi-osaka-kei-nishikori-japan.html",
+      "section": "Sports",
+      "byline": "By DAVID WALDSTEIN",
+      "title": "Naomi Osaka and Kei Nishikori Both Reach U.S. Open Semifinals, a First for Japan",
+      "abstract": "Both won on Wednesday to make history for their country, giving it two players in the semifinals of a Grand Slam for the first time.",
+      "published_date": "2018-09-05T20:55:57-04:00",
+      "des_facet": [
+        "United States Open (Tennis)",
+        "Tennis"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Nishikori, Kei",
+        "Osaka, Naomi (1997- )"
+      ],
+      "geo_facet": [],
+      "subsection": "",
+      "item_type": "Article",
+      "updated_date": "2018-09-06T00:08:10-04:00",
+      "created_date": "2018-09-05T20:55:57-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06open-japanweb1/merlin_143311389_2e5ca314-f34c-46e8-bec6-41aa182484ce-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Naomi Osaka, who moved to the United States from Japan when she was 3, needed just 57 minutes to defeat Lesia Tsurenko of Ukraine.",
+          "copyright": "Uli Seit for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06open-japanweb1/merlin_143311389_2e5ca314-f34c-46e8-bec6-41aa182484ce-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Naomi Osaka, who moved to the United States from Japan when she was 3, needed just 57 minutes to defeat Lesia Tsurenko of Ukraine.",
+          "copyright": "Uli Seit for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06open-japanweb1/merlin_143311389_2e5ca314-f34c-46e8-bec6-41aa182484ce-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Naomi Osaka, who moved to the United States from Japan when she was 3, needed just 57 minutes to defeat Lesia Tsurenko of Ukraine.",
+          "copyright": "Uli Seit for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06open-japanweb1/merlin_143311389_2e5ca314-f34c-46e8-bec6-41aa182484ce-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Naomi Osaka, who moved to the United States from Japan when she was 3, needed just 57 minutes to defeat Lesia Tsurenko of Ukraine.",
+          "copyright": "Uli Seit for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2018/09/06/sports/06open-japanweb1/merlin_143311389_2e5ca314-f34c-46e8-bec6-41aa182484ce-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Naomi Osaka, who moved to the United States from Japan when she was 3, needed just 57 minutes to defeat Lesia Tsurenko of Ukraine.",
+          "copyright": "Uli Seit for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2CnOdb7"
+    }
+  ],
+  "section": "sports",
+  "last_updated": "2018-09-06T22:57:11-04:00"
+}
