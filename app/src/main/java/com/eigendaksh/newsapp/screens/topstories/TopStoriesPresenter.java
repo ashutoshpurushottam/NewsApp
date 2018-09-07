@@ -17,9 +17,6 @@ public class TopStoriesPresenter extends BaseStoriesPresenter {
     private final NewsRequester newsRequester;
 
     @Inject
-    Context appContext;
-
-    @Inject
     public TopStoriesPresenter(StoriesViewModel viewModel, NewsRequester newsRequester) {
         this.viewModel = viewModel;
         this.newsRequester = newsRequester;

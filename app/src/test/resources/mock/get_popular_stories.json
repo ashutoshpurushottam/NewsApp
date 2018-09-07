@@ -1,0 +1,1986 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2018 The New York Times Company.  All Rights Reserved.",
+  "num_results": 1664,
+  "results": [
+    {
+      "section": "Opinion",
+      "title": "I Am Part of the Resistance Inside the Trump Administration",
+      "abstract": "I work for the president but like-minded colleagues and I have vowed to thwart parts of his agenda and his worst inclinations.",
+      "url": "https://www.nytimes.com/2018/09/05/opinion/trump-white-house-anonymous-resistance.html",
+      "byline": null,
+      "published_date": "2018-09-05",
+      "des_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "TWENTY-FIFTH AMENDMENT (US CONSTITUTION)",
+        "SPECIAL PROSECUTORS (INDEPENDENT COUNSEL)",
+        "PRESIDENTS AND PRESIDENCY (US)",
+        "REPUBLICAN PARTY"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": "",
+      "adx_keywords": "United States Politics and Government;Twenty-Fifth Amendment (US Constitution);Special Prosecutors (Independent Counsel);Presidents and Presidency (US);Republican Party;Trump, Donald J",
+      "column": null,
+      "type": "Article",
+      "source": "The New York Times",
+      "id": 100000006088586,
+      "asset_id": 100000006088586,
+      "views": 1,
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Delcan & Company",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/09/05/opinion/05anony-promo/05anony-promo-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/05/opinion/05anony-promo/05anony-promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/05/opinion/05anony-promo/merlin_143322924_58de4e61-7b39-4ac4-8ea4-5e9507036597-articleInline.jpg",
+              "format": "Normal",
+              "height": 107,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/05/opinion/05anony-promo/05anony-promo-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/05/opinion/05anony-promo/merlin_143322924_58de4e61-7b39-4ac4-8ea4-5e9507036597-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 576,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/05/opinion/05anony-promo/merlin_143322924_58de4e61-7b39-4ac4-8ea4-5e9507036597-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1152,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/05/opinion/05anony-promo/05anony-promo-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/05/opinion/05anony-promo/05anony-promo-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/05/opinion/05anony-promo/05anony-promo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/05/opinion/05anony-promo/05anony-promo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Climate",
+      "title": "How Much Hotter Is Your Hometown Than When You Were Born?",
+      "abstract": "See how days at or above 90 degrees Fahrenheit have changed in your lifetime and how much hotter it could get.",
+      "url": "https://www.nytimes.com/interactive/2018/08/30/climate/how-much-hotter-is-your-hometown.html",
+      "byline": "By NADJA POPOVICH, BLACKI MIGLIOZZI, RUMSEY TAYLOR, JOSH WILLIAMS and DEREK WATKINS",
+      "published_date": "2018-08-30",
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "adx_keywords": "",
+      "column": "",
+      "type": "Interactive",
+      "source": "The New York Times",
+      "id": 100000006079302,
+      "asset_id": 100000006079302,
+      "views": 2,
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": null,
+          "copyright": null,
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/how-much-hotter-is-your-hometown-promo-1535677591454/how-much-hotter-is-your-hometown-promo-1535677591454-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/how-much-hotter-is-your-hometown-promo-1535677591454/how-much-hotter-is-your-hometown-promo-1535677591454-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/how-much-hotter-is-your-hometown-promo-1535677591454/how-much-hotter-is-your-hometown-promo-1535677591454-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/how-much-hotter-is-your-hometown-promo-1535677591454/how-much-hotter-is-your-hometown-promo-1535677591454-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/how-much-hotter-is-your-hometown-promo-1535677591454/how-much-hotter-is-your-hometown-promo-1535677591454-jumbo-v4.jpg",
+              "format": "Jumbo",
+              "height": 1024,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/how-much-hotter-is-your-hometown-promo-1535677591454/how-much-hotter-is-your-hometown-promo-1535677591454-superJumbo-v2.jpg",
+              "format": "superJumbo",
+              "height": 2048,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/how-much-hotter-is-your-hometown-promo-1535677591454/how-much-hotter-is-your-hometown-promo-1535677591454-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/how-much-hotter-is-your-hometown-promo-1535677591454/how-much-hotter-is-your-hometown-promo-1535677591454-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/how-much-hotter-is-your-hometown-promo-1535677591454/how-much-hotter-is-your-hometown-promo-1535677591454-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/how-much-hotter-is-your-hometown-promo-1535677591454/how-much-hotter-is-your-hometown-promo-1535677591454-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Technology",
+      "title": "Dozens at Facebook Unite to Challenge Its ‘Intolerant’ Liberal Culture",
+      "abstract": "In a rare sign of internal dissent, more than 100 employees have formed a group to agitate for better representation of conservative views.",
+      "url": "https://www.nytimes.com/2018/08/28/technology/inside-facebook-employees-political-bias.html",
+      "byline": "By KATE CONGER and SHEERA FRENKEL",
+      "published_date": "2018-08-28",
+      "des_facet": [
+        "COMPUTERS AND THE INTERNET",
+        "SOCIAL MEDIA",
+        "CENSORSHIP",
+        "NEWS AND NEWS MEDIA"
+      ],
+      "org_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "WORKPLACE ENVIRONMENT",
+        "FACEBOOK INC",
+        "DISCRIMINATION"
+      ],
+      "per_facet": [
+        "ZUCKERBERG, MARK E"
+      ],
+      "geo_facet": "",
+      "adx_keywords": "United States Politics and Government;Workplace Environment;Computers and the Internet;Facebook Inc;Social Media;Censorship;News and News Media;Discrimination;Zuckerberg, Mark E",
+      "column": null,
+      "type": "Article",
+      "source": "The New York Times",
+      "id": 100000006074714,
+      "asset_id": 100000006074714,
+      "views": 3,
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Facebook’s chief executive, Mark Zuckerberg, told Congress this year that he wanted the company to “be a platform for all ideas.”",
+          "copyright": "Tom Brenner/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/08/29/business/29facebook1/29facebook1-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/29/business/29facebook1/29facebook1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/29/business/29facebook1/merlin_136677285_56f27f21-2988-41ef-b477-4c382907a017-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/29/business/29facebook1/merlin_136677285_56f27f21-2988-41ef-b477-4c382907a017-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/29/business/29facebook1/merlin_136677285_56f27f21-2988-41ef-b477-4c382907a017-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/29/business/29facebook1/merlin_136677285_56f27f21-2988-41ef-b477-4c382907a017-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1366,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/29/business/29facebook1/29facebook1-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/29/business/29facebook1/29facebook1-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/29/business/29facebook1/29facebook1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/29/business/29facebook1/29facebook1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Style",
+      "title": "How to Retire in Your 30s With $1 Million in the Bank ",
+      "abstract": "Fed up with their high-pressure jobs, some millennials are quitting and embracing the FIRE movement. (It stands for financial independence, retire early). ",
+      "url": "https://www.nytimes.com/2018/09/01/style/fire-financial-independence-retire-early.html",
+      "byline": "By STEVEN KURUTZ",
+      "published_date": "2018-09-01",
+      "des_facet": [
+        "RETIREMENT"
+      ],
+      "org_facet": [
+        "SAVINGS",
+        "MILLENNIAL GENERATION"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "adx_keywords": "Retirement;Savings;Millennial Generation",
+      "column": null,
+      "type": "Article",
+      "source": "The New York Times",
+      "id": 100000006063217,
+      "asset_id": 100000006063217,
+      "views": 4,
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anna Godeassi",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/fashion/02FIRE-illo/02FIRE-illo-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/fashion/02FIRE-illo/02FIRE-illo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/fashion/02FIRE-illo/merlin_143076537_8b67115c-798d-4d4e-aed4-d1e60f80666e-articleInline.jpg",
+              "format": "Normal",
+              "height": 140,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/fashion/02FIRE-illo/02FIRE-illo-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/fashion/02FIRE-illo/merlin_143076537_8b67115c-798d-4d4e-aed4-d1e60f80666e-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 753,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/fashion/02FIRE-illo/merlin_143076537_8b67115c-798d-4d4e-aed4-d1e60f80666e-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1507,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/fashion/02FIRE-illo/02FIRE-illo-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/fashion/02FIRE-illo/02FIRE-illo-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/fashion/02FIRE-illo/02FIRE-illo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/fashion/02FIRE-illo/02FIRE-illo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "U.S.",
+      "title": "Agents Tried to Flip Russian Oligarchs. The Fallout Spread to Trump.",
+      "abstract": "American officials hoped they could persuade some of Russia’s wealthiest men to help with U.S. investigations. It didn’t work.",
+      "url": "https://www.nytimes.com/2018/09/01/us/politics/deripaska-ohr-steele-fbi.html",
+      "byline": "By KENNETH P. VOGEL and MATTHEW ROSENBERG",
+      "published_date": "2018-09-01",
+      "des_facet": [
+        "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES"
+      ],
+      "org_facet": [
+        "FEDERAL BUREAU OF INVESTIGATION",
+        "JUSTICE DEPARTMENT",
+        "ESPIONAGE AND INTELLIGENCE SERVICES",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "per_facet": [
+        "DERIPASKA, OLEG V",
+        "OHR, BRUCE",
+        "STEELE, CHRISTOPHER (1964- )",
+        "MANAFORT, PAUL J",
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": [
+        "RUSSIA"
+      ],
+      "adx_keywords": "Deripaska, Oleg V;Russian Interference in 2016 US Elections and Ties to Trump Associates;Federal Bureau of Investigation;Justice Department;Ohr, Bruce;Steele, Christopher (1964- );Espionage and Intelligence Services;Russia;Manafort, Paul J;Trump, Donald J;United States Politics and Government",
+      "column": null,
+      "type": "Article",
+      "source": "The New York Times",
+      "id": 100000006081426,
+      "asset_id": 100000006081426,
+      "views": 5,
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justice Department officials tried to turn the oligarch Oleg V. Deripaska into an informant as they sought information on Russian organized crime and, later, on possible Russian aid to President Trump&rsquo;s 2016 campaign.",
+          "copyright": "Andrey Rudakov/Bloomberg",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/09/03/us/politics/02dc-oligarchs-2-print/01dc-oligarch1-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/03/us/politics/02dc-oligarchs-2-print/01dc-oligarch1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/03/us/politics/02dc-oligarchs-2-print/merlin_143076525_a4e75e52-495b-408c-8ae0-cf7eef633d18-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/03/us/politics/02dc-oligarchs-2-print/merlin_143076525_a4e75e52-495b-408c-8ae0-cf7eef633d18-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/03/us/politics/02dc-oligarchs-2-print/merlin_143076525_a4e75e52-495b-408c-8ae0-cf7eef633d18-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/03/us/politics/02dc-oligarchs-2-print/merlin_143076525_a4e75e52-495b-408c-8ae0-cf7eef633d18-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1366,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/03/us/politics/02dc-oligarchs-2-print/01dc-oligarch1-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/03/us/politics/02dc-oligarchs-2-print/01dc-oligarch1-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/03/us/politics/02dc-oligarchs-2-print/merlin_143076525_a4e75e52-495b-408c-8ae0-cf7eef633d18-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/03/us/politics/02dc-oligarchs-2-print/merlin_143076525_a4e75e52-495b-408c-8ae0-cf7eef633d18-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Technology",
+      "title": "Can You Spot the Deceptive Facebook Post?",
+      "abstract": "Facebook has been plagued with disinformation posts placed by foreign operatives. Can you tell the difference between a real post and one designed to fool you?",
+      "url": "https://www.nytimes.com/interactive/2018/09/04/technology/facebook-influence-campaigns-quiz.html",
+      "byline": "By KEITH COLLINS and SHEERA FRENKEL",
+      "published_date": "2018-09-04",
+      "des_facet": [
+        "SOCIAL MEDIA",
+        "RUMORS AND MISINFORMATION"
+      ],
+      "org_facet": [
+        "MIDTERM ELECTIONS (2018)",
+        "FACEBOOK INC"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "adx_keywords": "Social Media;Midterm Elections (2018);Facebook Inc;Rumors and Misinformation",
+      "column": "",
+      "type": "Interactive",
+      "source": "The New York Times",
+      "id": 100000006078292,
+      "asset_id": 100000006078292,
+      "views": 6,
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": null,
+          "copyright": null,
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/us/facebook-influence-campaigns-quiz-promo-1536074235617/facebook-influence-campaigns-quiz-promo-1536074235617-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/us/facebook-influence-campaigns-quiz-promo-1536074235617/facebook-influence-campaigns-quiz-promo-1536074235617-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/us/facebook-influence-campaigns-quiz-promo-1536074235617/facebook-influence-campaigns-quiz-promo-1536074235617-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/us/facebook-influence-campaigns-quiz-promo-1536074235617/facebook-influence-campaigns-quiz-promo-1536074235617-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/us/facebook-influence-campaigns-quiz-promo-1536074235617/facebook-influence-campaigns-quiz-promo-1536074235617-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/us/facebook-influence-campaigns-quiz-promo-1536074235617/facebook-influence-campaigns-quiz-promo-1536074235617-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1366,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/us/facebook-influence-campaigns-quiz-promo-1536074235617/facebook-influence-campaigns-quiz-promo-1536074235617-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/us/facebook-influence-campaigns-quiz-promo-1536074235617/facebook-influence-campaigns-quiz-promo-1536074235617-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/us/facebook-influence-campaigns-quiz-promo-1536074235617/facebook-influence-campaigns-quiz-promo-1536074235617-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/us/facebook-influence-campaigns-quiz-promo-1536074235617/facebook-influence-campaigns-quiz-promo-1536074235617-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "U.S.",
+      "title": "How McCain Got the Last Word Against Trump",
+      "abstract": "For years, the president had used Twitter and his bully pulpit to mock and condemn the senator from Arizona. In death, John McCain found a way to have the last word.",
+      "url": "https://www.nytimes.com/2018/08/29/us/politics/mccain-funeral-trump.html",
+      "byline": "By MICHAEL D. SHEAR and KATIE ROGERS",
+      "published_date": "2018-08-29",
+      "des_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "FUNERALS AND MEMORIALS",
+        "NATIONAL CATHEDRAL (WASHINGTON, DC)"
+      ],
+      "per_facet": [
+        "MCCAIN, JOHN",
+        "BIDEN, JOSEPH R JR",
+        "BUSH, GEORGE W",
+        "DAVIS, RICK (1957- )",
+        "MATTIS, JAMES N",
+        "OBAMA, BARACK",
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": [
+        "PHOENIX (ARIZ)",
+        "SEDONA (ARIZ)"
+      ],
+      "adx_keywords": "McCain, John;Funerals and Memorials;United States Politics and Government;National Cathedral (Washington, DC);Biden, Joseph R Jr;Bush, George W;Davis, Rick (1957- );Mattis, James N;Obama, Barack;Trump, Donald J;Phoenix (Ariz);Sedona (Ariz)",
+      "column": null,
+      "type": "Article",
+      "source": "The New York Times",
+      "id": 100000006078055,
+      "asset_id": 100000006078055,
+      "views": 7,
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People paying their respects to Senator John McCain as his coffin lay in state at the Arizona Capitol in Phoenix on Wednesday.",
+          "copyright": "Pool photo by Jae C. Hong",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/politics/30dc-mccainlastwords1/30dc-mccainlastwords1-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/politics/30dc-mccainlastwords1/30dc-mccainlastwords1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/politics/30dc-mccainlastwords1/merlin_142972749_a54426be-fb9d-48e8-aa8b-b00c46a277ed-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/politics/30dc-mccainlastwords1/merlin_142972749_a54426be-fb9d-48e8-aa8b-b00c46a277ed-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/politics/30dc-mccainlastwords1/merlin_142972749_a54426be-fb9d-48e8-aa8b-b00c46a277ed-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/politics/30dc-mccainlastwords1/merlin_142972749_a54426be-fb9d-48e8-aa8b-b00c46a277ed-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/politics/30dc-mccainlastwords1/30dc-mccainlastwords1-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/politics/30dc-mccainlastwords1/30dc-mccainlastwords1-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/politics/30dc-mccainlastwords1/merlin_142972749_a54426be-fb9d-48e8-aa8b-b00c46a277ed-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/politics/30dc-mccainlastwords1/merlin_142972749_a54426be-fb9d-48e8-aa8b-b00c46a277ed-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Opinion",
+      "title": "They Sat in Hypocrisy",
+      "abstract": "Congressional Republicans made a show of honoring John McCain, even as they continue to reject his principles.",
+      "url": "https://www.nytimes.com/2018/09/02/opinion/columnists/republicans-mccain-hypocrisy.html",
+      "byline": "By DAVID LEONHARDT",
+      "published_date": "2018-09-02",
+      "des_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "FUNERALS AND MEMORIALS",
+        "REPUBLICAN PARTY"
+      ],
+      "per_facet": [
+        "MCCAIN, JOHN",
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": "",
+      "adx_keywords": "United States Politics and Government;Funerals and Memorials;Republican Party;McCain, John;Trump, Donald J",
+      "column": null,
+      "type": "Article",
+      "source": "The New York Times",
+      "id": 100000006078282,
+      "asset_id": 100000006078282,
+      "views": 8,
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At a ceremony for Senator John McCain on Friday in the Capitol Rotunda, front row from left:  Transportation Secretary Elaine Chao; the Senate majority leader, Mitch McConnell; Janna Ryan; the House speaker, Paul Ryan; Karen Pence; and Vice President Mike Pence.",
+          "copyright": "Drew Angerer/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/opinion/02leonhardt3/02leonhardt3-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/opinion/02leonhardt3/02leonhardt3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/opinion/02leonhardt3/02leonhardt3-articleInline.jpg",
+              "format": "Normal",
+              "height": 151,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/opinion/02leonhardt3/02leonhardt3-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/opinion/02leonhardt3/02leonhardt3-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 812,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/opinion/02leonhardt3/02leonhardt3-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1625,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/opinion/02leonhardt3/02leonhardt3-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/opinion/02leonhardt3/02leonhardt3-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/opinion/02leonhardt3/02leonhardt3-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/opinion/02leonhardt3/02leonhardt3-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Science",
+      "title": "Microwave Weapons Are Prime Suspect in Ills of U.S. Embassy Workers",
+      "abstract": "Doctors and scientists say microwave strikes may have caused sonic delusions and very real brain damage among embassy staff and family members.",
+      "url": "https://www.nytimes.com/2018/09/01/science/sonic-attack-cuba-microwave.html",
+      "byline": "By WILLIAM J. BROAD",
+      "published_date": "2018-09-01",
+      "des_facet": [
+        "DIPLOMATIC SERVICE, EMBASSIES AND CONSULATES",
+        "SONAR",
+        "UNITED STATES INTERNATIONAL RELATIONS",
+        "DEFENSE AND MILITARY FORCES"
+      ],
+      "org_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "EARS AND HEARING",
+        "ESPIONAGE AND INTELLIGENCE SERVICES",
+        "NERVES AND NERVOUS SYSTEM"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "HAVANA (CUBA)",
+        "CUBA",
+        "CHINA",
+        "RUSSIA"
+      ],
+      "adx_keywords": "Havana (Cuba);Diplomatic Service, Embassies and Consulates;Sonar;Cuba;United States International Relations;Defense and Military Forces;United States Politics and Government;Ears and Hearing;Espionage and Intelligence Services;Nerves and Nervous System;China;Russia;military weapons",
+      "column": null,
+      "type": "Article",
+      "source": "The New York Times",
+      "id": 100000006056835,
+      "asset_id": 100000006056835,
+      "views": 9,
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "U.S. Marines outside the embassy in Havana in February. Diplomats working here reported strange noises and mysterious symptoms that doctors and scientists say may have resulted from strikes with microwave weapons.",
+          "copyright": "Adalberto Roque/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/09/03/science/02microwaves1/17SCI-MICROWAVE2-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/03/science/02microwaves1/17SCI-MICROWAVE2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/03/science/02microwaves1/17SCI-MICROWAVE2-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/03/science/02microwaves1/17SCI-MICROWAVE2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/03/science/02microwaves1/17SCI-MICROWAVE2-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 682,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/03/science/02microwaves1/17SCI-MICROWAVE2-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1364,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/03/science/02microwaves1/17SCI-MICROWAVE2-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/03/science/02microwaves1/17SCI-MICROWAVE2-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/03/science/02microwaves1/02microwaves1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/03/science/02microwaves1/02microwaves1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "U.S.",
+      "title": "Ayanna Pressley Upsets Capuano in Massachusetts House Race",
+      "abstract": "Mr. Capuano, a 10-term incumbent, conceded to Ms. Pressley after a primary campaign in which she insisted that “change can’t wait.’’",
+      "url": "https://www.nytimes.com/2018/09/04/us/politics/ayanna-pressley-massachusetts.html",
+      "byline": "By KATHARINE Q. SEELYE",
+      "published_date": "2018-09-04",
+      "des_facet": [
+        "MIDTERM ELECTIONS (2018)",
+        "ELECTIONS, HOUSE OF REPRESENTATIVES",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "PRIMARIES AND CAUCUSES",
+        "DEMOCRATIC PARTY",
+        "HOUSE OF REPRESENTATIVES"
+      ],
+      "per_facet": [
+        "PRESSLEY, AYANNA",
+        "CAPUANO, MICHAEL E"
+      ],
+      "geo_facet": [
+        "MASSACHUSETTS",
+        "BOSTON (MASS)"
+      ],
+      "adx_keywords": "Midterm Elections (2018);Primaries and Caucuses;Pressley, Ayanna;Capuano, Michael E;Elections, House of Representatives;Massachusetts;United States Politics and Government;Democratic Party;House of Representatives;Boston (Mass)",
+      "column": null,
+      "type": "Article",
+      "source": "The New York Times",
+      "id": 100000006086235,
+      "asset_id": 100000006086235,
+      "views": 10,
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ayanna Pressley upset a 10-term incumbent in a Democratic primary for a Massachusetts House seat on Tuesday.",
+          "copyright": "Sarah Rice for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/09/05/us/politics/05massachusetts-4/05massachusetts-4-square320-v2.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/05/us/politics/05massachusetts-4/05massachusetts-4-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/05/us/politics/05massachusetts-4/05massachusetts-4-articleInline-v2.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/05/us/politics/05massachusetts-4/05massachusetts-4-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/05/us/politics/05massachusetts-4/05massachusetts-4-jumbo-v2.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/05/us/politics/05massachusetts-4/05massachusetts-4-superJumbo-v2.jpg",
+              "format": "superJumbo",
+              "height": 1366,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/05/us/politics/05massachusetts-4/05massachusetts-4-square640-v2.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/05/us/politics/05massachusetts-4/05massachusetts-4-thumbLarge-v2.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/05/us/politics/05massachusetts-4/05massachusetts-4-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/05/us/politics/05massachusetts-4/05massachusetts-4-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "U.S.",
+      "title": "Judge Rules Against Alex Jones and Infowars in Sandy Hook Lawsuit",
+      "abstract": "Mr. Jones sought to have the defamation case dismissed on free speech grounds.",
+      "url": "https://www.nytimes.com/2018/08/30/us/politics/alex-jones-infowars-sandy-hook-lawsuit.html",
+      "byline": "By ELIZABETH WILLIAMSON",
+      "published_date": "2018-08-30",
+      "des_facet": [
+        "LIBEL AND SLANDER",
+        "NEWTOWN, CONN, SHOOTING (2012)",
+        "SCHOOL SHOOTINGS AND ARMED ATTACKS",
+        "DECISIONS AND VERDICTS"
+      ],
+      "org_facet": [
+        "INFOWARS",
+        "SANDY HOOK ELEMENTARY SCHOOL (NEWTOWN, CONN)",
+        "FREEDOM OF SPEECH AND EXPRESSION",
+        "PARKLAND, FLA, SHOOTING (2018)"
+      ],
+      "per_facet": [
+        "JONES, ALEX (1974- )",
+        "POZNER, LEONARD"
+      ],
+      "geo_facet": "",
+      "adx_keywords": "Jones, Alex (1974- );Infowars;Libel and Slander;Newtown, Conn, Shooting (2012);School Shootings and Armed Attacks;Sandy Hook Elementary School (Newtown, Conn);Freedom of Speech and Expression;Parkland, Fla, Shooting (2018);Pozner, Leonard;Decisions and Verdicts",
+      "column": null,
+      "type": "Article",
+      "source": "The New York Times",
+      "id": 100000006080168,
+      "asset_id": 100000006080168,
+      "views": 11,
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The conspiracy theorist Alex Jones faces three defamation lawsuits filed by the relatives of Sandy Hook victims.",
+          "copyright": "Ilana Panich-Linsman for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/08/31/us/politics/31dc-alexjones/31dc-alexjones-square320-v2.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/31/us/politics/31dc-alexjones/31dc-alexjones-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/31/us/politics/31dc-alexjones/31dc-alexjones-articleInline-v2.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/31/us/politics/31dc-alexjones/31dc-alexjones-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/31/us/politics/31dc-alexjones/31dc-alexjones-jumbo-v2.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/31/us/politics/31dc-alexjones/31dc-alexjones-superJumbo-v2.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/31/us/politics/31dc-alexjones/31dc-alexjones-square640-v2.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/31/us/politics/31dc-alexjones/31dc-alexjones-thumbLarge-v2.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/31/us/politics/31dc-alexjones/31dc-alexjones-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/31/us/politics/31dc-alexjones/31dc-alexjones-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "U.S.",
+      "title": "Florida Primary Election Results",
+      "abstract": "See full results and maps from the Florida primaries.",
+      "url": "https://www.nytimes.com/interactive/2018/08/28/us/elections/florida-primary-elections.html",
+      "byline": "",
+      "published_date": "2018-08-28",
+      "des_facet": [
+        "ELECTIONS"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "adx_keywords": "Elections",
+      "column": "",
+      "type": "Interactive",
+      "source": "The New York Times",
+      "id": 100000006075583,
+      "asset_id": 100000006075583,
+      "views": 12,
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/08/28/us/elections/florida-primary-elections-1535471953824/florida-primary-elections-1535471953824-square320.png",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/28/us/elections/florida-primary-elections-1535471953824/florida-primary-elections-1535471953824-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/28/us/elections/florida-primary-elections-1535471953824/florida-primary-elections-1535471953824-articleInline.png",
+              "format": "Normal",
+              "height": 106,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/28/us/elections/florida-primary-elections-1535471953824/florida-primary-elections-1535471953824-sfSpan-v2.png",
+              "format": "Large",
+              "height": 264,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/28/us/elections/florida-primary-elections-1535471953824/florida-primary-elections-1535471953824-jumbo.png",
+              "format": "Jumbo",
+              "height": 560,
+              "width": 1000
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/28/us/elections/florida-primary-elections-1535471953824/florida-primary-elections-1535471953824-superJumbo.png",
+              "format": "superJumbo",
+              "height": 560,
+              "width": 1000
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/28/us/elections/florida-primary-elections-1535471953824/florida-primary-elections-1535471953824-thumbLarge.png",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/28/us/elections/florida-primary-elections-1535471953824/florida-primary-elections-1535471953824-mediumThreeByTwo210-v2.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/28/us/elections/florida-primary-elections-1535471953824/florida-primary-elections-1535471953824-mediumThreeByTwo440-v2.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Opinion",
+      "title": "Louis C.K. and Men Who Think Justice Takes as Long as They Want It To",
+      "abstract": "A comedian who admitted to sexual misconduct seems to think it’s time for his comeback.",
+      "url": "https://www.nytimes.com/2018/08/29/opinion/louis-ck-comeback-justice.html",
+      "byline": "By ROXANE GAY",
+      "published_date": "2018-08-29",
+      "des_facet": [
+        "COMEDY AND HUMOR",
+        "#METOO MOVEMENT",
+        "SEXUAL HARASSMENT"
+      ],
+      "org_facet": [
+        "WOMEN AND GIRLS",
+        "SEX CRIMES",
+        "COMEDY CELLAR"
+      ],
+      "per_facet": [
+        "C K, LOUIS"
+      ],
+      "geo_facet": "",
+      "adx_keywords": "Comedy and Humor;Women and Girls;#MeToo Movement;Sexual Harassment;Sex Crimes;Comedy Cellar;C K, Louis",
+      "column": null,
+      "type": "Article",
+      "source": "The New York Times",
+      "id": 100000006077858,
+      "asset_id": 100000006077858,
+      "views": 13,
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Louis C.K. performing in 2015.",
+          "copyright": "Jacob Blickenstaff for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/08/29/opinion/29gay/29gay-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/29/opinion/29gay/29gay-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/29/opinion/29gay/29gay-articleInline-v2.jpg",
+              "format": "Normal",
+              "height": 119,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/29/opinion/29gay/29gay-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/29/opinion/29gay/29gay-jumbo-v2.jpg",
+              "format": "Jumbo",
+              "height": 639,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/29/opinion/29gay/29gay-superJumbo-v2.jpg",
+              "format": "superJumbo",
+              "height": 1278,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/29/opinion/29gay/29gay-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/29/opinion/29gay/29gay-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/29/opinion/29gay/29gay-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/29/opinion/29gay/29gay-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Arts",
+      "title": "Pastor Accused of Groping Ariana Grande Apologizes for Being ‘Too Friendly’",
+      "abstract": "Bishop Charles H. Ellis III, a senior pastor at the megachurch where Aretha Franklin’s funeral was held, said it was never his intention to touch Ms. Grande’s breast.",
+      "url": "https://www.nytimes.com/2018/09/01/arts/music/ariana-grande-funeral-groping-bishop-ellis.html",
+      "byline": "By CHRISTINA CARON",
+      "published_date": "2018-09-01",
+      "des_facet": [
+        "#METOO MOVEMENT"
+      ],
+      "org_facet": [
+        "APOLOGIES",
+        "FUNERALS AND MEMORIALS",
+        "GREATER GRACE TEMPLE (DETROIT, MICH)"
+      ],
+      "per_facet": [
+        "ELLIS, CHARLES H III",
+        "GRANDE, ARIANA",
+        "FRANKLIN, ARETHA"
+      ],
+      "geo_facet": "",
+      "adx_keywords": "Ellis, Charles H III;Grande, Ariana;Apologies;Franklin, Aretha;Funerals and Memorials;Greater Grace Temple (Detroit, Mich);#MeToo Movement",
+      "column": null,
+      "type": "Article",
+      "source": "The New York Times",
+      "id": 100000006083141,
+      "asset_id": 100000006083141,
+      "views": 14,
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bishop Charles H. Ellis III speaking with the singer Ariana Grande after her performance at Aretha Franklin’s funeral on Friday. The pastor’s hand lingered near Ms. Grande’s right breast as he spoke to her, prompting an outcry on social media.",
+          "copyright": "Paul Sancya/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/us/02xp-grande/02xp-grande-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/us/02xp-grande/02xp-grande-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/us/02xp-grande/merlin_143109420_e34b2107-ec74-4f13-9534-f4cfbc7fabd0-articleInline.jpg",
+              "format": "Normal",
+              "height": 142,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/us/02xp-grande/merlin_143109420_e34b2107-ec74-4f13-9534-f4cfbc7fabd0-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/us/02xp-grande/merlin_143109420_e34b2107-ec74-4f13-9534-f4cfbc7fabd0-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 763,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/us/02xp-grande/merlin_143109420_e34b2107-ec74-4f13-9534-f4cfbc7fabd0-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1526,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/us/02xp-grande/02xp-grande-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/us/02xp-grande/02xp-grande-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/us/02xp-grande/merlin_143109420_e34b2107-ec74-4f13-9534-f4cfbc7fabd0-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/02/us/02xp-grande/merlin_143109420_e34b2107-ec74-4f13-9534-f4cfbc7fabd0-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Sports",
+      "title": "Colin Kaepernick’s Nike Campaign Keeps N.F.L. Anthem Kneeling in Spotlight",
+      "abstract": "On the eve of the N.F.L. season, Nike, one of the league’s most valued partner, begins a campaign with an athlete seen as hero to some, a pariah to others.",
+      "url": "https://www.nytimes.com/2018/09/03/sports/kaepernick-nike.html",
+      "byline": "By KEVIN DRAPER and KEN BELSON",
+      "published_date": "2018-09-03",
+      "des_facet": [
+        "FOOTBALL"
+      ],
+      "org_facet": [
+        "NATIONAL ANTHEMS",
+        "NATIONAL FOOTBALL LEAGUE",
+        "NIKE INC"
+      ],
+      "per_facet": [
+        "KAEPERNICK, COLIN",
+        "WILLIAMS, SERENA"
+      ],
+      "geo_facet": "",
+      "adx_keywords": "Football;National Anthems;National Football League;NIKE Inc;Kaepernick, Colin;Williams, Serena",
+      "column": null,
+      "type": "Article",
+      "source": "The New York Times",
+      "id": 100000006084948,
+      "asset_id": 100000006084948,
+      "views": 15,
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Colin Kaepernick tweeted the new Nike advertisement he appears in as part of a new deal with the company.",
+          "copyright": "Colin Kaepernick, via Twitter",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/sports/03kap/03kap-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/sports/03kap/merlin_143241012_bf33af10-09b1-420e-a8a1-46f5a1ed2b45-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/sports/03kap/merlin_143241012_bf33af10-09b1-420e-a8a1-46f5a1ed2b45-articleInline.jpg",
+              "format": "Normal",
+              "height": 195,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/sports/03kap/03kap-sfSpan.jpg",
+              "format": "Large",
+              "height": 264,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/sports/03kap/merlin_143241012_bf33af10-09b1-420e-a8a1-46f5a1ed2b45-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 1024,
+              "width": 999
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/sports/03kap/merlin_143241012_bf33af10-09b1-420e-a8a1-46f5a1ed2b45-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1204,
+              "width": 1174
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/sports/03kap/03kap-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/sports/03kap/merlin_143241012_bf33af10-09b1-420e-a8a1-46f5a1ed2b45-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/sports/03kap/03kap-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/sports/03kap/03kap-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Business Day",
+      "title": "Ronan Farrow’s Ex-Producer Says NBC Impeded Weinstein Reporting",
+      "abstract": "Rich McHugh said an order to pull the plug on an investigation of Harvey Weinstein had come from “the very highest levels of NBC.”",
+      "url": "https://www.nytimes.com/2018/08/30/business/media/ronan-farrow-weinstein-producer.html",
+      "byline": "By JOHN KOBLIN",
+      "published_date": "2018-08-30",
+      "des_facet": [
+        "#METOO MOVEMENT",
+        "NEWS AND NEWS MEDIA"
+      ],
+      "org_facet": [
+        "NBC NEWS",
+        "MSNBC",
+        "NEW YORKER",
+        "SEXUAL HARASSMENT",
+        "SEX CRIMES"
+      ],
+      "per_facet": [
+        "FARROW, RONAN",
+        "LACK, ANDREW",
+        "OPPENHEIM, NOAH",
+        "MCHUGH, RICH",
+        "WEINSTEIN, HARVEY"
+      ],
+      "geo_facet": "",
+      "adx_keywords": "NBC News;Farrow, Ronan;Lack, Andrew;Oppenheim, Noah;MSNBC;McHugh, Rich;#MeToo Movement;News and News Media;New Yorker;Weinstein, Harvey;Sexual Harassment;Sex Crimes",
+      "column": null,
+      "type": "Article",
+      "source": "The New York Times",
+      "id": 100000006079350,
+      "asset_id": 100000006079350,
+      "views": 16,
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Hollywood mogul Harvey Weinstein entering a court in Manhattan in June.",
+          "copyright": "Jeenah Moon for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/09/01/business/31nbc1jpprint/31nbc1-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/01/business/31nbc1jpprint/31nbc1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/01/business/31nbc1jpprint/31nbc1-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/01/business/31nbc1jpprint/31nbc1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/01/business/31nbc1jpprint/31nbc1-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/01/business/31nbc1jpprint/31nbc1-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1366,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/01/business/31nbc1jpprint/31nbc1-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/01/business/31nbc1jpprint/31nbc1-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/01/business/31nbc1jpprint/31nbc1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/01/business/31nbc1jpprint/31nbc1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "U.S.",
+      "title": "Justice Dept. Backs Suit Accusing Harvard of Discriminating Against Asian-American Applicants",
+      "abstract": "The agency has filed a so-called statement of interest in their case, saying that Harvard “has failed to show that it does not unlawfully discriminate.”",
+      "url": "https://www.nytimes.com/2018/08/30/us/politics/asian-students-affirmative-action-harvard.html",
+      "byline": "By KATIE BENNER",
+      "published_date": "2018-08-30",
+      "des_facet": [
+        "COLLEGES AND UNIVERSITIES",
+        "ADMISSIONS STANDARDS",
+        "DISCRIMINATION",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "HARVARD UNIVERSITY",
+        "ASIAN-AMERICANS",
+        "AFFIRMATIVE ACTION",
+        "SUITS AND LITIGATION (CIVIL)",
+        "JUSTICE DEPARTMENT",
+        "CIVIL RIGHTS AND LIBERTIES"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "adx_keywords": "Harvard University;Colleges and Universities;Asian-Americans;Affirmative Action;Admissions Standards;Suits and Litigation (Civil);Discrimination;Justice Department;United States Politics and Government;Civil Rights and Liberties",
+      "column": null,
+      "type": "Article",
+      "source": "The New York Times",
+      "id": 100000006078851,
+      "asset_id": 100000006078851,
+      "views": 17,
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Widener Library at Harvard. “Harvard has failed to show that it does not unlawfully discriminate against Asian-Americans,” the Justice Department said.",
+          "copyright": "Hadley Green for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/06/17/us/31dc-justive-alpha/merlin_137584221_af727385-a4f5-400f-b14b-6c7b9f5d752f-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/06/17/us/31dc-justive-alpha/merlin_137584221_af727385-a4f5-400f-b14b-6c7b9f5d752f-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/06/17/us/31dc-justive-alpha/merlin_137584221_af727385-a4f5-400f-b14b-6c7b9f5d752f-articleInline.jpg",
+              "format": "Normal",
+              "height": 134,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/06/17/us/31dc-justive-alpha/merlin_137584221_af727385-a4f5-400f-b14b-6c7b9f5d752f-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/06/17/us/31dc-justive-alpha/merlin_137584221_af727385-a4f5-400f-b14b-6c7b9f5d752f-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 724,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/06/17/us/31dc-justive-alpha/merlin_137584221_af727385-a4f5-400f-b14b-6c7b9f5d752f-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1447,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/06/17/us/31dc-justive-alpha/merlin_137584221_af727385-a4f5-400f-b14b-6c7b9f5d752f-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/06/17/us/31dc-justive-alpha/merlin_137584221_af727385-a4f5-400f-b14b-6c7b9f5d752f-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/06/17/us/31dc-justive-alpha/merlin_137584221_af727385-a4f5-400f-b14b-6c7b9f5d752f-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/06/17/us/31dc-justive-alpha/merlin_137584221_af727385-a4f5-400f-b14b-6c7b9f5d752f-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "U.S.",
+      "title": "Massachusetts Primary Election Results",
+      "abstract": "See full results and maps from the Massachusetts primaries.",
+      "url": "https://www.nytimes.com/interactive/2018/09/04/us/elections/results-massachusetts-primary-elections.html",
+      "byline": "",
+      "published_date": "2018-09-04",
+      "des_facet": [
+        "ELECTIONS",
+        "MIDTERM ELECTIONS (2018)"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "MASSACHUSETTS"
+      ],
+      "adx_keywords": "Elections;Midterm Elections (2018);Massachusetts",
+      "column": "",
+      "type": "Interactive",
+      "source": "The New York Times",
+      "id": 100000006078308,
+      "asset_id": 100000006078308,
+      "views": 18,
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/us/elections/results-massachusetts-primary-elections-1536089817539/results-massachusetts-primary-elections-1536089817539-square320.png",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/us/elections/results-massachusetts-primary-elections-1536089817539/results-massachusetts-primary-elections-1536089817539-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/us/elections/results-massachusetts-primary-elections-1536089817539/results-massachusetts-primary-elections-1536089817539-articleInline.png",
+              "format": "Normal",
+              "height": 106,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/us/elections/results-massachusetts-primary-elections-1536089817539/results-massachusetts-primary-elections-1536089817539-sfSpan.png",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/us/elections/results-massachusetts-primary-elections-1536089817539/results-massachusetts-primary-elections-1536089817539-jumbo.png",
+              "format": "Jumbo",
+              "height": 560,
+              "width": 1000
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/us/elections/results-massachusetts-primary-elections-1536089817539/results-massachusetts-primary-elections-1536089817539-superJumbo.png",
+              "format": "superJumbo",
+              "height": 560,
+              "width": 1000
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/us/elections/results-massachusetts-primary-elections-1536089817539/results-massachusetts-primary-elections-1536089817539-thumbLarge.png",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/us/elections/results-massachusetts-primary-elections-1536089817539/results-massachusetts-primary-elections-1536089817539-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/09/04/us/elections/results-massachusetts-primary-elections-1536089817539/results-massachusetts-primary-elections-1536089817539-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "U.S.",
+      "title": "4 Takeaways From Tuesday’s Primaries",
+      "abstract": "Races for governor have often yielded centrist candidates. Voters in Florida, Oklahoma and Arizona chose a different route. And women, once again, made a strong showing in House races.",
+      "url": "https://www.nytimes.com/2018/08/29/us/politics/arizona-florida-election.html",
+      "byline": "By ALEXANDER BURNS",
+      "published_date": "2018-08-29",
+      "des_facet": [
+        "MIDTERM ELECTIONS (2018)",
+        "POLITICS AND GOVERNMENT",
+        "PRIMARIES AND CAUCUSES"
+      ],
+      "org_facet": [
+        "ELECTIONS, GOVERNORS",
+        "ELECTIONS, SENATE",
+        "GOVERNORS (US)",
+        "DEMOCRATIC PARTY",
+        "REPUBLICAN PARTY"
+      ],
+      "per_facet": [
+        "DESANTIS, RON",
+        "GILLUM, ANDREW",
+        "GRAHAM, GWEN",
+        "MCSALLY, MARTHA"
+      ],
+      "geo_facet": [
+        "ARIZONA",
+        "FLORIDA",
+        "OKLAHOMA"
+      ],
+      "adx_keywords": "Midterm Elections (2018);Politics and Government;Primaries and Caucuses;Elections, Governors;Elections, Senate;Governors (US);Democratic Party;Republican Party;DeSantis, Ron;Gillum, Andrew;Graham, Gwen;McSally, Martha;Arizona;Florida;Oklahoma",
+      "column": null,
+      "type": "Article",
+      "source": "The New York Times",
+      "id": 100000006076558,
+      "asset_id": 100000006076558,
+      "views": 19,
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Supporters of Andrew Gillum cheered at his primary night party on Tuesday.",
+          "copyright": "Joe Rondone/Tallahassee Democrat, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/politics/30TAKEAWAYS1/30TAKEAWAYS1-square320-v3.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/politics/30TAKEAWAYS1/30TAKEAWAYS1-thumbStandard-v4.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/politics/30TAKEAWAYS1/30TAKEAWAYS1-articleInline-v3.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/politics/30TAKEAWAYS1/30TAKEAWAYS1-sfSpan-v3.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/politics/30TAKEAWAYS1/30TAKEAWAYS1-jumbo-v3.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/politics/30TAKEAWAYS1/30TAKEAWAYS1-superJumbo-v3.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/politics/30TAKEAWAYS1/30TAKEAWAYS1-square640-v3.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/politics/30TAKEAWAYS1/30TAKEAWAYS1-thumbLarge-v4.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/politics/30TAKEAWAYS1/30TAKEAWAYS1-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/30/us/politics/30TAKEAWAYS1/30TAKEAWAYS1-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "U.S.",
+      "title": "Arizona Primary Election Results",
+      "abstract": "See full results and maps from the Arizona primaries.",
+      "url": "https://www.nytimes.com/interactive/2018/08/28/us/elections/arizona-primary-elections.html",
+      "byline": "",
+      "published_date": "2018-08-28",
+      "des_facet": [
+        "ELECTIONS"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "adx_keywords": "Elections",
+      "column": "",
+      "type": "Interactive",
+      "source": "The New York Times",
+      "id": 100000006075577,
+      "asset_id": 100000006075577,
+      "views": 20,
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/08/28/us/elections/arizona-primary-elections-1535471701323/arizona-primary-elections-1535471701323-square320.png",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/28/us/elections/arizona-primary-elections-1535471701323/arizona-primary-elections-1535471701323-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/28/us/elections/arizona-primary-elections-1535471701323/arizona-primary-elections-1535471701323-articleInline.png",
+              "format": "Normal",
+              "height": 106,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/28/us/elections/arizona-primary-elections-1535471701323/arizona-primary-elections-1535471701323-sfSpan-v2.png",
+              "format": "Large",
+              "height": 264,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/28/us/elections/arizona-primary-elections-1535471701323/arizona-primary-elections-1535471701323-jumbo.png",
+              "format": "Jumbo",
+              "height": 560,
+              "width": 1000
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/28/us/elections/arizona-primary-elections-1535471701323/arizona-primary-elections-1535471701323-superJumbo.png",
+              "format": "superJumbo",
+              "height": 560,
+              "width": 1000
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/28/us/elections/arizona-primary-elections-1535471701323/arizona-primary-elections-1535471701323-thumbLarge.png",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/28/us/elections/arizona-primary-elections-1535471701323/arizona-primary-elections-1535471701323-mediumThreeByTwo210-v2.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/08/28/us/elections/arizona-primary-elections-1535471701323/arizona-primary-elections-1535471701323-mediumThreeByTwo440-v2.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
