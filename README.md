@@ -1,6 +1,6 @@
 # News App
 
-A simple Android app developed for teaching. The application displays news from NYTimes API. The application has been developed to teach concepts like:
+A simple Android app developed for teaching purpose. The application displays news from NYTimes API. The application has been developed to teach concepts like:
   - Dependency Injection using dagger.
   - Rx (Single, Observable, RxRelay) etc. 
   - Conductor as a replacement of fragment
