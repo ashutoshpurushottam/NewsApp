@@ -2,14 +2,14 @@ package com.eigendaksh.newsapp.home;
 
 import com.bluelinelabs.conductor.Controller;
 import com.eigendaksh.newsapp.di.ControllerKey;
-import com.eigendaksh.newsapp.screens.business.BusinessStoriesController;
-import com.eigendaksh.newsapp.screens.business.BusinessStoriesControllerComponent;
-import com.eigendaksh.newsapp.screens.popular.PopularStoriesController;
-import com.eigendaksh.newsapp.screens.popular.PopularStoriesControllerComponent;
-import com.eigendaksh.newsapp.screens.sports.SportsStoriesController;
-import com.eigendaksh.newsapp.screens.sports.SportsStoriesControllerComponent;
-import com.eigendaksh.newsapp.screens.topstories.TopStoriesController;
-import com.eigendaksh.newsapp.screens.topstories.TopStoriesControllerComponent;
+import com.eigendaksh.newsapp.home.screens.business.BusinessStoriesController;
+import com.eigendaksh.newsapp.home.screens.business.BusinessStoriesControllerComponent;
+import com.eigendaksh.newsapp.home.screens.popular.PopularStoriesController;
+import com.eigendaksh.newsapp.home.screens.popular.PopularStoriesControllerComponent;
+import com.eigendaksh.newsapp.home.screens.sports.SportsStoriesController;
+import com.eigendaksh.newsapp.home.screens.sports.SportsStoriesControllerComponent;
+import com.eigendaksh.newsapp.home.screens.topstories.TopStoriesController;
+import com.eigendaksh.newsapp.home.screens.topstories.TopStoriesControllerComponent;
 
 import dagger.Binds;
 import dagger.Module;

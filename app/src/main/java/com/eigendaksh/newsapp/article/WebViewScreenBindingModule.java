@@ -2,8 +2,8 @@ package com.eigendaksh.newsapp.article;
 
 import com.bluelinelabs.conductor.Controller;
 import com.eigendaksh.newsapp.di.ControllerKey;
-import com.eigendaksh.newsapp.screens.article.ArticleController;
-import com.eigendaksh.newsapp.screens.article.ArticleControllerComponent;
+import com.eigendaksh.newsapp.home.screens.article.ArticleController;
+import com.eigendaksh.newsapp.home.screens.article.ArticleControllerComponent;
 
 import dagger.Binds;
 import dagger.Module;

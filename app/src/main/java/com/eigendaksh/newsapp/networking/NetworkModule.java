@@ -33,7 +33,7 @@ public abstract class NetworkModule {
     @Provides
     @Named("nytimes_base_url")
     static String provideBaseUrl() {
-        return " http://api.nytimes.com/svc/";
+        return "http://api.nytimes.com/svc/";
     }
 
 

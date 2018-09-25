@@ -24,8 +24,8 @@ import javax.inject.Inject;
 public abstract class BaseActivity extends AppCompatActivity {
 
     private static final String INSTANCE_ID_KEY = "instance_id";
-
     @Inject ScreenInjector screenInjector;
+
     private String instanceId;
     private Router router;
 
@@ -53,7 +53,9 @@ public abstract class BaseActivity extends AppCompatActivity {
         if (!router.hasRootController()) {
             router.setRoot(RouterTransaction.with(initialScreen()));
         }
+
         monitorBackStack();
+
         super.onCreate(savedInstanceState);
     }
 
@@ -85,7 +87,7 @@ public abstract class BaseActivity extends AppCompatActivity {
 
     @Override
     public void onBackPressed() {
-        if (router == null || !router.handleBack()) {
+        if (router != null && router.handleBack()) {
             super.onBackPressed();
         }
     }

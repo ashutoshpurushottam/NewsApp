@@ -1,6 +1,5 @@
 package com.eigendaksh.newsapp.home;
 
-import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.TabLayout;
 import android.support.v4.view.ViewPager;
@@ -12,10 +11,12 @@ import com.bluelinelabs.conductor.RouterTransaction;
 import com.eigendaksh.newsapp.R;
 import com.eigendaksh.newsapp.base.BaseController;
 import com.eigendaksh.newsapp.data.NewsRequester;
-import com.eigendaksh.newsapp.screens.business.BusinessStoriesController;
-import com.eigendaksh.newsapp.screens.popular.PopularStoriesController;
-import com.eigendaksh.newsapp.screens.sports.SportsStoriesController;
-import com.eigendaksh.newsapp.screens.topstories.TopStoriesController;
+import com.eigendaksh.newsapp.home.screens.business.BusinessStoriesController;
+import com.eigendaksh.newsapp.home.screens.popular.PopularStoriesController;
+import com.eigendaksh.newsapp.home.screens.sports.SportsStoriesController;
+import com.eigendaksh.newsapp.home.screens.topstories.TopStoriesController;
+
+import java.util.Objects;
 
 import javax.inject.Inject;
 
@@ -84,6 +85,7 @@ public class MainActivityContainerController extends BaseController {
         super.onViewBound(view);
         viewPager.setAdapter(pagerAdapter);
         tabLayout.setupWithViewPager(viewPager);
+        Objects.requireNonNull(getActivity()).setTitle(getActivity().getString(R.string.main_screen_title));
     }
 
     @Override

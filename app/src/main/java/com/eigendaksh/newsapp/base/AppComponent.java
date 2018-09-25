@@ -13,7 +13,6 @@ import dagger.Component;
         ActivityBindingModule.class,
         ServiceModule.class,
         NewsServiceModule.class,
-
 })
 public interface AppComponent {
     void inject(MyApplication myApplication);

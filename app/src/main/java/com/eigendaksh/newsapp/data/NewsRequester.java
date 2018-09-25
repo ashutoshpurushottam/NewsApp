@@ -1,15 +1,19 @@
 package com.eigendaksh.newsapp.data;
 
 import com.eigendaksh.newsapp.apiResponses.PopularStoriesApiResponse;
+import com.eigendaksh.newsapp.apiResponses.SearchApiResponse;
 import com.eigendaksh.newsapp.apiResponses.StoriesApiResponse;
+import com.eigendaksh.newsapp.di.ScreenScope;
 import com.eigendaksh.newsapp.model.others.Story;
 import com.eigendaksh.newsapp.model.popular.PopularStory;
+import com.eigendaksh.newsapp.model.search.SearchDocument;
 
 import java.util.List;
 
 import javax.inject.Inject;
 
 import io.reactivex.Single;
+import io.reactivex.functions.Function;
 import io.reactivex.schedulers.Schedulers;
 import timber.log.Timber;
 
@@ -45,6 +49,13 @@ public class NewsRequester {
     public Single<List<PopularStory>> getPopularStories() {
         return service.getPopularStories()
                 .map(PopularStoriesApiResponse::popularStories)
+                .doOnError(throwable -> Timber.e(throwable.getLocalizedMessage()))
+                .subscribeOn(Schedulers.io());
+    }
+
+    public Single<List<SearchDocument>> getSearchStories(String query, String categories) {
+        return service.getSearchStories(query, categories)
+                .map(searchApiResponse -> searchApiResponse.searchResponseWrapper().searchDocumentList())
                 .doOnError(throwable -> Timber.e(throwable.getLocalizedMessage()))
                 .subscribeOn(Schedulers.io());
     }

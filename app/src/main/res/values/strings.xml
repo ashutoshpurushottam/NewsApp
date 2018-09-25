@@ -1,4 +1,19 @@
 <resources>
     <string name="app_name">NewsApp</string>
     <string name="api_error_story">Failed to download news from NYTimes API. Please try again later.</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_help">Help</string>
+    <string name="settings_about">About</string>
+    <string name="search">Search</string>
+    <string name="search_query">Enter search query</string>
+    <string name="checkbox_item_arts">Arts</string>
+    <string name="checkbox_item_business">Business</string>
+    <string name="checkbox_item_entrepreneur">Entrepreneurs</string>
+    <string name="checkbox_item_politics">Politics</string>
+    <string name="checkbox_item_sports">Sports</string>
+    <string name="checkbox_item_travel">Travel</string>
+    <string name="search_button">SEARCH</string>
+    <string name="main_screen_title">News App</string>
+    <string name="search_screen_title">Search News</string>
+    <string name="api_search_error">Could not load articles for this search</string>
 </resources>

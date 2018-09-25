@@ -4,7 +4,7 @@ package com.eigendaksh.newsapp.article;
 import com.bluelinelabs.conductor.Controller;
 import com.eigendaksh.newsapp.R;
 import com.eigendaksh.newsapp.base.BaseActivity;
-import com.eigendaksh.newsapp.screens.article.ArticleController;
+import com.eigendaksh.newsapp.home.screens.article.ArticleController;
 
 public class WebViewActivity extends BaseActivity {
 

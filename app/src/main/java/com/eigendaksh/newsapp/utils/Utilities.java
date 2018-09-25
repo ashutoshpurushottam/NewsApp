@@ -2,6 +2,7 @@ package com.eigendaksh.newsapp.utils;
 
 import com.eigendaksh.newsapp.model.popular.PopularStory;
 import com.eigendaksh.newsapp.model.others.Story;
+import com.eigendaksh.newsapp.model.search.SearchDocument;
 
 import org.threeten.bp.format.DateTimeFormatter;
 
@@ -14,6 +15,22 @@ public class Utilities {
 
     public static String getDateFromStory(Story story) {
         return DateTimeFormatter.ofPattern("dd MMM").format(story.updatedDate());
+    }
+
+    public static String getDateFromSearchDocument(SearchDocument searchDocument) {
+        try {
+            return searchDocument.publishedDate().split("T")[0];
+        } catch (Exception e) {
+            return "NA";
+        }
+    }
+
+    public static String getSectionFromDocument(SearchDocument searchDocument) {
+        try {
+            return searchDocument.sectionName();
+        } catch (Exception e) {
+            return "NA";
+        }
     }
 
 
