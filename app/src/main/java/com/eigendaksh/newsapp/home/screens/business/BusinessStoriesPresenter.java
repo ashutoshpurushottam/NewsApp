@@ -2,7 +2,7 @@ package com.eigendaksh.newsapp.home.screens.business;
 
 import android.annotation.SuppressLint;
 
-import com.eigendaksh.newsapp.data.NewsRequester;
+import com.eigendaksh.newsapp.data.NewsRepository;
 import com.eigendaksh.newsapp.di.ScreenScope;
 import com.eigendaksh.newsapp.home.screens.BaseStoriesPresenter;
 import com.eigendaksh.newsapp.home.screens.StoriesViewModel;
@@ -13,19 +13,19 @@ import javax.inject.Inject;
 public class BusinessStoriesPresenter extends BaseStoriesPresenter {
 
     private final StoriesViewModel viewModel;
-    private final NewsRequester newsRequester;
+    private final NewsRepository newsRepository;
 
 
     @Inject
-    public BusinessStoriesPresenter(StoriesViewModel viewModel, NewsRequester newsRequester) {
+    public BusinessStoriesPresenter(StoriesViewModel viewModel, NewsRepository newsRepository) {
         this.viewModel = viewModel;
-        this.newsRequester = newsRequester;
+        this.newsRepository = newsRepository;
         loadBusinessStories();
     }
 
     @SuppressLint("CheckResult")
     private void loadBusinessStories() {
-        newsRequester.getBusinessStories()
+        newsRepository.getBusinessStories()
                 .doOnSubscribe(__ -> viewModel.loadingUpdated().accept(true))
                 .doOnEvent((d, t) -> viewModel.loadingUpdated().accept(false))
                 .subscribe(viewModel.storyUpdated(), viewModel.onError());

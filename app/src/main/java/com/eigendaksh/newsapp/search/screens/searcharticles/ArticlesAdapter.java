@@ -1,6 +1,5 @@
 package com.eigendaksh.newsapp.search.screens.searcharticles;
 
-import android.content.Context;
 import android.support.annotation.NonNull;
 import android.support.v7.util.DiffUtil;
 import android.support.v7.widget.RecyclerView;
@@ -15,11 +14,7 @@ import com.bumptech.glide.Priority;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.bumptech.glide.request.RequestOptions;
 import com.eigendaksh.newsapp.R;
-import com.eigendaksh.newsapp.home.screens.StoryClickedListener;
-import com.eigendaksh.newsapp.home.screens.StoryDiffCallBack;
-import com.eigendaksh.newsapp.model.others.Story;
 import com.eigendaksh.newsapp.model.search.SearchDocument;
-import com.eigendaksh.newsapp.utils.Utilities;
 
 import java.util.ArrayList;
 import java.util.List;

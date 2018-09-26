@@ -2,7 +2,6 @@ package com.eigendaksh.newsapp.home.screens.article;
 
 import android.annotation.SuppressLint;
 import android.graphics.Bitmap;
-import android.os.Bundle;
 import android.view.View;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
@@ -12,7 +11,6 @@ import com.eigendaksh.newsapp.R;
 import com.eigendaksh.newsapp.base.BaseController;
 
 import butterknife.BindView;
-import timber.log.Timber;
 
 public class ArticleController extends BaseController {
 
@@ -33,7 +31,6 @@ public class ArticleController extends BaseController {
         super.onViewBound(view);
         if(getActivity() != null) {
             String url = getActivity().getIntent().getStringExtra("url");
-            Timber.i("Url: %s", url);
             webView.setWebViewClient(new ArticleClient());
             webView.getSettings().setJavaScriptEnabled(true);
             webView.loadUrl(url);

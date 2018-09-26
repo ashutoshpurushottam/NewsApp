@@ -33,7 +33,7 @@ public class SportsStoriesController extends BaseController {
 
     @Override
     protected int layoutRes() {
-        return R.layout.sports_screen;
+        return R.layout.screen_trending_news;
     }
 
     @Override

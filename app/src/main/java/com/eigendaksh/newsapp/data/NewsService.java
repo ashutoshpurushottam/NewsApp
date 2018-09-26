@@ -4,10 +4,8 @@ import com.eigendaksh.newsapp.apiResponses.PopularStoriesApiResponse;
 import com.eigendaksh.newsapp.apiResponses.SearchApiResponse;
 import com.eigendaksh.newsapp.apiResponses.StoriesApiResponse;
 
-import dagger.Provides;
 import io.reactivex.Single;
 import retrofit2.http.GET;
-import retrofit2.http.Path;
 import retrofit2.http.Query;
 
 // Base: http://api.nytimes.com/svc/

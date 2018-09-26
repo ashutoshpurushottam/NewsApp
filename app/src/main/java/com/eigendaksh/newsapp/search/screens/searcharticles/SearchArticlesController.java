@@ -9,7 +9,6 @@ import android.widget.TextView;
 import com.bluelinelabs.conductor.Controller;
 import com.eigendaksh.newsapp.R;
 import com.eigendaksh.newsapp.base.BaseController;
-import com.eigendaksh.newsapp.home.screens.StoriesAdapter;
 import com.eigendaksh.newsapp.model.search.SearchDocument;
 
 import java.util.List;
@@ -20,19 +19,15 @@ import butterknife.BindView;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.disposables.Disposable;
 import io.reactivex.functions.Consumer;
-import timber.log.Timber;
 
 public class SearchArticlesController extends BaseController {
 
     @Inject SearchArticlesViewModel viewModel;
     @Inject SearchArticlesPresenter presenter;
 
-    @BindView(R.id.news_list)
-    RecyclerView newsList;
-    @BindView(R.id.loading_indicator)
-    View loadingView;
-    @BindView(R.id.tv_error)
-    TextView errorText;
+    @BindView(R.id.news_list) RecyclerView newsList;
+    @BindView(R.id.loading_indicator) View loadingView;
+    @BindView(R.id.tv_error) TextView errorText;
 
 
     static final String QUERY_KEY = "query";
@@ -96,6 +91,4 @@ public class SearchArticlesController extends BaseController {
                 })
         };
     }
-
-
 }

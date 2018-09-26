@@ -1,6 +1,7 @@
 package com.eigendaksh.newsapp.search.screens.search;
 
 import com.eigendaksh.newsapp.di.ScreenScope;
+
 import javax.inject.Inject;
 
 

@@ -1,7 +1,7 @@
 package com.eigendaksh.newsapp.utils;
 
-import com.eigendaksh.newsapp.model.popular.PopularStory;
 import com.eigendaksh.newsapp.model.others.Story;
+import com.eigendaksh.newsapp.model.popular.PopularStory;
 import com.eigendaksh.newsapp.model.search.SearchDocument;
 
 import org.threeten.bp.format.DateTimeFormatter;

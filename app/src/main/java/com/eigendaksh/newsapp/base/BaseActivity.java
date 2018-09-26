@@ -87,7 +87,7 @@ public abstract class BaseActivity extends AppCompatActivity {
 
     @Override
     public void onBackPressed() {
-        if (router != null && router.handleBack()) {
+        if (!router.handleBack()) {
             super.onBackPressed();
         }
     }

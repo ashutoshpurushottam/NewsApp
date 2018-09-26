@@ -5,8 +5,6 @@ import com.squareup.moshi.Json;
 import com.squareup.moshi.JsonAdapter;
 import com.squareup.moshi.Moshi;
 
-import javax.annotation.Nullable;
-
 @AutoValue
 public abstract class SearchMultimediaObject {
     @Json(name = "url")

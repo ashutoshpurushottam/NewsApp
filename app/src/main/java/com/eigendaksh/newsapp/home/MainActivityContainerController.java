@@ -10,7 +10,6 @@ import com.bluelinelabs.conductor.Router;
 import com.bluelinelabs.conductor.RouterTransaction;
 import com.eigendaksh.newsapp.R;
 import com.eigendaksh.newsapp.base.BaseController;
-import com.eigendaksh.newsapp.data.NewsRequester;
 import com.eigendaksh.newsapp.home.screens.business.BusinessStoriesController;
 import com.eigendaksh.newsapp.home.screens.popular.PopularStoriesController;
 import com.eigendaksh.newsapp.home.screens.sports.SportsStoriesController;
@@ -25,9 +24,6 @@ import butterknife.BindView;
 public class MainActivityContainerController extends BaseController {
 
     private final String[] PAGE_TITLES = {"TOP STORIES", "MOST POPULAR", "BUSINESS", "SPORTS"};
-
-    @Inject
-    NewsRequester requester;
 
     @BindView(R.id.tab_layout)
     TabLayout tabLayout;

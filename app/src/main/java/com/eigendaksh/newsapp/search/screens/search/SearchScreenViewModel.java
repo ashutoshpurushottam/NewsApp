@@ -1,9 +1,7 @@
 package com.eigendaksh.newsapp.search.screens.search;
 
 import com.eigendaksh.newsapp.di.ScreenScope;
-import com.eigendaksh.newsapp.model.others.Story;
 import com.jakewharton.rxrelay2.BehaviorRelay;
-
 
 import javax.inject.Inject;
 

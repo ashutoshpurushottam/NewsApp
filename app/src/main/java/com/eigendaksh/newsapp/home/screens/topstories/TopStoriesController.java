@@ -7,8 +7,8 @@ import android.widget.TextView;
 
 import com.eigendaksh.newsapp.R;
 import com.eigendaksh.newsapp.base.BaseController;
-import com.eigendaksh.newsapp.home.screens.StoriesViewModel;
 import com.eigendaksh.newsapp.home.screens.StoriesAdapter;
+import com.eigendaksh.newsapp.home.screens.StoriesViewModel;
 
 import javax.inject.Inject;
 
@@ -28,7 +28,7 @@ public class TopStoriesController extends BaseController {
 
     @Override
     protected int layoutRes() {
-        return R.layout.top_stories_screen;
+        return R.layout.screen_trending_news;
     }
 
     @Override

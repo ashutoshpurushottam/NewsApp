@@ -5,7 +5,6 @@ import com.squareup.moshi.Json;
 import com.squareup.moshi.JsonAdapter;
 import com.squareup.moshi.Moshi;
 
-
 import java.util.List;
 
 import javax.annotation.Nullable;

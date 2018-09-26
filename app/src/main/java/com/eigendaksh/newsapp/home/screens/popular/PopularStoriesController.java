@@ -27,7 +27,7 @@ public class PopularStoriesController extends BaseController {
 
     @Override
     protected int layoutRes() {
-        return R.layout.most_popular_screen;
+        return R.layout.screen_trending_news;
     }
 
     @Override
