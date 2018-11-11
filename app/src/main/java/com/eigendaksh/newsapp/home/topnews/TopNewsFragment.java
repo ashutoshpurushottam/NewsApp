@@ -1,0 +1,84 @@
+package com.eigendaksh.newsapp.home.topnews;
+
+
+import android.arch.lifecycle.ViewModelProviders;
+import android.os.Bundle;
+import android.support.annotation.NonNull;
+import android.support.annotation.Nullable;
+import android.support.v4.app.Fragment;
+import android.support.v7.widget.DividerItemDecoration;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
+import android.view.View;
+import android.widget.TextView;
+
+import com.eigendaksh.newsapp.R;
+import com.eigendaksh.newsapp.base.BaseFragment;
+import com.eigendaksh.newsapp.home.adapter.StoriesAdapter;
+
+import butterknife.BindView;
+
+/**
+ * A simple {@link Fragment} subclass.
+ */
+public class TopNewsFragment extends BaseFragment {
+
+
+    @BindView(R.id.news_list) RecyclerView newsList;
+    @BindView(R.id.loading_indicator) View loadingView;
+    @BindView(R.id.tv_error) TextView errorText;
+
+    private TopNewsViewModel viewModel;
+
+    public TopNewsFragment() {
+        // Required empty public constructor
+    }
+
+    public static TopNewsFragment newInstance() {
+        return new TopNewsFragment();
+    }
+
+    @Override
+    public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
+        super.onViewCreated(view, savedInstanceState);
+        viewModel = ViewModelProviders.of(this).get(TopNewsViewModel.class);
+        newsList.addItemDecoration(new DividerItemDecoration(view.getContext(), DividerItemDecoration.VERTICAL));
+        newsList.setLayoutManager(new LinearLayoutManager(view.getContext()));
+        newsList.setAdapter(new StoriesAdapter());
+        observeViewModel();
+    }
+
+    @SuppressWarnings("ConstantConditions")
+    private void observeViewModel() {
+
+        viewModel.getLoading().observe(this, isLoading -> {
+            loadingView.setVisibility(isLoading ? View.VISIBLE : View.GONE);
+            newsList.setVisibility(isLoading ? View.GONE : View.VISIBLE);
+            errorText.setVisibility(isLoading ? View.GONE : errorText.getVisibility());
+        });
+
+        viewModel.getError().observe(this, isError -> {
+            if(isError) {
+                errorText.setVisibility(View.VISIBLE);
+                newsList.setVisibility(View.GONE);
+                errorText.setText(R.string.api_error_story);
+            } else {
+                errorText.setVisibility(View.GONE);
+                errorText.setText(null);
+            }
+        });
+
+        viewModel.getTopStories().observe(this, stories -> {
+            StoriesAdapter adapter = (StoriesAdapter) newsList.getAdapter();
+            adapter.setData(stories);
+        });
+
+    }
+
+
+    @Override
+    public int layoutRes() {
+        return R.layout.screen_trending_news;
+    }
+
+}

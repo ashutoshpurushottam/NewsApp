@@ -4,7 +4,10 @@ import com.eigendaksh.newsapp.apiResponses.PopularStoriesApiResponse;
 import com.eigendaksh.newsapp.apiResponses.SearchApiResponse;
 import com.eigendaksh.newsapp.apiResponses.StoriesApiResponse;
 
+import javax.inject.Singleton;
+
 import io.reactivex.Single;
+import retrofit2.Call;
 import retrofit2.http.GET;
 import retrofit2.http.Query;
 
@@ -29,6 +32,6 @@ public interface NewsService {
     Single<StoriesApiResponse> getSportsStories();
 
     @GET("search/v2/articlesearch.json?&begin_date=20180701&end_date=20180925&sort=newest&page=1&api-key=a27a66145d4542d28a719cecee6de859")
-    Single<SearchApiResponse> getSearchStories(@Query("q") String query, @Query("fq") String categories);
+    Call<SearchApiResponse> getSearchStories(@Query("q") String query, @Query("fq") String categories);
 
 }

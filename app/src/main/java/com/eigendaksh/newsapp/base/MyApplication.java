@@ -2,17 +2,9 @@ package com.eigendaksh.newsapp.base;
 
 import android.app.Application;
 
-import com.eigendaksh.newsapp.BuildConfig;
-import com.eigendaksh.newsapp.di.ActivityInjector;
-import com.eigendaksh.newsapp.logging.MyDebugTree;
-
-import javax.inject.Inject;
-
-import timber.log.Timber;
 
 public class MyApplication extends Application {
 
-    @Inject ActivityInjector activityInjector;
 
     protected AppComponent appComponent;
 
@@ -22,8 +14,6 @@ public class MyApplication extends Application {
 
         appComponent = initComponent();
         appComponent.inject(this);
-
-        setUpLogging();
     }
 
     protected AppComponent initComponent() {
@@ -33,13 +23,9 @@ public class MyApplication extends Application {
                 .build();
     }
 
-    private void setUpLogging() {
-        if (BuildConfig.DEBUG) {
-            Timber.plant(new MyDebugTree());
-        }
+    public AppComponent getAppComponent() {
+        return appComponent;
     }
 
-    public ActivityInjector getActivityInjector() {
-        return activityInjector;
-    }
+
 }
