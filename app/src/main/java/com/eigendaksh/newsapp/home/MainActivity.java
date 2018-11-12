@@ -1,22 +1,30 @@
 package com.eigendaksh.newsapp.home;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.design.widget.BottomNavigationView;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
+import android.view.Menu;
+import android.view.MenuItem;
 
 import com.eigendaksh.newsapp.R;
+import com.eigendaksh.newsapp.article.WebViewActivity;
 import com.eigendaksh.newsapp.base.BaseActivity;
+import com.eigendaksh.newsapp.home.adapter.StoriesAdapter;
 import com.eigendaksh.newsapp.home.businessnews.BusinessNewsFragment;
 import com.eigendaksh.newsapp.home.sportsnews.SportsNewsFragment;
-import com.eigendaksh.newsapp.home.topnews.TopNewsFragment;
+import com.eigendaksh.newsapp.home.topnews.WorldNewsFragment;
 import com.eigendaksh.newsapp.home.trendingnews.TrendingNewsFragment;
 
+import butterknife.BindView;
 
-public class MainActivity extends BaseActivity {
 
+public class MainActivity extends BaseActivity implements StoriesAdapter.OnStoryClickedListener {
+
+    @BindView(R.id.navigation)
     BottomNavigationView bottomNavigationView;
 
     private static final String SELECTED_INDEX_KEY = "selected_index";
@@ -37,7 +45,6 @@ public class MainActivity extends BaseActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        bottomNavigationView = findViewById(R.id.navigation);
 
         fragmentManager = getSupportFragmentManager();
 
@@ -59,7 +66,7 @@ public class MainActivity extends BaseActivity {
                 tag = TOP_NEWS_TAG;
                 fragment = fragmentManager.findFragmentByTag(TOP_NEWS_TAG);
                 if (fragment == null) {
-                    fragment = TopNewsFragment.newInstance();
+                    fragment = WorldNewsFragment.newInstance();
                 }
                 break;
             case 1:
@@ -96,7 +103,7 @@ public class MainActivity extends BaseActivity {
             switch (menuItem.getItemId()) {
                 case R.id.action_top:
                     Fragment fragmentTop = fragmentManager.findFragmentByTag(TOP_NEWS_TAG);
-                    if (fragmentTop == null) fragmentTop = TopNewsFragment.newInstance();
+                    if (fragmentTop == null) fragmentTop = WorldNewsFragment.newInstance();
                     changeFragment(fragmentTop, TOP_NEWS_TAG);
                     return true;
                 case R.id.action_trending:
@@ -167,10 +174,45 @@ public class MainActivity extends BaseActivity {
         super.onSaveInstanceState(outState);
     }
 
+    // Inflate the menu : this adds items to the action bar if it is present
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.menu_main, menu);
+        return true;
+    }
+
+    // Handle action bar item clicks here. The action bar will automatically handle clicks on the Home/Up button
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case R.id.search_item:
+                //Intent intent = new Intent(MainActivity.this, SearchActivity.class);
+                //startActivity(intent);
+                return true;
+            case R.id.settings_notifications:
+                //intent = new Intent(MainActivity.this, NotificationsActivity.class);
+                //startActivity(intent);
+                return true;
+            case R.id.settings_help:
+                return true;
+            case R.id.settings_about:
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
+
+
     @Override
     protected int layoutRes() {
         return R.layout.activity_main;
     }
 
 
+    @Override
+    public void onItemClicked(String url) {
+        Intent intent = new Intent(MainActivity.this, WebViewActivity.class);
+        intent.putExtra("article_url", url);
+        startActivity(intent);
+    }
 }

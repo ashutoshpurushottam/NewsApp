@@ -25,9 +25,11 @@ import butterknife.ButterKnife;
 
 public class StoriesAdapter extends RecyclerView.Adapter<StoriesAdapter.NewsViewHolder> {
 
+    private final OnStoryClickedListener listener;
     private final List<Story> data = new ArrayList<>();
 
-    public StoriesAdapter() {
+    public StoriesAdapter(OnStoryClickedListener listener) {
+        this.listener = listener;
     }
 
     @NonNull
@@ -35,7 +37,7 @@ public class StoriesAdapter extends RecyclerView.Adapter<StoriesAdapter.NewsView
     public NewsViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         View itemView = LayoutInflater.from(parent.getContext()).inflate(R.layout.list_item_news,
                 parent, false);
-        return new NewsViewHolder(itemView);
+        return new NewsViewHolder(itemView, listener);
     }
 
     @Override
@@ -71,9 +73,11 @@ public class StoriesAdapter extends RecyclerView.Adapter<StoriesAdapter.NewsView
 
         private Story story;
 
-        NewsViewHolder(View itemView) {
+        NewsViewHolder(View itemView, OnStoryClickedListener listener) {
             super(itemView);
             ButterKnife.bind(this, itemView);
+
+            itemView.setOnClickListener(v -> listener.onItemClicked(story.articleUrl()));
 
             /*
             itemView.setOnClickListener(view -> listener.onStoryClicked(itemView.getContext(),
@@ -99,5 +103,9 @@ public class StoriesAdapter extends RecyclerView.Adapter<StoriesAdapter.NewsView
                     .into(newsImage);
         }
 
+    }
+
+    public interface OnStoryClickedListener {
+        void onItemClicked(String url);
     }
 }

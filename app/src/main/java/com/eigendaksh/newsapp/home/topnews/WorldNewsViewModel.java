@@ -15,7 +15,7 @@ import io.reactivex.disposables.Disposable;
 import io.reactivex.schedulers.Schedulers;
 import timber.log.Timber;
 
-public class TopNewsViewModel extends ViewModel {
+public class WorldNewsViewModel extends ViewModel {
 
     private final MutableLiveData<List<Story>> topStories = new MutableLiveData<>();
     private final MutableLiveData<Boolean> topStoriesLoadError = new MutableLiveData<>();
@@ -23,7 +23,7 @@ public class TopNewsViewModel extends ViewModel {
     private Disposable disposable;
 
 
-    public TopNewsViewModel() {
+    public WorldNewsViewModel() {
         loadTopStories();
     }
 

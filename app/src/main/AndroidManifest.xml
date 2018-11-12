@@ -20,7 +20,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".article.WebViewActivity" />
-        <activity android:name=".search.SearchActivity"></activity>
+        <activity android:name=".search.SearchActivity" />
     </application>
 
 </manifest>

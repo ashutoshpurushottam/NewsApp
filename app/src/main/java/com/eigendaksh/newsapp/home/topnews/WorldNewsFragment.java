@@ -21,30 +21,30 @@ import butterknife.BindView;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class TopNewsFragment extends BaseFragment {
+public class WorldNewsFragment extends BaseFragment {
 
 
     @BindView(R.id.news_list) RecyclerView newsList;
     @BindView(R.id.loading_indicator) View loadingView;
     @BindView(R.id.tv_error) TextView errorText;
 
-    private TopNewsViewModel viewModel;
+    private WorldNewsViewModel viewModel;
 
-    public TopNewsFragment() {
+    public WorldNewsFragment() {
         // Required empty public constructor
     }
 
-    public static TopNewsFragment newInstance() {
-        return new TopNewsFragment();
+    public static WorldNewsFragment newInstance() {
+        return new WorldNewsFragment();
     }
 
     @Override
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
-        viewModel = ViewModelProviders.of(this).get(TopNewsViewModel.class);
+        viewModel = ViewModelProviders.of(this).get(WorldNewsViewModel.class);
         newsList.addItemDecoration(new DividerItemDecoration(view.getContext(), DividerItemDecoration.VERTICAL));
         newsList.setLayoutManager(new LinearLayoutManager(view.getContext()));
-        newsList.setAdapter(new StoriesAdapter());
+        newsList.setAdapter(new StoriesAdapter(((StoriesAdapter.OnStoryClickedListener) getActivity())));
         observeViewModel();
     }
 
