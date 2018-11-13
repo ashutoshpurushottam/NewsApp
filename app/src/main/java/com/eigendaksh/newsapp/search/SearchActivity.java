@@ -20,12 +20,21 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.eigendaksh.newsapp.R;
+import com.eigendaksh.newsapp.apiResponses.SearchApiResponse;
 import com.eigendaksh.newsapp.base.BaseActivity;
+import com.eigendaksh.newsapp.data.NewsApi;
 
 import java.util.ArrayList;
 import java.util.Calendar;
+import java.util.Timer;
 
 import butterknife.BindView;
+import io.reactivex.Scheduler;
+import io.reactivex.Single;
+import io.reactivex.android.schedulers.AndroidSchedulers;
+import io.reactivex.functions.Consumer;
+import io.reactivex.schedulers.Schedulers;
+import timber.log.Timber;
 
 
 public class SearchActivity extends BaseActivity implements DatePickerDialog.OnDateSetListener{
@@ -46,8 +55,6 @@ public class SearchActivity extends BaseActivity implements DatePickerDialog.OnD
     ArrayList<CheckBox> searchSubjectCheckBoxes; //an arraylist to hold all the search activities check boxes
 
     private boolean isFromDateSelected;
-    private boolean isToDateSelected;
-
 
 
 
@@ -71,8 +78,6 @@ public class SearchActivity extends BaseActivity implements DatePickerDialog.OnD
 
         fromDate.setOnClickListener(v -> {
             isFromDateSelected = true;
-            isToDateSelected = false;
-
             final Calendar c = Calendar.getInstance();
             DatePickerFragment datePicker = DatePickerFragment.newInstance(
                     c.get(Calendar.YEAR),
@@ -85,7 +90,6 @@ public class SearchActivity extends BaseActivity implements DatePickerDialog.OnD
 
         toDate.setOnClickListener(v -> {
             isFromDateSelected = false;
-            isToDateSelected = true;
             final Calendar c = Calendar.getInstance();
             DatePickerFragment datePicker = DatePickerFragment.newInstance(
                     c.get(Calendar.YEAR),
@@ -94,6 +98,38 @@ public class SearchActivity extends BaseActivity implements DatePickerDialog.OnD
             datePicker.setListener(this);
             datePicker.show(getSupportFragmentManager(), null);
         });
+
+        searchButton.setOnClickListener(v -> {
+            makeTestCallForSearch();
+        });
+
+    }
+
+    @SuppressLint("CheckResult")
+    private void makeTestCallForSearch() {
+        Single<SearchApiResponse> searchStories = NewsApi.getInstance().getSearchStories(
+                "president",
+                "news_desk:(\"Arts\" \"Business\" \"Entrepreneurs\")",
+                "20180901",
+                "20181110",
+                "oldest");
+
+        searchStories.subscribeOn(Schedulers.io())
+                .observeOn(AndroidSchedulers.mainThread())
+                .subscribe(new Consumer<SearchApiResponse>() {
+                    @Override
+                    public void accept(SearchApiResponse searchApiResponse) throws Exception {
+                        showToast(searchApiResponse.searchResponseWrapper().searchDocumentList().size() + "");
+
+                    }
+                }, new Consumer<Throwable>() {
+                    @Override
+                    public void accept(Throwable throwable) throws Exception {
+                        showToast(throwable.getLocalizedMessage());
+
+                    }
+                });
+
 
     }
 

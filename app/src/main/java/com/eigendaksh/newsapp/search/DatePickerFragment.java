@@ -3,8 +3,11 @@ package com.eigendaksh.newsapp.search;
 import android.app.DatePickerDialog;
 import android.app.Dialog;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.app.DialogFragment;
+
+import java.util.Objects;
 
 public class DatePickerFragment extends DialogFragment {
 
@@ -42,9 +45,10 @@ public class DatePickerFragment extends DialogFragment {
         }
     }
 
+    @NonNull
     @Override
     public Dialog onCreateDialog(final Bundle savedInstanceState) {
-        return new DatePickerDialog(getContext(), this.listener, this.year, this.month, this.dayOfMonth);
+        return new DatePickerDialog(Objects.requireNonNull(getContext()), this.listener, this.year, this.month, this.dayOfMonth);
     }
 
     public void setListener(final DatePickerDialog.OnDateSetListener listener) {

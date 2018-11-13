@@ -31,7 +31,13 @@ public interface NewsService {
     @GET("topstories/v2/sports.json?api-key=a27a66145d4542d28a719cecee6de859")
     Single<StoriesApiResponse> getSportsStories();
 
-    @GET("search/v2/articlesearch.json?&begin_date=20180701&end_date=20180925&sort=newest&page=1&api-key=a27a66145d4542d28a719cecee6de859")
-    Call<SearchApiResponse> getSearchStories(@Query("q") String query, @Query("fq") String categories);
+    @GET("search/v2/articlesearch.json?api-key=a27a66145d4542d28a719cecee6de859")
+    Single<SearchApiResponse> getSearchStories(
+            @Query("q") String query,
+            @Query("fq") String categories,
+            @Query("begin_date") String beginDate,
+            @Query("end_date") String endDate,
+            @Query("sort") String sortingOrder
+    );
 
 }
