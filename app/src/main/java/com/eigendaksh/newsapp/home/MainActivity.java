@@ -18,6 +18,7 @@ import com.eigendaksh.newsapp.home.businessnews.BusinessNewsFragment;
 import com.eigendaksh.newsapp.home.sportsnews.SportsNewsFragment;
 import com.eigendaksh.newsapp.home.worldnews.WorldNewsFragment;
 import com.eigendaksh.newsapp.home.trendingnews.TrendingNewsFragment;
+import com.eigendaksh.newsapp.search.SearchActivity;
 
 import butterknife.BindView;
 
@@ -186,8 +187,8 @@ public class MainActivity extends BaseActivity implements StoriesAdapter.OnStory
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case R.id.search_item:
-                //Intent intent = new Intent(MainActivity.this, SearchActivity.class);
-                //startActivity(intent);
+                Intent intent = new Intent(MainActivity.this, SearchActivity.class);
+                startActivity(intent);
                 return true;
             case R.id.settings_notifications:
                 //intent = new Intent(MainActivity.this, NotificationsActivity.class);
