@@ -1,4 +1,4 @@
-package com.eigendaksh.newsapp.home.topnews;
+package com.eigendaksh.newsapp.home.worldnews;
 
 import android.arch.lifecycle.LiveData;
 import android.arch.lifecycle.MutableLiveData;
@@ -46,18 +46,16 @@ public class WorldNewsViewModel extends ViewModel {
 
         Single<StoriesApiResponse> storyCall = NewsApi.getInstance().getTopStories();
         disposable = storyCall.subscribeOn(Schedulers.io())
-                .doOnSuccess(storiesApiResponse -> {
+                .observeOn(Schedulers.io())
+                .subscribe(storiesApiResponse -> {
                     topStoriesLoadError.postValue(false);
-                    this.topStories.postValue(storiesApiResponse.stories());
+                    topStories.postValue(storiesApiResponse.stories());
                     loading.postValue(false);
-                })
-                .doOnError(throwable -> {
+                }, throwable -> {
                     Timber.e(throwable.getLocalizedMessage());
                     topStoriesLoadError.postValue(true);
                     loading.postValue(false);
-                })
-                .observeOn(Schedulers.io())
-                .subscribe();
+                });
 
     }
 

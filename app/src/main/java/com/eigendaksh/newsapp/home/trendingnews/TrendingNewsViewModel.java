@@ -12,6 +12,7 @@ import java.util.List;
 
 import io.reactivex.Single;
 import io.reactivex.disposables.Disposable;
+import io.reactivex.functions.Consumer;
 import io.reactivex.schedulers.Schedulers;
 import timber.log.Timber;
 
@@ -47,18 +48,16 @@ public class TrendingNewsViewModel extends ViewModel {
         Single<PopularStoriesApiResponse> storyCall = NewsApi.getInstance().getPopularStories();
 
         disposable = storyCall.subscribeOn(Schedulers.io())
-                .doOnSuccess(apiResponse -> {
+                .observeOn(Schedulers.io())
+                .subscribe(popularStoriesApiResponse -> {
                     storiesLoadError.postValue(false);
-                    popularStories.postValue(apiResponse.popularStories());
+                    popularStories.postValue(popularStoriesApiResponse.popularStories());
                     loading.postValue(false);
-                })
-                .doOnError(throwable -> {
+                }, throwable -> {
                     Timber.e(throwable.getLocalizedMessage());
                     storiesLoadError.postValue(true);
                     loading.postValue(false);
-                })
-                .observeOn(Schedulers.io())
-                .subscribe();
+                });
 
     }
 

@@ -1,4 +1,4 @@
-package com.eigendaksh.newsapp.home.topnews;
+package com.eigendaksh.newsapp.home.worldnews;
 
 
 import android.arch.lifecycle.ViewModelProviders;
