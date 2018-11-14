@@ -25,4 +25,5 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="nyt_article">NYT Article</string>
     <string name="menu_world">World</string>
+    <string name="search_msg">Please enter some search term and select at least one checkbox.</string>
 </resources>

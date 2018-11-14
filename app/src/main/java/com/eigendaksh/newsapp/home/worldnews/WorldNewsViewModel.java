@@ -46,7 +46,6 @@ public class WorldNewsViewModel extends ViewModel {
 
         Single<StoriesApiResponse> storyCall = NewsApi.getInstance().getTopStories();
         disposable = storyCall.subscribeOn(Schedulers.io())
-                .observeOn(Schedulers.io())
                 .subscribe(storiesApiResponse -> {
                     topStoriesLoadError.postValue(false);
                     topStories.postValue(storiesApiResponse.stories());

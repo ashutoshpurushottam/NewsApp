@@ -47,7 +47,6 @@ public class BusinessNewsViewModel extends ViewModel {
 
         Single<StoriesApiResponse> storyCall = NewsApi.getInstance().getBusinessStories();
         disposable = storyCall.subscribeOn(Schedulers.io())
-                .observeOn(Schedulers.io())
                 .subscribe(storiesApiResponse -> {
                     storiesLoadError.postValue(false);
                     businessStories.postValue(storiesApiResponse.stories());

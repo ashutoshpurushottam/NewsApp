@@ -21,6 +21,7 @@
         </activity>
         <activity android:name=".article.WebViewActivity" />
         <activity android:name=".search.SearchActivity" />
+        <activity android:name=".searchresults.SearchResultsActivity"></activity>
     </application>
 
 </manifest>

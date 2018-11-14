@@ -48,7 +48,6 @@ public class TrendingNewsViewModel extends ViewModel {
         Single<PopularStoriesApiResponse> storyCall = NewsApi.getInstance().getPopularStories();
 
         disposable = storyCall.subscribeOn(Schedulers.io())
-                .observeOn(Schedulers.io())
                 .subscribe(popularStoriesApiResponse -> {
                     storiesLoadError.postValue(false);
                     popularStories.postValue(popularStoriesApiResponse.popularStories());

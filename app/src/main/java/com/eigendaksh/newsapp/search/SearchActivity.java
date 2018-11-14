@@ -4,6 +4,7 @@ package com.eigendaksh.newsapp.search;
 import android.annotation.SuppressLint;
 import android.app.DatePickerDialog;
 import android.app.Dialog;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.DialogFragment;
@@ -23,9 +24,18 @@ import com.eigendaksh.newsapp.R;
 import com.eigendaksh.newsapp.apiResponses.SearchApiResponse;
 import com.eigendaksh.newsapp.base.BaseActivity;
 import com.eigendaksh.newsapp.data.NewsApi;
+import com.eigendaksh.newsapp.searchresults.SearchResultsActivity;
 
+import org.threeten.bp.LocalDate;
+import org.threeten.bp.LocalDateTime;
+import org.threeten.bp.ZoneOffset;
+
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
+import java.util.Date;
+import java.util.Locale;
 import java.util.Timer;
 
 import butterknife.BindView;
@@ -37,26 +47,38 @@ import io.reactivex.schedulers.Schedulers;
 import timber.log.Timber;
 
 
-public class SearchActivity extends BaseActivity implements DatePickerDialog.OnDateSetListener{
+public class SearchActivity extends BaseActivity implements DatePickerDialog.OnDateSetListener {
 
-    @BindView(R.id.fromDate) TextView fromDate; //the from date text view of the search activity
-    @BindView(R.id.toDate) TextView toDate; //the to date text view of the search activity
-    @BindView(R.id.searchButton) Button searchButton; //the search button of the search activity
-    @BindView(R.id.artsCheckBox) CheckBox artsCheckBox; //the arts checkbox of the search activity
-    @BindView(R.id.businessCheckBox) CheckBox businessCheckBox; //the business check box of the search activity
-    @BindView(R.id.entrepreneursCheckBox) CheckBox entrepreneursCheckBox; //the entrepreneurs check box of the search activity
-    @BindView(R.id.politicsCheckBox) CheckBox politicsCheckBox; //the politics check box of the search activity
-    @BindView(R.id.sportsCheckBox) CheckBox sportsCheckBox; //the sports check box of the search activity
-    @BindView(R.id.travelCheckBox) CheckBox travelCheckBox; //the travel check box of the search activity
-    @BindView(R.id.notificationSearchTerm) EditText searchTermText; //the search term text view of the search activity
-    @BindView(R.id.sortSwitch) Switch sortSwitch; //the switch to determine sorting order
-    @BindView(R.id.progressBar) ProgressBar progressBar; //the progress bar to be displayed as data is being asynchronously downloaded
-    ArrayList data; //array list to hold the downloaded data
-    ArrayList<CheckBox> searchSubjectCheckBoxes; //an arraylist to hold all the search activities check boxes
+    @BindView(R.id.fromDate)
+    TextView fromDate;
+    @BindView(R.id.toDate)
+    TextView toDate;
+    @BindView(R.id.searchButton)
+    Button searchButton;
+    @BindView(R.id.artsCheckBox)
+    CheckBox artsCheckBox;
+    @BindView(R.id.businessCheckBox)
+    CheckBox businessCheckBox;
+    @BindView(R.id.entrepreneursCheckBox)
+    CheckBox entrepreneursCheckBox;
+    @BindView(R.id.politicsCheckBox)
+    CheckBox politicsCheckBox;
+    @BindView(R.id.sportsCheckBox)
+    CheckBox sportsCheckBox;
+    @BindView(R.id.travelCheckBox)
+    CheckBox travelCheckBox;
+    @BindView(R.id.notificationSearchTerm)
+    EditText searchTermText;
+    @BindView(R.id.sortSwitch)
+    Switch sortSwitch;
+    @BindView(R.id.progressBar)
+    ProgressBar progressBar;
+    ArrayList<CheckBox> searchSubjectCheckBoxes;
 
     private boolean isFromDateSelected;
-
-
+    private String categoriesText;
+    private String beginDate;
+    private String endDate;
 
     @Override
     protected int layoutRes() {
@@ -100,46 +122,70 @@ public class SearchActivity extends BaseActivity implements DatePickerDialog.OnD
         });
 
         searchButton.setOnClickListener(v -> {
-            makeTestCallForSearch();
+            if (goToSearch()) {
+                StringBuilder sb = new StringBuilder();
+                sb.append("news_desk:(");
+                for (CheckBox checkBox : searchSubjectCheckBoxes) {
+                    if (checkBox.isChecked()) {
+                        sb.append("\"").append(checkBox.getText().toString()).append("\"");
+                    }
+                }
+                sb.append(")");
+                categoriesText = sb.toString();
+
+                showSearchResults(
+                        searchTermText.getText().toString(),
+                        categoriesText,
+                        beginDate,
+                        endDate
+                );
+
+
+            } else {
+                showToast(getString(R.string.search_msg));
+            }
+
         });
 
+        Calendar c = Calendar.getInstance();
+        beginDate = String.format(Locale.getDefault(), "%d%02d%02d", c.get(Calendar.YEAR) - 1, c.get(Calendar.MONTH) + 1, c.get(Calendar.DATE));
+        endDate = String.format(Locale.getDefault(), "%d%02d%02d", c.get(Calendar.YEAR), c.get(Calendar.MONTH) + 1, c.get(Calendar.DATE));
+        showToast("b: " + beginDate + " e: " + endDate);
     }
 
-    @SuppressLint("CheckResult")
-    private void makeTestCallForSearch() {
-        Single<SearchApiResponse> searchStories = NewsApi.getInstance().getSearchStories(
-                "president",
-                "news_desk:(\"Arts\" \"Business\" \"Entrepreneurs\")",
-                "20180901",
-                "20181110",
-                "oldest");
+    private boolean goToSearch() {
+        String searchTerm = searchTermText.getText().toString();
+        for (CheckBox checkBox : searchSubjectCheckBoxes) {
+            if (checkBox.isChecked() && !searchTerm.isEmpty()) {
+                return true;
+            }
+        }
 
-        searchStories.subscribeOn(Schedulers.io())
-                .observeOn(AndroidSchedulers.mainThread())
-                .subscribe(new Consumer<SearchApiResponse>() {
-                    @Override
-                    public void accept(SearchApiResponse searchApiResponse) throws Exception {
-                        showToast(searchApiResponse.searchResponseWrapper().searchDocumentList().size() + "");
-
-                    }
-                }, new Consumer<Throwable>() {
-                    @Override
-                    public void accept(Throwable throwable) throws Exception {
-                        showToast(throwable.getLocalizedMessage());
-
-                    }
-                });
-
-
+        return false;
     }
+
 
 
     @Override
     public void onDateSet(DatePicker view, int year, int month, int dayOfMonth) {
-        if(isFromDateSelected) {
-            showToast("From date: " + dayOfMonth + "/" + month + "/" + year);
+        if (isFromDateSelected) {
+            fromDate.setText(String.format(Locale.getDefault(), "%d/%d/%d", dayOfMonth, month + 1, year));
+            beginDate = String.format(Locale.getDefault(), "%d%02d%02d", year, month + 1, dayOfMonth);
         } else {
-            showToast("To date: " + dayOfMonth + "/" + month + "/" + year);
+            toDate.setText(String.format(Locale.US, "%d/%d/%d", dayOfMonth, month + 1, year));
+            endDate = String.format(Locale.getDefault(), "%d%02d%02d", year, month + 1, dayOfMonth);
         }
+    }
+
+    private void showSearchResults(String query, String categories, String beginDate, String endDate) {
+        Intent intent = new Intent(this, SearchResultsActivity.class);
+        Bundle bundle = new Bundle();
+        bundle.putString("query", query);
+        bundle.putString("categories", categories);
+        bundle.putString("begin", beginDate);
+        bundle.putString("end", endDate);
+        intent.putExtras(bundle);
+        startActivity(intent);
+
     }
 }
