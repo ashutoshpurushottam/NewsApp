@@ -79,11 +79,6 @@ public class StoriesAdapter extends RecyclerView.Adapter<StoriesAdapter.NewsView
 
             itemView.setOnClickListener(v -> listener.onItemClicked(story.articleUrl()));
 
-            /*
-            itemView.setOnClickListener(view -> listener.onStoryClicked(itemView.getContext(),
-                    story.articleUrl()));
-            */
-
         }
 
         void bind(Story story) {

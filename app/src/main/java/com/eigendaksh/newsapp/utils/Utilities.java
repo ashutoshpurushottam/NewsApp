@@ -17,6 +17,10 @@ public class Utilities {
         return DateTimeFormatter.ofPattern("dd MMM").format(story.updatedDate());
     }
 
+    public static String getDateFromSearchStory(SearchDocument searchDocument) {
+        return searchDocument.publishedDate();
+    }
+
     public static String getDateFromSearchDocument(SearchDocument searchDocument) {
         try {
             return searchDocument.publishedDate().split("T")[0];
@@ -54,6 +58,16 @@ public class Utilities {
             Timber.d(e.getLocalizedMessage());
             return "";
         }
+    }
+
+    public static String getImageFromUrlFromSearchDocument(SearchDocument searchDocument) {
+        try {
+            return searchDocument.multimediaObjectList().get(0).imageUrl();
+        } catch (NullPointerException e) {
+            Timber.d(e.getLocalizedMessage());
+            return "";
+        }
+
     }
 
 }

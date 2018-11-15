@@ -1,9 +1,7 @@
-package com.eigendaksh.newsapp.home.trendingnews;
+package com.eigendaksh.newsapp.searchresults;
 
 import android.arch.lifecycle.LifecycleOwner;
-import android.arch.lifecycle.Observer;
 import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
 import android.support.v7.util.DiffUtil;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -17,7 +15,12 @@ import com.bumptech.glide.Priority;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.bumptech.glide.request.RequestOptions;
 import com.eigendaksh.newsapp.R;
+import com.eigendaksh.newsapp.home.adapter.StoriesAdapter;
+import com.eigendaksh.newsapp.home.trendingnews.PopularStoriesAdapter;
+import com.eigendaksh.newsapp.home.trendingnews.PopularStoryDiffCallBack;
+import com.eigendaksh.newsapp.home.trendingnews.TrendingNewsViewModel;
 import com.eigendaksh.newsapp.model.popular.PopularStory;
+import com.eigendaksh.newsapp.model.search.SearchDocument;
 import com.eigendaksh.newsapp.utils.Utilities;
 
 import java.util.ArrayList;
@@ -26,26 +29,27 @@ import java.util.List;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
-public class PopularStoriesAdapter extends RecyclerView.Adapter<PopularStoriesAdapter
+public class SearchStoriesAdapter extends RecyclerView.Adapter<SearchStoriesAdapter
         .NewsViewHolder> {
 
-    private final List<PopularStory> data = new ArrayList<>();
+    private final StoriesAdapter.OnStoryClickedListener listener;
+    private final List<SearchDocument> data = new ArrayList<>();
 
-    PopularStoriesAdapter(TrendingNewsViewModel viewModel, LifecycleOwner owner) {
-        viewModel.getPopularStories().observe(owner, this::setData);
+    SearchStoriesAdapter(StoriesAdapter.OnStoryClickedListener listener) {
+        this.listener = listener;
     }
 
 
     @NonNull
     @Override
-    public NewsViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
+    public SearchStoriesAdapter.NewsViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         View itemView = LayoutInflater.from(parent.getContext()).inflate(R.layout.list_item_news,
                 parent, false);
-        return new NewsViewHolder(itemView);
+        return new SearchStoriesAdapter.NewsViewHolder(itemView, listener);
     }
 
     @Override
-    public void onBindViewHolder(@NonNull NewsViewHolder holder, int position) {
+    public void onBindViewHolder(@NonNull SearchStoriesAdapter.NewsViewHolder holder, int position) {
         holder.bind(data.get(position));
     }
 
@@ -59,9 +63,9 @@ public class PopularStoriesAdapter extends RecyclerView.Adapter<PopularStoriesAd
         return data.get(position).hashCode();
     }
 
-    public void setData(List<PopularStory> stories) {
+    public void setData(List<SearchDocument> stories) {
         if (stories != null) {
-            DiffUtil.DiffResult diffResult = DiffUtil.calculateDiff(new PopularStoryDiffCallBack
+            DiffUtil.DiffResult diffResult = DiffUtil.calculateDiff(new SearchStoryDiffCallBack
                     (data, stories));
             data.clear();
             data.addAll(stories);
@@ -84,30 +88,29 @@ public class PopularStoriesAdapter extends RecyclerView.Adapter<PopularStoriesAd
         @BindView(R.id.list_item_news_text)
         TextView titleText;
 
-        private PopularStory popularStory;
+        private SearchDocument searchDocument;
 
-        NewsViewHolder(View itemView) {
+        NewsViewHolder(View itemView, StoriesAdapter.OnStoryClickedListener listener) {
             super(itemView);
             ButterKnife.bind(this, itemView);
-            /*
-            itemView.setOnClickListener(view -> listener.onStoryClicked(itemView.getContext(),
-                    popularStory.articleUrl()));
-                    */
+
+            itemView.setOnClickListener(v -> listener.onItemClicked(searchDocument.webUrl()));
+
 
         }
 
-        void bind(PopularStory popularStory) {
-            this.popularStory = popularStory;
-            titleText.setText(popularStory.title());
-            dateText.setText(Utilities.getDateFromPopularStory(popularStory));
-            sectionText.setText(popularStory.section());
+        void bind(SearchDocument searchDocument) {
+            this.searchDocument = searchDocument;
+            titleText.setText(searchDocument.searchHeadline().mainHeadline());
+            dateText.setText(Utilities.getDateFromSearchDocument(searchDocument));
+            sectionText.setText(searchDocument.sectionName());
             RequestOptions options = new RequestOptions()
                     .centerCrop()
                     .placeholder(R.drawable.ic_paper)
                     .diskCacheStrategy(DiskCacheStrategy.ALL)
                     .priority(Priority.NORMAL);
             Glide.with(newsImage.getContext())
-                    .load(Utilities.getImageUrlFromPopularStory(popularStory))
+                    .load(Utilities.getImageFromUrlFromSearchDocument(searchDocument))
                     .apply(options)
                     .into(newsImage);
         }
