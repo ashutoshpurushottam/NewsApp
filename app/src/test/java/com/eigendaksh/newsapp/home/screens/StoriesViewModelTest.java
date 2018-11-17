@@ -1,18 +1,5 @@
 package com.eigendaksh.newsapp.home.screens;
 
-import com.eigendaksh.newsapp.R;
-import com.eigendaksh.newsapp.apiResponses.PopularStoriesApiResponse;
-import com.eigendaksh.newsapp.apiResponses.StoriesApiResponse;
-import com.eigendaksh.newsapp.testutils.TestUtils;
-
-import org.junit.Before;
-import org.junit.Test;
-
-import java.io.IOException;
-import java.util.Collections;
-
-import io.reactivex.observers.TestObserver;
-
 public class StoriesViewModelTest {
 
 //    private StoriesViewModel storiesViewModel;

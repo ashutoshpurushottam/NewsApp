@@ -1,18 +1,6 @@
 package com.eigendaksh.newsapp.data;
 
-import com.eigendaksh.newsapp.apiResponses.PopularStoriesApiResponse;
-import com.eigendaksh.newsapp.apiResponses.StoriesApiResponse;
-import com.eigendaksh.newsapp.model.others.Story;
-import com.eigendaksh.newsapp.model.popular.PopularStory;
-import com.eigendaksh.newsapp.model.search.SearchDocument;
-
-import java.util.List;
-
 import javax.inject.Inject;
-
-import io.reactivex.Single;
-import io.reactivex.schedulers.Schedulers;
-import timber.log.Timber;
 
 public class NewsRequester {
 

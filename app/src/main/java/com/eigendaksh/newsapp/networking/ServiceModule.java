@@ -1,7 +1,5 @@
 package com.eigendaksh.newsapp.networking;
 
-import com.eigendaksh.newsapp.model.AdapterFactory;
-import com.eigendaksh.newsapp.model.ZonedDateTimeAdapter;
 import com.squareup.moshi.Moshi;
 
 import javax.inject.Named;
@@ -17,14 +15,6 @@ import retrofit2.converter.moshi.MoshiConverterFactory;
 @Module(includes = NetworkModule.class)
 public abstract class ServiceModule {
 
-    @Provides
-    @Singleton
-    static Moshi provideMoshi() {
-        return new Moshi.Builder()
-                .add(AdapterFactory.create())
-                .add(new ZonedDateTimeAdapter())
-                .build();
-    }
 
     @Provides
     @Singleton

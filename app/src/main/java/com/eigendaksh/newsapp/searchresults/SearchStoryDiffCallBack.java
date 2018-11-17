@@ -2,7 +2,6 @@ package com.eigendaksh.newsapp.searchresults;
 
 import android.support.v7.util.DiffUtil;
 
-import com.eigendaksh.newsapp.model.popular.PopularStory;
 import com.eigendaksh.newsapp.model.search.SearchDocument;
 
 import java.util.List;

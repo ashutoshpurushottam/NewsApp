@@ -4,13 +4,13 @@ import android.arch.lifecycle.LiveData;
 import android.arch.lifecycle.MutableLiveData;
 import android.arch.lifecycle.ViewModel;
 
-import com.eigendaksh.newsapp.apiResponses.StoriesApiResponse;
-import com.eigendaksh.newsapp.data.NewsApi;
+import com.eigendaksh.newsapp.data.NewsService;
 import com.eigendaksh.newsapp.model.others.Story;
 
 import java.util.List;
 
-import io.reactivex.Single;
+import javax.inject.Inject;
+
 import io.reactivex.disposables.Disposable;
 import io.reactivex.schedulers.Schedulers;
 import timber.log.Timber;
@@ -20,10 +20,14 @@ public class WorldNewsViewModel extends ViewModel {
     private final MutableLiveData<List<Story>> topStories = new MutableLiveData<>();
     private final MutableLiveData<Boolean> topStoriesLoadError = new MutableLiveData<>();
     private final MutableLiveData<Boolean> loading = new MutableLiveData<>();
+    private final NewsService newsService;
+
     private Disposable disposable;
 
 
-    public WorldNewsViewModel() {
+    @Inject
+    public WorldNewsViewModel(NewsService newsService) {
+        this.newsService = newsService;
         loadTopStories();
     }
 
@@ -44,8 +48,7 @@ public class WorldNewsViewModel extends ViewModel {
     private void loadTopStories() {
         loading.setValue(true);
 
-        Single<StoriesApiResponse> storyCall = NewsApi.getInstance().getTopStories();
-        disposable = storyCall.subscribeOn(Schedulers.io())
+        disposable = newsService.getTopStories().subscribeOn(Schedulers.io())
                 .subscribe(storiesApiResponse -> {
                     topStoriesLoadError.postValue(false);
                     topStories.postValue(storiesApiResponse.stories());

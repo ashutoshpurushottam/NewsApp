@@ -4,15 +4,14 @@ import android.arch.lifecycle.LiveData;
 import android.arch.lifecycle.MutableLiveData;
 import android.arch.lifecycle.ViewModel;
 
-import com.eigendaksh.newsapp.apiResponses.StoriesApiResponse;
-import com.eigendaksh.newsapp.data.NewsApi;
+import com.eigendaksh.newsapp.data.NewsService;
 import com.eigendaksh.newsapp.model.others.Story;
 
 import java.util.List;
 
-import io.reactivex.Single;
+import javax.inject.Inject;
+
 import io.reactivex.disposables.Disposable;
-import io.reactivex.functions.Consumer;
 import io.reactivex.schedulers.Schedulers;
 import timber.log.Timber;
 
@@ -21,10 +20,13 @@ public class BusinessNewsViewModel extends ViewModel {
     private final MutableLiveData<List<Story>> businessStories = new MutableLiveData<>();
     private final MutableLiveData<Boolean> storiesLoadError = new MutableLiveData<>();
     private final MutableLiveData<Boolean> loading = new MutableLiveData<>();
+    private final NewsService newsService;
+
     private Disposable disposable;
 
-
-    public BusinessNewsViewModel() {
+    @Inject
+    public BusinessNewsViewModel(NewsService newsService) {
+        this.newsService = newsService;
         loadBusinessStories();
     }
 
@@ -45,8 +47,7 @@ public class BusinessNewsViewModel extends ViewModel {
     private void loadBusinessStories() {
         loading.setValue(true);
 
-        Single<StoriesApiResponse> storyCall = NewsApi.getInstance().getBusinessStories();
-        disposable = storyCall.subscribeOn(Schedulers.io())
+        disposable = newsService.getBusinessStories().subscribeOn(Schedulers.io())
                 .subscribe(storiesApiResponse -> {
                     storiesLoadError.postValue(false);
                     businessStories.postValue(storiesApiResponse.stories());

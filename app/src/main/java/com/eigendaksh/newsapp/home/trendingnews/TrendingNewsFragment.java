@@ -2,6 +2,7 @@ package com.eigendaksh.newsapp.home.trendingnews;
 
 
 import android.arch.lifecycle.ViewModelProviders;
+import android.content.Context;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
@@ -14,6 +15,10 @@ import android.widget.TextView;
 
 import com.eigendaksh.newsapp.R;
 import com.eigendaksh.newsapp.base.BaseFragment;
+import com.eigendaksh.newsapp.base.MyApplication;
+import com.eigendaksh.newsapp.viewmodel.ViewModelFactory;
+
+import javax.inject.Inject;
 
 import butterknife.BindView;
 
@@ -21,6 +26,8 @@ import butterknife.BindView;
  * A simple {@link Fragment} subclass.
  */
 public class TrendingNewsFragment extends BaseFragment {
+
+    @Inject ViewModelFactory viewModelFactory;
 
     @BindView(R.id.news_list) RecyclerView newsList;
     @BindView(R.id.loading_indicator) View loadingView;
@@ -33,14 +40,21 @@ public class TrendingNewsFragment extends BaseFragment {
         // Required empty public constructor
     }
 
+
     public static TrendingNewsFragment newInstance() {
         return new TrendingNewsFragment();
     }
 
     @Override
+    public void onAttach(Context context) {
+        super.onAttach(context);
+        MyApplication.getAppComponent(context).inject(this);
+    }
+
+    @Override
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
-        viewModel = ViewModelProviders.of(this).get(TrendingNewsViewModel.class);
+        viewModel = ViewModelProviders.of(this, viewModelFactory).get(TrendingNewsViewModel.class);
         newsList.addItemDecoration(new DividerItemDecoration(view.getContext(), DividerItemDecoration.VERTICAL));
         newsList.setLayoutManager(new LinearLayoutManager(view.getContext()));
         newsList.setAdapter(new PopularStoriesAdapter(viewModel, this));

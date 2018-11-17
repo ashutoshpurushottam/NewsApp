@@ -2,11 +2,11 @@ package com.eigendaksh.newsapp.home.sportsnews;
 
 
 import android.arch.lifecycle.ViewModelProviders;
+import android.content.Context;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
-import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.DividerItemDecoration;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
@@ -15,7 +15,11 @@ import android.widget.TextView;
 
 import com.eigendaksh.newsapp.R;
 import com.eigendaksh.newsapp.base.BaseFragment;
+import com.eigendaksh.newsapp.base.MyApplication;
 import com.eigendaksh.newsapp.home.adapter.StoriesAdapter;
+import com.eigendaksh.newsapp.viewmodel.ViewModelFactory;
+
+import javax.inject.Inject;
 
 import butterknife.BindView;
 
@@ -23,6 +27,8 @@ import butterknife.BindView;
  * A simple {@link Fragment} subclass.
  */
 public class SportsNewsFragment extends BaseFragment {
+
+    @Inject ViewModelFactory viewModelFactory;
 
     @BindView(R.id.news_list) RecyclerView newsList;
     @BindView(R.id.loading_indicator) View loadingView;
@@ -40,9 +46,15 @@ public class SportsNewsFragment extends BaseFragment {
     }
 
     @Override
+    public void onAttach(Context context) {
+        super.onAttach(context);
+        MyApplication.getAppComponent(context).inject(this);
+    }
+
+    @Override
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
-        viewModel = ViewModelProviders.of(this).get(SportsNewsViewModel.class);
+        viewModel = ViewModelProviders.of(this, viewModelFactory).get(SportsNewsViewModel.class);
         newsList.addItemDecoration(new DividerItemDecoration(view.getContext(), DividerItemDecoration.VERTICAL));
         newsList.setLayoutManager(new LinearLayoutManager(view.getContext()));
         newsList.setAdapter(new StoriesAdapter(((StoriesAdapter.OnStoryClickedListener) getActivity())));

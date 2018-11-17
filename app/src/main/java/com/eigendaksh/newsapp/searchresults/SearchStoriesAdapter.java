@@ -1,6 +1,5 @@
 package com.eigendaksh.newsapp.searchresults;
 
-import android.arch.lifecycle.LifecycleOwner;
 import android.support.annotation.NonNull;
 import android.support.v7.util.DiffUtil;
 import android.support.v7.widget.RecyclerView;
@@ -16,10 +15,6 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.bumptech.glide.request.RequestOptions;
 import com.eigendaksh.newsapp.R;
 import com.eigendaksh.newsapp.home.adapter.StoriesAdapter;
-import com.eigendaksh.newsapp.home.trendingnews.PopularStoriesAdapter;
-import com.eigendaksh.newsapp.home.trendingnews.PopularStoryDiffCallBack;
-import com.eigendaksh.newsapp.home.trendingnews.TrendingNewsViewModel;
-import com.eigendaksh.newsapp.model.popular.PopularStory;
 import com.eigendaksh.newsapp.model.search.SearchDocument;
 import com.eigendaksh.newsapp.utils.Utilities;
 

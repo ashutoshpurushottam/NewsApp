@@ -4,10 +4,7 @@ import com.eigendaksh.newsapp.apiResponses.PopularStoriesApiResponse;
 import com.eigendaksh.newsapp.apiResponses.SearchApiResponse;
 import com.eigendaksh.newsapp.apiResponses.StoriesApiResponse;
 
-import javax.inject.Singleton;
-
 import io.reactivex.Single;
-import retrofit2.Call;
 import retrofit2.http.GET;
 import retrofit2.http.Query;
 

@@ -1,6 +1,7 @@
 package com.eigendaksh.newsapp.base;
 
 import android.app.Application;
+import android.content.Context;
 
 
 public class MyApplication extends Application {
@@ -11,20 +12,11 @@ public class MyApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-
-        appComponent = initComponent();
-        appComponent.inject(this);
+        appComponent = DaggerAppComponent.create();
     }
 
-    protected AppComponent initComponent() {
-        // Build the component (application level)
-        return DaggerAppComponent.builder()
-                .appModule(new AppModule(this))
-                .build();
-    }
-
-    public AppComponent getAppComponent() {
-        return appComponent;
+    public static AppComponent getAppComponent(Context context) {
+        return ((MyApplication) context.getApplicationContext()).appComponent;
     }
 
 

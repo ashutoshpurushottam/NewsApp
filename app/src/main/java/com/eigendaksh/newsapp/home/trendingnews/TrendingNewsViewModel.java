@@ -4,15 +4,14 @@ import android.arch.lifecycle.LiveData;
 import android.arch.lifecycle.MutableLiveData;
 import android.arch.lifecycle.ViewModel;
 
-import com.eigendaksh.newsapp.apiResponses.PopularStoriesApiResponse;
-import com.eigendaksh.newsapp.data.NewsApi;
+import com.eigendaksh.newsapp.data.NewsService;
 import com.eigendaksh.newsapp.model.popular.PopularStory;
 
 import java.util.List;
 
-import io.reactivex.Single;
+import javax.inject.Inject;
+
 import io.reactivex.disposables.Disposable;
-import io.reactivex.functions.Consumer;
 import io.reactivex.schedulers.Schedulers;
 import timber.log.Timber;
 
@@ -21,10 +20,14 @@ public class TrendingNewsViewModel extends ViewModel {
     private final MutableLiveData<List<PopularStory>> popularStories = new MutableLiveData<>();
     private final MutableLiveData<Boolean> storiesLoadError = new MutableLiveData<>();
     private final MutableLiveData<Boolean> loading = new MutableLiveData<>();
+    private final NewsService newsService;
+
     private Disposable disposable;
 
 
-    public TrendingNewsViewModel() {
+    @Inject
+    public TrendingNewsViewModel(NewsService newsService) {
+        this.newsService = newsService;
         loadPopularStories();
     }
 
@@ -45,9 +48,7 @@ public class TrendingNewsViewModel extends ViewModel {
     private void loadPopularStories() {
         loading.setValue(true);
 
-        Single<PopularStoriesApiResponse> storyCall = NewsApi.getInstance().getPopularStories();
-
-        disposable = storyCall.subscribeOn(Schedulers.io())
+        disposable = newsService.getPopularStories().subscribeOn(Schedulers.io())
                 .subscribe(popularStoriesApiResponse -> {
                     storiesLoadError.postValue(false);
                     popularStories.postValue(popularStoriesApiResponse.popularStories());

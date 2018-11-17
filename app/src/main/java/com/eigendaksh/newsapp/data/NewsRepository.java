@@ -1,17 +1,5 @@
 package com.eigendaksh.newsapp.data;
 
-import com.eigendaksh.newsapp.model.others.Story;
-import com.eigendaksh.newsapp.model.popular.PopularStory;
-import com.eigendaksh.newsapp.model.search.SearchDocument;
-
-import java.util.List;
-
-import javax.inject.Inject;
-import javax.inject.Provider;
-import javax.inject.Singleton;
-
-import io.reactivex.Single;
-
 //@Singleton
 public class NewsRepository {
 //

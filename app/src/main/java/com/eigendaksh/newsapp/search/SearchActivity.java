@@ -1,16 +1,10 @@
 package com.eigendaksh.newsapp.search;
 
 
-import android.annotation.SuppressLint;
 import android.app.DatePickerDialog;
-import android.app.Dialog;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
-import android.support.v4.app.DialogFragment;
-import android.util.Log;
-import android.view.Gravity;
-import android.view.View;
 import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.DatePicker;
@@ -18,33 +12,16 @@ import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.Switch;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.eigendaksh.newsapp.R;
-import com.eigendaksh.newsapp.apiResponses.SearchApiResponse;
 import com.eigendaksh.newsapp.base.BaseActivity;
-import com.eigendaksh.newsapp.data.NewsApi;
 import com.eigendaksh.newsapp.searchresults.SearchResultsActivity;
 
-import org.threeten.bp.LocalDate;
-import org.threeten.bp.LocalDateTime;
-import org.threeten.bp.ZoneOffset;
-
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
-import java.util.Date;
 import java.util.Locale;
-import java.util.Timer;
 
 import butterknife.BindView;
-import io.reactivex.Scheduler;
-import io.reactivex.Single;
-import io.reactivex.android.schedulers.AndroidSchedulers;
-import io.reactivex.functions.Consumer;
-import io.reactivex.schedulers.Schedulers;
-import timber.log.Timber;
 
 
 public class SearchActivity extends BaseActivity implements DatePickerDialog.OnDateSetListener {

@@ -16,8 +16,8 @@ import com.eigendaksh.newsapp.base.BaseActivity;
 import com.eigendaksh.newsapp.home.adapter.StoriesAdapter;
 import com.eigendaksh.newsapp.home.businessnews.BusinessNewsFragment;
 import com.eigendaksh.newsapp.home.sportsnews.SportsNewsFragment;
-import com.eigendaksh.newsapp.home.worldnews.WorldNewsFragment;
 import com.eigendaksh.newsapp.home.trendingnews.TrendingNewsFragment;
+import com.eigendaksh.newsapp.home.worldnews.WorldNewsFragment;
 import com.eigendaksh.newsapp.search.SearchActivity;
 
 import butterknife.BindView;

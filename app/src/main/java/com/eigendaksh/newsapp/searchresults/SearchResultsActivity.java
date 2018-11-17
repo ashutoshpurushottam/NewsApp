@@ -1,12 +1,9 @@
 package com.eigendaksh.newsapp.searchresults;
 
-import android.annotation.SuppressLint;
-import android.arch.lifecycle.Observer;
 import android.arch.lifecycle.ViewModelProviders;
 import android.content.Intent;
-import android.support.annotation.Nullable;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.annotation.Nullable;
 import android.support.v7.widget.DividerItemDecoration;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
@@ -14,26 +11,19 @@ import android.view.View;
 import android.widget.TextView;
 
 import com.eigendaksh.newsapp.R;
-import com.eigendaksh.newsapp.apiResponses.SearchApiResponse;
 import com.eigendaksh.newsapp.article.WebViewActivity;
 import com.eigendaksh.newsapp.base.BaseActivity;
-import com.eigendaksh.newsapp.data.NewsApi;
-import com.eigendaksh.newsapp.home.MainActivity;
+import com.eigendaksh.newsapp.base.MyApplication;
 import com.eigendaksh.newsapp.home.adapter.StoriesAdapter;
-import com.eigendaksh.newsapp.home.businessnews.BusinessNewsViewModel;
-import com.eigendaksh.newsapp.home.trendingnews.PopularStoriesAdapter;
-import com.eigendaksh.newsapp.model.search.SearchDocument;
+import com.eigendaksh.newsapp.viewmodel.ViewModelFactory;
 
-import java.util.List;
+import javax.inject.Inject;
 
 import butterknife.BindView;
-import io.reactivex.Single;
-import io.reactivex.android.schedulers.AndroidSchedulers;
-import io.reactivex.functions.Consumer;
-import io.reactivex.schedulers.Schedulers;
-import timber.log.Timber;
 
 public class SearchResultsActivity extends BaseActivity implements StoriesAdapter.OnStoryClickedListener {
+
+    @Inject ViewModelFactory viewModelFactory;
 
     @BindView(R.id.news_list) RecyclerView newsList;
     @BindView(R.id.loading_indicator) View loadingView;
@@ -45,6 +35,7 @@ public class SearchResultsActivity extends BaseActivity implements StoriesAdapte
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        MyApplication.getAppComponent(this).inject(this);
         Bundle bundle = getIntent().getExtras();
         if(bundle != null) {
             String queryText = bundle.getString("query");
